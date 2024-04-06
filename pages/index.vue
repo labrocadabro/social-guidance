@@ -30,8 +30,8 @@ function reset() {
 	<img src="~/assets/man-sepia.png" class="h-screen absolute left-10" />
 	<img src="~/assets/woman-sepia.png" class="h-screen absolute right-10" />
 	<div class="pt-10 mx-auto w-1/2 text-center">
-		<h1 class="mb-4">Name of this thing</h1>
-		<h2 class="mb-2">Social Guidance from the 1950s</h2>
+		<h1 class="mb-4">Etiquette advice from the 1950s</h1>
+		<h2 class="mb-2">As taught in social guidance films</h2>
 		<NuxtLink to="/about" class="block">What is social guidance?</NuxtLink>
 		<div v-show="loading" class="mt-20">
 			<clock-spinner class="mx-auto" />
