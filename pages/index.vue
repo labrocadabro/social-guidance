@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import questions from "../data/questions";
 const query = ref("");
 const reply = ref("");
 const loading = ref(false);
@@ -23,6 +24,10 @@ async function getReply() {
 function reset() {
 	reply.value = "";
 	query.value = "";
+}
+function randomQuestion() {
+	const randomQ = questions[Math.floor(Math.random() * questions.length)];
+	query.value = randomQ;
 }
 </script>
 
@@ -60,6 +65,12 @@ function reset() {
 					Submit
 				</button>
 			</div>
+			<button
+				class="again block mx-auto bg-accent text-sepia-100 font-accent font-2xl px-5 py-3 rounded-lg mt-20"
+				@click.prevent="randomQuestion"
+			>
+				Random Question
+			</button>
 		</form>
 		<div v-show="reply" class="-mt-10 mx-auto text-left pt-10 reply">
 			<p class="text-lg max-h-[60vh] overflow-scroll no-scrollbar">
