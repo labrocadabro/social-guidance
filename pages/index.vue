@@ -3,24 +3,31 @@ import questions from "../data/questions";
 const query = ref("");
 const reply = ref("");
 const loading = ref(false);
+const error = ref(false);
 const showForm = computed(() => {
 	return !loading.value && reply.value.length === 0;
 });
 async function getReply() {
-	console.log(query.value);
-	loading.value = true;
-	const data = await $fetch("/api/completion", {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/json",
-		},
-		body: { query: query.value },
-	});
-	loading.value = false;
-	if (data) {
-		reply.value = data.reply;
+	try {
+		loading.value = true;
+		error.value = false;
+		const data = await $fetch("/api/completion", {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json",
+			},
+			body: { query: query.value },
+		});
+		loading.value = false;
+		if (data) {
+			reply.value = data.reply;
+		}
+	} catch {
+		error.value = true;
+		loading.value = false;
 	}
 }
+
 function reset() {
 	reply.value = "";
 	query.value = "";
@@ -46,6 +53,9 @@ function randomQuestion() {
 			class="mx-auto w-96 text-left pt-10"
 			v-show="showForm"
 		>
+			<div v-show="error" class="text-red-500 font-bold mb-2">
+				Something went wrong, please try again.
+			</div>
 			<div class="relative">
 				<textarea
 					name="query"

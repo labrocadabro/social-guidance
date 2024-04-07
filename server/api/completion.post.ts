@@ -1,7 +1,6 @@
 export default defineEventHandler(async (event) => {
 	try {
 		const { query } = await readBody(event);
-
 		const options = {
 			method: "POST",
 			headers: {
@@ -23,10 +22,7 @@ export default defineEventHandler(async (event) => {
 			options
 		);
 		const completion = await res.json();
-		console.log(completion);
-
 		const reply = completion.generatedOutput;
-		console.log(reply);
 		return { reply };
 	} catch (e) {
 		console.log(e);
