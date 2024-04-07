@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I show courtesy in my interactions with others?",
+        "answer": "Showing courtesy in your interactions with others involves displaying respect, thinking of the other person, and being genuinely friendly. This can be achieved by acknowledging the efforts of others, using polite words such as please and thank you, and being considerate of the needs and feelings of those around you. When engaging in conversations, listening attentively and showing genuine interest in the speaker's words is a key aspect of courtesy. Additionally, introducing people with respect and in a thoughtful manner, such as mentioning the older person first or explaining who the person is, can help create a positive atmosphere. Making polite requests with phrases like may I and excuse me, and handling interruptions gracefully, are also important ways to demonstrate courtesy in your interactions with others."
+    },
+    {
+        "question": "What are some common expressions of courtesy that I should use?",
+        "answer": "Common expressions of courtesy that you should use include saying please when making requests, as it shows friendliness and respect. Additionally, expressing gratitude by saying thank you when someone does something for you is a simple way to show appreciation. When you need to interrupt or move through a social situation, saying excuse me politely indicates that you are considerate of others. Using phrases like may I before interrupting or asking for permission demonstrates thoughtfulness and respect for the other person. These simple expressions of courtesy, when used consistently in your interactions, can help create a positive and respectful environment."
+    },
+    {
+        "question": "How can I practice good table manners?",
+        "answer": "Practicing good table manners involves several key behaviors. Firstly, seating others before yourself and waiting for everyone to be seated before starting to eat shows consideration for others. When ordering a meal, allow others to order first and use utensils appropriately, eating with common sense and tidiness. Finishing a meal by placing utensils in a specific way signals that you are done eating. When eating spoon foods, remember to dip the spoon away from yourself to avoid spills. It is also essential to show courtesy and consideration by not tipping bowls when eating soup and not eating too much from the spoon. By practicing these table manners regularly at home and observing others with good manners, you can develop habits that reflect respect and consideration in your dining etiquette."
+    },
+    {
+        "question": "How can I be a good listener?",
+        "answer": "Being a good listener involves actively engaging with the speaker and showing genuine interest in what they have to say. To be a good listener, it's important to avoid distractions and focus on the speaker, making eye contact and nodding to show that you are attentive. Listening carefully allows you to learn from the speaker and understand their perspective better. Additionally, being a good listener means not interrupting the speaker and allowing them to express themselves fully. By being a good listener, you can foster better communication, build stronger relationships, and demonstrate respect for the thoughts and feelings of others."
+    },
+    {
+        "question": "How should I handle introductions in social situations?",
+        "answer": "Handling introductions in social situations requires showing respect and consideration for others. When introducing people, it's important to mention the older person first and provide some context or explanation about each individual to facilitate conversation. By presenting people with respect and in a thoughtful manner, you can help create a positive and welcoming atmosphere. Remembering the order of introductions and using a proper handshake technique, neither too firm nor too limp, can also contribute to a successful introduction. Introductions should be done with respect and courtesy, helping to initiate conversations and establish connections between people in social settings."
+    }
+]

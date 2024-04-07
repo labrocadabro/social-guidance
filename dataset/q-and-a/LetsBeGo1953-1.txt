@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I be a good citizen at school?",
+        "answer": "Being a good citizen at school involves playing fair with others, doing your part, and being considerate so that everyone can work and play happily together. This means getting to school on time, helping others, being prepared for lessons, playing games that include everyone, being cheerful and friendly, keeping things neat and clean, practicing good manners, and being mindful of others' feelings and belongings. It also means being a good role model and making an effort to include everyone, regardless of their background or differences. By being kind, helpful, responsible, and respectful, you can contribute to a positive and harmonious school environment."
+    },
+    {
+        "question": "How can I help others at school?",
+        "answer": "Helping others at school can be as simple as noticing when someone needs assistance and offering to help. Whether it's tying a friend's sash, sharing materials, including others in activities, or being a big brother or big sister to someone who needs guidance, small acts of kindness can go a long way. By watching for opportunities to lend a hand, you can make a positive impact on your peers and create a supportive and caring community at school. Remember that helping others is a key aspect of being a good citizen, and it can make a difference not only for the person you're helping but for the entire school environment."
+    },
+    {
+        "question": "How can I practice good manners at school?",
+        "answer": "Practicing good manners at school involves being courteous, considerate, and respectful towards others. This includes being punctual, using polite language, following rules and instructions, listening to others, and showing appreciation for kindness or help. Additionally, maintaining personal hygiene, keeping your workspace clean, and being mindful of your actions and their impact on others are important aspects of good manners. By demonstrating good manners in your daily interactions with classmates, teachers, and staff, you contribute to a positive and respectful school culture where everyone feels valued and respected."
+    },
+    {
+        "question": "How can I be a responsible student at school?",
+        "answer": "Being a responsible student at school means taking ownership of your actions, being accountable for your behavior, and making wise choices that benefit yourself and others. This includes arriving on time, being prepared for lessons, completing assignments on time, participating in class activities, and respecting school property and resources. It also means being honest, trustworthy, and reliable in your interactions with peers and teachers. By demonstrating responsibility in your academic work, behavior, and relationships, you contribute to a productive and positive learning environment where everyone can thrive and succeed."
+    },
+    {
+        "question": "How can I promote inclusivity and diversity at school?",
+        "answer": "Promoting inclusivity and diversity at school involves embracing and celebrating the differences and unique qualities of your peers. This means being open-minded, respectful, and accepting of others, regardless of their background, culture, or abilities. It also involves making an effort to befriend and include classmates who may feel left out or marginalized. By being kind, empathetic, and supportive towards all students, you help create a welcoming and inclusive school community where everyone feels valued and accepted. Remember that diversity is a strength, and by appreciating and learning from each other's differences, you can foster a sense of unity and belonging among your peers."
+    }
+]

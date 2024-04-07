@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should one behave when shopping for shoes?",
+        "answer": "When shopping for shoes, it's important to be polite and courteous to the salesperson. Start by greeting them and asking for assistance. Sit where you're asked to and be patient while the salesperson helps you. It's essential to listen to their suggestions and try on the shoes they recommend, even if it's not exactly what you had in mind. Remember to express gratitude for their help and give feedback on how the shoes feel when trying them on. It's also crucial to respect the salesperson's expertise and follow their advice on what type of shoes are appropriate for certain occasions, like school. In the end, be polite and thank them for their assistance, even if you don't end up purchasing anything."
+    },
+    {
+        "question": "How can one choose the right shoes for school?",
+        "answer": "Choosing the right shoes for school involves considering comfort and practicality over style. Make sure the shoes cover your feet adequately and have a secure fit. It's essential to try on different pairs to see how they feel when standing and walking around. Listen to the advice of your parent or guardian on what type of shoes are suitable for school and follow their recommendations. While personal style preferences are important, it's crucial to prioritize functionality and comfort, especially for long hours of wear at school. Ultimately, the right shoes for school should be comfortable, fit well, and be suitable for everyday activities."
+    },
+    {
+        "question": "How should one handle disagreements about shoe choices?",
+        "answer": "When facing disagreements about shoe choices, it's important to communicate respectfully and listen to the perspectives of others involved. Express your preferences clearly, but also be open to trying out different options suggested by parents or guardians. Avoid being dismissive or stubborn about your choices and consider the practical reasons behind their recommendations. It's essential to maintain a positive and cooperative attitude during discussions about shoe choices, even if there are differing opinions. Remember that the ultimate goal is to find shoes that are comfortable, suitable for the occasion, and meet the approval of those making the decision."
+    },
+    {
+        "question": "What is the proper way to handle trying on shoes?",
+        "answer": "When trying on shoes, it's important to follow the guidance of the salesperson and listen to their recommendations. Make sure to stand up and walk around in the shoes to assess the fit and comfort level. Provide feedback on how the shoes feel and express any discomfort or issues you may have. Be patient and try on various options to find the best pair that meets your needs. Additionally, it's important to respect the guidance of parents or guardians on what type of shoes are appropriate for different occasions, such as school. Remember to be polite and thankful for the assistance provided by the salesperson throughout the shoe shopping experience."
+    },
+    {
+        "question": "How can one ensure a positive shoe shopping experience?",
+        "answer": "To ensure a positive shoe shopping experience, it's important to approach the process with patience, politeness, and an open mind. Be courteous to the salesperson and follow their recommendations on trying on different shoes. Listen to the advice of parents or guardians on what type of shoes are suitable for the occasion, such as school. Provide feedback on how the shoes feel when trying them on and be open to exploring various options. Remember to express gratitude for the assistance provided and maintain a positive attitude throughout the shopping experience. By being respectful, considerate, and cooperative, you can make the shoe shopping experience enjoyable and successful."
+    }
+]

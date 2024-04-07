@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important part of social interaction and shows consideration for others. It is good to share things when it is appropriate and when it will bring joy or benefit to the other person. However, there are times when it is okay to keep something for oneself, especially if it is a personal item or if sharing may cause harm or damage. It is important to consider the situation and the feelings of others before deciding whether or not to share."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is can be done in a fair and organized manner. One way to decide is by taking turns based on a predetermined rule or schedule. This helps to ensure that everyone gets a chance and that there is a sense of fairness in the decision-making process. Another way to decide is by considering factors such as age, ability, or willingness to participate. It is important to communicate openly and honestly when deciding whose turn it is, to avoid any misunderstandings or conflicts."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is essential for maintaining healthy relationships and demonstrating good manners. It is important to ask for permission before using or handling someone else's belongings, and to treat them with care and respect. Avoiding damage, theft, or misuse of other people's property shows that you value their possessions and their trust in you. By respecting the property of others, you build a reputation for being trustworthy and considerate, which can lead to positive interactions and friendships."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making mistakes is a natural part of life, but it is important to take responsibility for them and make amends when necessary. To make up for mistakes, one can apologize sincerely, offer to help fix any damage or inconvenience caused, and take steps to prevent similar mistakes in the future. It is important to show remorse and willingness to make things right, as this demonstrates maturity and integrity. By acknowledging our mistakes and making efforts to rectify them, we show that we are accountable and caring individuals."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play involves treating others with respect, honesty, and consideration in all situations. It means following rules, sharing, taking turns, and being helpful and understanding towards others. Fair play also involves making decisions that benefit everyone involved and avoiding actions that may harm or disadvantage others. By practicing fair play, we create a harmonious and inclusive environment where everyone feels valued and respected. Fair play is a key aspect of good social behavior and is essential for building strong relationships and communities."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make a good first impression when meeting new people?",
+        "answer": "Making a good first impression when meeting new people is crucial. It's important to address the woman first when introducing a man, and vice versa. Remember to keep introductions simple and to the point, avoiding awkward phrases like 'meet so-and-so.' Additionally, always respond to introductions with a polite 'How do you do?' unless you have a specific reason to say something else. A firm handshake is appropriate for men, but only if initiated by the woman when shaking hands with a man. It's also essential to rise from your seat when being introduced or when introducing someone. Practice these basic rules to ensure you leave a positive impression on others and make them feel welcome and at ease."
+    },
+    {
+        "question": "How should I handle introductions in social settings?",
+        "answer": "Handling introductions in social settings requires following a few simple rules. When introducing a man to a woman, always address the woman first. Make sure your introductions are clear and concise, avoiding awkward phrases. Respond to introductions with a polite 'How do you do?' unless you have a specific reason to say something else. Men should offer a comfortable, firm handshake when appropriate, but only if the woman initiates the gesture when shaking hands. Remember to rise from your seat when being introduced or introducing someone, showing respect and courtesy. Practice these guidelines to ensure smooth and proper introductions in social settings."
+    },
+    {
+        "question": "What is the proper etiquette for introductions?",
+        "answer": "Proper etiquette for introductions involves addressing the woman first when introducing a man, and vice versa. Keep introductions simple and to the point, avoiding awkward phrases or overcomplicating the process. Always respond to introductions with a polite 'How do you do?' unless you have a specific reason to deviate. Men should offer a comfortable, firm handshake when appropriate, but only if initiated by the woman when shaking hands. Remember to rise from your seat when being introduced or introducing someone, showing respect and consideration. By following these etiquette guidelines, you can ensure smooth and proper introductions in any social situation."
+    },
+    {
+        "question": "How do I navigate introductions in social gatherings?",
+        "answer": "Navigating introductions in social gatherings can be straightforward if you follow a few key guidelines. Always address the woman first when introducing a man, and vice versa, to show respect and courtesy. Keep introductions clear and concise, avoiding awkward or overly formal language. Respond to introductions with a simple 'How do you do?' to maintain politeness and decorum. Men should offer a comfortable, firm handshake when appropriate, but only if initiated by the woman. Remember to rise from your seat when being introduced or introducing someone, demonstrating respect and attentiveness. By practicing these etiquette tips, you can confidently navigate introductions in any social gathering."
+    },
+    {
+        "question": "How do I ensure proper introductions in various social settings?",
+        "answer": "Ensuring proper introductions in various social settings requires following a few key etiquette rules. Address the woman first when introducing a man, and vice versa, to show consideration and respect. Keep introductions simple and direct, avoiding unnecessary details or awkward phrasing. Respond to introductions with a polite 'How do you do?' to maintain a courteous tone. Men should offer a firm handshake when appropriate, but only if initiated by the woman when shaking hands. Remember to rise from your seat when being introduced or introducing someone, displaying attentiveness and courtesy. By adhering to these guidelines, you can ensure that introductions in different social settings are smooth and respectful."
+    }
+]

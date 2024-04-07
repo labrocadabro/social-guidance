@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I ensure I am not bothering others when they are busy?",
+        "answer": "It's important to be aware of the people around you and their activities. If you see that someone is busy, it's best to avoid interrupting them and asking them to play or engage in activities with you. Respect their space and their time by finding something to do on your own. It's also a good idea to observe cues that indicate busyness, such as focused expressions, quick movements, or verbal indications of being occupied. By being mindful of others' schedules and responsibilities, you can ensure that you are not bothering them when they are busy and allow them to complete their tasks without distractions."
+    },
+    {
+        "question": "What should I do if I accidentally cause a mess or disturbance?",
+        "answer": "If you accidentally cause a mess or disturbance, the best course of action is to take responsibility for your actions and try to rectify the situation. Apologize sincerely to those affected and offer to help clean up or fix any damage that may have been caused. It's important to acknowledge your mistake and show that you are willing to make amends. Additionally, be mindful of your actions in the future to prevent similar incidents from happening again. By demonstrating accountability and a willingness to make things right, you can show that you are considerate of others and committed to being a responsible individual."
+    },
+    {
+        "question": "How can I show consideration for others when they are busy?",
+        "answer": "To show consideration for others when they are busy, it's essential to be mindful of their time and priorities. Avoid demanding their attention or involvement in activities when you see that they are occupied with tasks. Instead, find ways to entertain yourself or engage in solo activities that do not require their participation. It's also important to be patient and understanding, recognizing that everyone has obligations and responsibilities that they need to fulfill. By demonstrating empathy and respect for others' schedules, you can show that you are considerate and thoughtful in your interactions with them."
+    },
+    {
+        "question": "How can I be a good companion to others without being disruptive?",
+        "answer": "Being a good companion to others involves being attentive to their needs and emotions while also being mindful of their boundaries. If you want to engage with someone, make sure to assess their availability and willingness to interact before initiating any activities. Respect their personal space and time by not imposing yourself on them when they are preoccupied. It's important to strike a balance between being friendly and considerate without being overly intrusive or disruptive. By being sensitive to others' feelings and preferences, you can be a supportive and enjoyable companion without causing any inconvenience or discomfort."
+    },
+    {
+        "question": "How can I mend a situation where I have unintentionally caused trouble?",
+        "answer": "If you find yourself in a situation where you have unintentionally caused trouble or inconvenience to others, it's important to address the issue promptly and sincerely. Acknowledge your mistake, apologize to those affected, and offer to make amends by helping to resolve the problem. Take responsibility for your actions and demonstrate a genuine willingness to rectify the situation. It's also crucial to reflect on what led to the incident and learn from it to prevent similar occurrences in the future. By showing humility, accountability, and a commitment to improving, you can mend the situation and rebuild trust with those you may have inadvertently troubled."
+    }
+]

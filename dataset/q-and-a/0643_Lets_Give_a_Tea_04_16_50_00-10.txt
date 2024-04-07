@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should I handle preparing for a social event?",
+        "answer": "Preparing for a social event involves learning about the proper etiquette and behaviors expected in that specific setting. It's important to do your research and understand what is appropriate for the occasion, such as how to dress and how to behave. Take the time to divide up the work with your friends to prepare for the event, so everyone contributes and learns together. Remember that etiquette is simply showing consideration for others, and by being polite and respectful, you can make the event more enjoyable for everyone involved."
+    },
+    {
+        "question": "What is the proper way to send out invitations?",
+        "answer": "When sending out invitations for a formal event, it's important to follow proper etiquette. Invitations should be sent out two weeks in advance to allow guests time to plan. The invitation should include essential information such as the name, date, hour, place, and purpose of the event. While formal invitations are typically sent by mail, the formality of the occasion will dictate the method of delivery. Remember that invitations should be clear, easy to read, and respectful to the recipient. It's crucial to follow these guidelines to ensure that your guests feel valued and informed."
+    },
+    {
+        "question": "How should I dress for a formal event?",
+        "answer": "Dressing for a formal event requires good taste and understanding of appropriate attire. When acting as a hostess, it's important to choose formal but simple clothing that is in line with the occasion. Avoid overly extravagant or elaborate outfits, and focus on selecting attire that complements your personality and figure. Remember that dressing formally does not have to be expensive, but it should demonstrate your respect for the event and those in attendance. By following these guidelines, you can ensure that your outfit is appropriate and enhances your overall presentation as a hostess."
+    },
+    {
+        "question": "What should I consider when planning entertainment for a tea party?",
+        "answer": "When planning entertainment for a tea party, it's essential to consider the preferences and enjoyment of all guests, both young and old. Choose activities that are inclusive, enjoyable, and suitable for the setting. Avoid overly complex or individual-focused entertainment options, and opt for activities that foster a sense of community and togetherness. Whether it's a style show, musical performance, films, or book reviews, ensure that the entertainment aligns with the overall theme and atmosphere of the event. By selecting entertainment that engages all attendees, you can create a memorable and enjoyable experience for everyone."
+    },
+    {
+        "question": "How can I ensure proper behavior and etiquette at a social event?",
+        "answer": "Maintaining proper behavior and etiquette at a social event involves understanding the fundamentals of polite interaction and respect for others. Take the time to learn how to introduce guests, offer assistance, and engage in conversations with grace and courtesy. Remember to be considerate and attentive to the needs of others, whether it's serving tea or engaging in social interactions. By demonstrating respect and friendliness, you can create a welcoming and enjoyable atmosphere for all attendees. Etiquette is not about being stuffy or formal, but about showing genuine care and consideration for those around you."
+    }
+]

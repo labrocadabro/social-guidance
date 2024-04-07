@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure I have a good time at a party?",
+        "answer": "To ensure you have a good time at a party, it's important to be on time and leave on time. Being punctual shows respect for the host and other guests. Additionally, remember to join in the games and activities enthusiastically, as participation is key to making a party more enjoyable for everyone. While playing, it's crucial to follow the rules of the game and be a good sport, whether you win or lose. Avoid teasing or making fun of others, as it can hurt their feelings and ruin the fun for everyone. Lastly, maintain good manners, be polite, and show consideration for others. By following these guidelines, you'll have a great time at any party."
+    },
+    {
+        "question": "What should I do if I receive a late invitation to a party?",
+        "answer": "If you receive a late invitation to a party, it's best to graciously accept the invitation and make an effort to attend if you can. Despite the timing, it's important to show appreciation for being included. Make sure to respond promptly to let the host know whether you'll be able to make it. If you have conflicting plans or are unable to attend, politely decline the invitation and express your regrets. Remember that the host may have had reasons for the delayed invitation and it's essential to be understanding and considerate in your response."
+    },
+    {
+        "question": "How can I show good sportsmanship at a party?",
+        "answer": "Showing good sportsmanship at a party involves being a good loser and a good winner. Whether you win or lose a game, it's important to handle the outcome gracefully and with respect for others. If you lose, congratulate the winner and accept the result with a positive attitude. If you win, be humble and avoid gloating or making others feel bad. Remember that the goal of playing games at a party is to have fun together and create a positive atmosphere. By demonstrating good sportsmanship, you contribute to making the party enjoyable for everyone involved."
+    },
+    {
+        "question": "What should I do if I accidentally offend someone at a party?",
+        "answer": "If you unintentionally offend someone at a party, it's important to apologize and express genuine regret for any hurt feelings caused. Acknowledge your mistake and clarify that it was not your intention to offend or upset them. Take responsibility for your actions and show empathy towards the person you've offended. Offer to make amends or rectify the situation if possible. It's crucial to communicate openly, listen to the other person's perspective, and seek to resolve any misunderstandings. By handling the situation with humility and sincerity, you can help repair the relationship and maintain a positive atmosphere at the party."
+    },
+    {
+        "question": "How can I ensure I have good manners at a party?",
+        "answer": "Ensuring you have good manners at a party involves being clean and neat in your appearance, being punctual, and showing consideration for others. Make an effort to dress appropriately for the occasion and present yourself in a tidy manner. Arrive on time to show respect for the host and fellow guests. Throughout the party, practice good manners such as saying please and thank you, being polite to everyone, and engaging in conversations with courtesy. Avoid disruptive behavior, loud talking, or being overly boisterous. Remember to follow table manners when eating and handle utensils properly. By maintaining good manners, you contribute to a positive and enjoyable atmosphere at the party."
+    }
+]

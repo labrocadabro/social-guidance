@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I overcome self-consciousness?",
+        "answer": "To overcome self-consciousness, it is important to develop skills and focus on doing things well. By becoming skillful at a task, you will feel more confident and less self-conscious. Practicing alone and with family can help build this confidence. Additionally, try turning the spotlight on others rather than yourself. Think about the situation as a whole and remember that other people's thoughts and actions are just as important as your own. Concentrate on what you are doing, not how you are doing it. By focusing on others and the situation, you can reduce your self-consciousness and enjoy interactions with people more."
+    },
+    {
+        "question": "How can I feel more confident in public speaking?",
+        "answer": "To feel more confident in public speaking, practice is key. By practicing your speech or presentation, you can become more comfortable with the material and delivery. Additionally, focus on developing your skills and expertise in the subject matter. The more knowledgeable you are about your topic, the more confident you will feel. Remember that the audience is interested in what you have to say, not in scrutinizing you personally. By concentrating on the message you are delivering and the value it provides to the audience, you can reduce feelings of self-consciousness and increase your confidence in public speaking."
+    },
+    {
+        "question": "How can I handle feeling self-conscious in social situations?",
+        "answer": "When feeling self-conscious in social situations, it can be helpful to shift your focus from yourself to others. Try to think about the situation as a whole and the people around you, rather than fixating on your own thoughts and actions. Developing skills and expertise in social interactions can also boost your confidence and reduce self-consciousness. Remember that everyone experiences moments of self-consciousness, and it is a normal feeling. By practicing turning the spotlight onto others and the overall situation, you can alleviate feelings of self-consciousness and enjoy social interactions more."
+    },
+    {
+        "question": "How can I build confidence in new situations?",
+        "answer": "Building confidence in new situations involves practice, preparation, and focusing on the task at hand. By practicing and honing your skills in various areas, you can feel more confident when faced with new challenges. Preparation is key to feeling confident, so make sure you are well-prepared and knowledgeable about the situation or task. When entering a new situation, try to shift your focus from yourself to the overall scenario and the people involved. By concentrating on the task and the people around you, you can reduce feelings of self-consciousness and build confidence in new situations."
+    },
+    {
+        "question": "How can I enjoy social interactions without feeling self-conscious?",
+        "answer": "To enjoy social interactions without feeling self-conscious, it is important to focus on others and the situation as a whole. By shifting your attention from yourself to the people around you and the overall context of the interaction, you can reduce feelings of self-consciousness. Developing skills and expertise in social settings can also boost your confidence and help you feel more at ease. Remember that everyone experiences moments of self-consciousness, and it is a normal feeling. By practicing turning the spotlight onto others and concentrating on the interaction itself, you can enjoy social situations more and feel less self-conscious."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should I arrange a tea table for friends?",
+        "answer": "Arranging a tea table for friends involves paying attention to details and being considerate of your guests. Start by selecting a cloth that is visually appealing and suited to the occasion, such as a lace or embroidered cloth. Make sure the cloth is spread smoothly and the centerpiece of flowers complements the overall arrangement. Choose candelabra that provide sufficient lighting without interfering with the serving of tea. When placing the tea sets, consider practicality and ease of reach for both the pourer and the guests. Keep the cups and plates easily accessible and avoid stacking them to prevent accidents. Arrange spoons and napkins in a staggered manner for easy access. The goal is to create a visually pleasing and efficient table setting that allows guests to enjoy their tea and treats while engaging in conversation."
+    },
+    {
+        "question": "How should I place cups, plates, and other items on the tea table?",
+        "answer": "When placing cups, plates, and other items on the tea table, consider the convenience of your guests and the practicality of serving food and drink. Cups should be located at the right of the pourer for easy access. Plates should be positioned where guests can easily pick them up and receive a cup of tea without having to move around too much. Keep the table symmetrical and balanced, even if serving different beverages at each end. Avoid stacking cups and plates to prevent accidents and embarrassment. Arrange spoons and napkins in a staggered manner for ease of use. By paying attention to these details and considering the needs of your guests, you can create a table setting that is both functional and visually appealing."
+    },
+    {
+        "question": "What should I consider when selecting a tea table cloth and centerpiece?",
+        "answer": "When selecting a tea table cloth and centerpiece, consider the occasion and the preferences of your guests. Opt for a cloth that is visually appealing and well-suited to the event, such as a lace or embroidered cloth. Ensure the cloth is spread smoothly and the centerpiece of flowers harmonizes with the overall arrangement. Choose candelabra that provide sufficient lighting without obstructing the serving of tea. By paying attention to these details, you can create a table setting that is both aesthetically pleasing and considerate of your guests' enjoyment."
+    },
+    {
+        "question": "How should I arrange spoons and napkins on the tea table?",
+        "answer": "When arranging spoons and napkins on the tea table, consider practicality and aesthetics. Avoid stacking or piling them up, and instead, place them singly and staggered for ease of use. Select napkins that complement the table cloth and add to the overall attractiveness of the table setting. By following these guidelines and paying attention to details, you can create a tea table arrangement that is both practical and visually appealing, showing consideration for your guests' needs."
+    },
+    {
+        "question": "What are the key principles to keep in mind when setting up a tea table for friends?",
+        "answer": "When setting up a tea table for friends, keep in mind two key principles: practicality and consideration for your guests. Ensure that the table arrangement allows for easy serving of food and drink, while also allowing guests to enjoy their tea and treats without interruption. Consider the convenience of your guests when placing cups, plates, spoons, and napkins on the table. Aim for a visually pleasing arrangement that reflects courtesy, good taste, and friendliness. By balancing practicality with aesthetics, you can create a tea table that is both efficient and inviting to your guests."
+    }
+]

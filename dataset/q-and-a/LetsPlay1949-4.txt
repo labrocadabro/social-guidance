@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing things is an important aspect of social behavior and fairness. It is good to share things with others, especially if it can bring joy or benefit to them. However, there are times when it is okay not to share, such as when it involves safety or personal boundaries. It is important to consider the situation and the feelings of others when deciding whether or not to share. Sharing can foster positive relationships and create a sense of community, so it is generally a good practice to be generous and considerate towards others."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is can sometimes be a source of conflict or confusion, but there are fair and simple ways to determine this. One common method is to take turns based on a predetermined order or schedule. This way, everyone gets a chance to participate and contribute equally. Another approach is to consider factors such as age, ability, or preference to determine who should go first. Communication and cooperation are key in deciding whose turn it is, and it is important to be open to compromise and flexibility in order to maintain fairness in all situations."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of social etiquette and good manners. It is important to treat other people's belongings with care and consideration, just as you would want them to treat yours. Respecting the property of others shows that you value their possessions and acknowledge their ownership rights. It also helps build trust and mutual respect in relationships. Remember to always ask for permission before using or borrowing someone else's belongings, and to return them in the same condition or better than when you received them. Respecting the property of others is a simple yet powerful way to demonstrate kindness and integrity in your interactions with others."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making mistakes is a natural part of life, but how we handle them can make a big difference in our relationships with others. When you make a mistake, it is important to take responsibility for your actions and apologize sincerely. Acknowledge the impact of your mistake on others and express your willingness to make amends. Offering to help fix the problem or compensate for any harm caused can show that you are genuinely sorry and committed to making things right. It is also important to learn from your mistakes and strive to avoid repeating them in the future. By taking ownership of your errors and making a genuine effort to make up for them, you can demonstrate maturity, integrity, and respect for others."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play is a concept that emphasizes honesty, integrity, and respect in social interactions. It involves treating others with kindness and consideration, following rules and agreements, and making decisions that benefit everyone involved. Fair play means playing by the rules, being transparent and truthful, and considering the needs and feelings of others. It is about acting with integrity, even when no one is watching, and striving to create a positive and harmonious environment for everyone. Fair play fosters trust, cooperation, and mutual respect among individuals, leading to stronger relationships and a more inclusive and supportive community."
+    }
+]

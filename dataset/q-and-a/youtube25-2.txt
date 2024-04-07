@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure I am not bothering others when they are busy?",
+        "answer": "One way to make sure you are not bothering others when they are busy is to observe their actions and body language. If someone appears focused on a task and not engaging with you, it is best to respect their space and find something else to occupy your time. It's important to recognize when others are preoccupied and to not interrupt them unnecessarily. Additionally, asking politely if they need help or if it is a good time to engage with them can show consideration for their current situation. Remember that everyone has their own responsibilities and priorities, so being mindful of this and finding ways to keep yourself occupied without imposing on others is a key social skill."
+    },
+    {
+        "question": "What should I do if I want to play with someone but they seem busy?",
+        "answer": "If you want to play with someone but they seem busy, it's essential to be understanding of their situation. Recognize that everyone has their own tasks and responsibilities to attend to, and it may not be the right time to engage in play. Instead of insisting on playing, you can ask if there is a better time to join them or if there is anything you can do to help with their current activities. Being patient and respectful of their time shows maturity and consideration for their priorities. Remember that it's important to be flexible and adaptable in social interactions, and sometimes waiting for the right moment to engage in play can lead to more enjoyable and meaningful interactions."
+    },
+    {
+        "question": "How can I handle situations where I feel left out or ignored by others?",
+        "answer": "Feeling left out or ignored by others can be challenging, but it's important to approach these situations with a positive attitude and open communication. Instead of internalizing these feelings, you can try to understand the perspective of others and consider that they may be preoccupied with their own tasks. If you feel left out, you can take the initiative to find alternative activities to engage in or seek out others who may be more available to interact with. It's also helpful to communicate your feelings openly and honestly with others, expressing your desire to participate without placing blame or making assumptions about their intentions. By being proactive, understanding, and communicative in these situations, you can navigate feelings of being left out and find ways to engage with others in a positive and constructive manner."
+    },
+    {
+        "question": "What is the best way to address a situation where I have accidentally caused trouble for someone else?",
+        "answer": "If you have accidentally caused trouble for someone else, it's important to take responsibility for your actions and make amends where possible. Acknowledge the impact of your behavior on others and express genuine remorse for any inconvenience or harm caused. You can offer to help rectify the situation or assist in resolving any issues that may have arisen from your actions. It's crucial to listen to the other person's perspective and show empathy for how they may have been affected by your behavior. By taking ownership of your mistakes and demonstrating a willingness to make things right, you can rebuild trust and maintain positive relationships with others. Remember that everyone makes mistakes, but it's how you respond to them that defines your character and integrity."
+    },
+    {
+        "question": "How can I show that I care about others' feelings and well-being in social interactions?",
+        "answer": "Showing that you care about others' feelings and well-being in social interactions involves practicing empathy, active listening, and thoughtful consideration of others' perspectives. You can demonstrate your concern for others by being attentive to their emotions, validating their experiences, and offering support when needed. Engaging in meaningful conversations, asking open-ended questions, and showing genuine interest in others' lives are ways to show that you value their feelings and well-being. Additionally, being respectful, considerate, and kind in your interactions with others can help create a positive and supportive social environment. Remember that small gestures of kindness, such as offering help, expressing gratitude, or simply listening attentively, can make a significant difference in how others perceive your care and compassion."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the importance of sharing in friendship?",
+        "answer": "Sharing is a fundamental aspect of friendship as it involves giving and receiving from one another. It can be sharing activities, interests, opinions, or even secrets. By sharing with friends, you create a bond that helps you grow as a person. Friends offer things to each other, whether it's help, advice, or just a listening ear. Through sharing, you build trust and respect, which are essential for a strong and lasting friendship. It's important to be open to sharing with your friends, as it allows you to connect on a deeper level and create meaningful relationships."
+    },
+    {
+        "question": "How can one make new friends?",
+        "answer": "Making new friends can sometimes require taking the first step and reaching out to others. It's important to be open and approachable, as some people may be shy or not very outgoing. By introducing yourself and initiating conversations, you can open up new possibilities for friendship. Being understanding of others and their differences is also key in making friends. You never know who you might connect with until you try. By being proactive and engaging with others, you can expand your social circle and build meaningful relationships."
+    },
+    {
+        "question": "What role does respect and trust play in a friendship?",
+        "answer": "Respect and trust are essential components of a healthy friendship. Without respect, there can be misunderstandings and conflicts that can strain the relationship. Trust is also vital as it allows friends to confide in each other, share secrets, and offer sincere advice. A friendship built on respect and trust is a strong foundation for mutual growth and support. It's important to cultivate these qualities in your friendships, as they contribute to a positive and fulfilling relationship with others."
+    },
+    {
+        "question": "How can one maintain friendships over time?",
+        "answer": "Maintaining friendships requires effort and communication. Keeping in touch with friends, even with a simple note or message, can go a long way in preserving the relationship. Showing concern and support for your friends, especially during challenging times, demonstrates your care and strengthens your bond. It's also important to respect each other's privacy and boundaries, allowing space when needed. Sometimes, people change over the years, and it's okay to let go of friendships that no longer serve both parties. By being thoughtful, honest, and patient, you can nurture lasting and meaningful friendships."
+    },
+    {
+        "question": "Why is it important to be a good friend?",
+        "answer": "Being a good friend is important because it contributes to your personal growth and well-being. Friendships offer support, companionship, and a sense of belonging. By being a good friend, you not only enrich the lives of others but also enhance your own social skills and emotional intelligence. Good friends are there for each other through thick and thin, offering a listening ear, a helping hand, and honest advice when needed. Cultivating qualities like respect, trust, patience, and understanding in your friendships not only strengthens your relationships but also helps you become a better person overall."
+    }
+]

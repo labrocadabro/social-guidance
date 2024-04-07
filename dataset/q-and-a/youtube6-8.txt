@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do social controls like custom, moral code, and law regulate our behavior?",
+        "answer": "Social controls like custom, moral code, and law play a significant role in regulating our behavior. Custom dictates what we usually do, setting norms and expectations for our actions. Moral code, on the other hand, defines what we should and should not do based on societal standards. Breaking these moral codes can lead to a loss of social status and belonging. Lastly, laws outline what we must do and prohibit behaviors that are deemed harmful to social harmony. By adhering to these social controls, we can navigate our daily lives in a way that promotes harmony and cooperation within our communities."
+    },
+    {
+        "question": "Why is it important to follow customs in society?",
+        "answer": "Following customs in society is crucial as they help establish norms and expectations for behavior. Customs, such as being neat and clean in dressing or showing courtesy and thoughtfulness towards others, contribute to the smooth functioning of social interactions. While violating customs may not have serious consequences, adhering to them helps maintain order and harmony within the community. By making a habit of following customs, individuals demonstrate respect for societal norms and contribute to a positive social environment."
+    },
+    {
+        "question": "What role does moral code play in shaping our actions?",
+        "answer": "Moral code plays a fundamental role in shaping our actions by defining societal standards of right and wrong. These standards, also known as mores, are deeply ingrained within us and guide our behavior in various contexts. For instance, the moral code of a group may prohibit activities like drinking or gambling to uphold certain values. Breaking these moral codes can result in the loss of social status and acceptance within the community. By adhering to moral codes, individuals demonstrate their commitment to shared values and contribute to a cohesive social fabric."
+    },
+    {
+        "question": "How do laws contribute to maintaining social order?",
+        "answer": "Laws play a crucial role in maintaining social order by providing a framework of rules and regulations for conduct within a society. These laws are created by representatives of the people and enforced through established means to ensure compliance. Laws prohibit behaviors that are deemed harmful and direct actions that are considered right by the majority. By following these laws, individuals contribute to the overall well-being of society and prevent chaos and conflict. Laws also enable communities to govern themselves autonomously and make decisions that align with their customs, moral codes, and values."
+    },
+    {
+        "question": "Why is it essential to understand and abide by social controls like custom, moral code, and law?",
+        "answer": "Understanding and abiding by social controls like custom, moral code, and law is essential for maintaining a harmonious and cooperative society. These controls provide guidance on acceptable behavior, norms, and values that help individuals interact effectively within their communities. By following customs, respecting moral codes, and obeying laws, individuals demonstrate their commitment to social cohesion and order. Additionally, adherence to these social controls fosters a sense of belonging and shared responsibility within the community. Ultimately, understanding and abiding by social controls contribute to a positive and functional society where individuals can thrive and coexist peacefully."
+    }
+]

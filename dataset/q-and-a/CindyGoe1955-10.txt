@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make a good impression at a party?",
+        "answer": "To make a good impression at a party, it's important to be clean and neat when you go. Remember, you're not there to show off your clothes, but to have a good time with your friends. Being on time is crucial, as parties can't really get going until everyone arrives. Additionally, make sure to leave on time when the party is over, as overstaying your welcome can spoil the fun for everyone. Join in the games wholeheartedly and be a good sport, whether you win or lose. Remember to be polite, considerate of others, and above all, have fun together in a way that doesn't make fun of anyone. Following these guidelines will ensure you make a positive impression and have a great time at any party."
+    },
+    {
+        "question": "How should I behave when playing games at a party?",
+        "answer": "When playing games at a party, always join in wholeheartedly and obey the rules of the game. Avoid being too noisy or rough, and be mindful not to break anything. It's essential to be a good loser if you don't win and a good winner if you do. Refrain from teasing or making fun of others, even in jest, as it can hurt their feelings and ruin the fun for both of you. Remember to show courtesy, consideration, and good sportsmanship while participating in games, ensuring that everyone has a good time and enjoys the activities together."
+    },
+    {
+        "question": "What should I remember about table manners when eating at a party?",
+        "answer": "When eating at a party, remember to practice good table manners. Be sure to be polite and considerate of others at the table. Follow proper etiquette, such as seating others first, eating with utensils, and using common sense to avoid making a mess. Additionally, remember to handle spoon foods properly and show courtesy towards others, such as not tipping bowls when eating soup. Always be a good winner and a good loser, and remember to thank the hostess for the meal. By remembering your table manners and being considerate of others, you'll ensure a pleasant dining experience for everyone at the party."
+    },
+    {
+        "question": "How can I ensure everyone has fun at a party?",
+        "answer": "To ensure everyone has fun at a party, it's crucial to be considerate of others and participate in activities wholeheartedly. Join in games and activities, following the rules and showing good sportsmanship. Avoid being too noisy or rough, and refrain from teasing or making fun of others, as it can spoil the fun for everyone. Remember to be polite, courteous, and above all, have a positive attitude towards making the party enjoyable for all guests. By being considerate, participating in games, and maintaining a friendly demeanor, you can contribute to creating a fun and inclusive atmosphere at the party."
+    },
+    {
+        "question": "How can I be a good sport at a party?",
+        "answer": "Being a good sport at a party involves participating in games and activities with enthusiasm and a positive attitude. It's essential to join in wholeheartedly, obey the rules of the game, and show good sportsmanship whether you win or lose. Avoid being too noisy or rough, and refrain from teasing or making fun of others, as it can detract from the enjoyment of the event. Remember to be polite, courteous, and considerate of others, ensuring that everyone has a good time and feels included in the festivities. By being a good sport, you can contribute to creating a fun and welcoming environment at the party for all guests to enjoy."
+    }
+]

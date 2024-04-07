@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my social courtesy?",
+        "answer": "Improving social courtesy involves being friendly, thoughtful, and considerate towards others. Start by being polite when interacting with people, such as rising when an adult speaks to you or making introductions when necessary. Additionally, join in the fun and activities when you're with a group, and show genuine interest in others by engaging in conversations and being helpful. Pay attention to your body language and be mindful of your actions, making sure not to discourage others from being friendly. Learning social courtesy is easy and can be done by watching others and emulating their behavior. It's important to remember that being courteous not only makes interactions more enjoyable for you, but also leaves a positive impression on those around you."
+    },
+    {
+        "question": "How can I make a good first impression?",
+        "answer": "Making a good first impression involves displaying social courtesy and being polite and friendly towards others. When meeting someone for the first time, greet them with a smile, introduce yourself, and engage in conversation to show genuine interest. Pay attention to your body language, such as sitting up straight and making eye contact, to convey confidence and respect. Remember to be considerate and thoughtful in your interactions, offering to help when needed and being attentive to the needs of others. By practicing good manners and social courtesy, you can make a positive and lasting impression on those you meet."
+    },
+    {
+        "question": "How can I be more courteous at social gatherings?",
+        "answer": "Being more courteous at social gatherings involves being friendly, thoughtful, and considerate towards others. Start by being polite and respectful in your interactions, such as rising when an adult speaks to you and making introductions when necessary. Join in the activities and conversations with enthusiasm, showing genuine interest in others and being helpful when needed. Pay attention to your body language and actions, making sure not to discourage others from being friendly. By practicing social courtesy and good manners, you can create a welcoming and enjoyable atmosphere at social gatherings for yourself and those around you."
+    },
+    {
+        "question": "How can I show genuine interest in others?",
+        "answer": "Showing genuine interest in others involves being friendly, thoughtful, and attentive in your interactions. Start by engaging in conversations with others, asking questions about their interests, and actively listening to what they have to say. Show empathy and understanding towards others, and offer help or support when needed. Pay attention to your body language, making eye contact and nodding to show that you're listening. By being genuinely interested in others and showing care and consideration in your interactions, you can build positive relationships and leave a lasting impression on those around you."
+    },
+    {
+        "question": "How can I practice social courtesy in everyday situations?",
+        "answer": "Practicing social courtesy in everyday situations involves being friendly, thoughtful, and considerate towards others in your interactions. Start by being polite and respectful in your conversations, using manners such as saying please and thank you. Show genuine interest in others by engaging in conversations, asking about their well-being, and offering help when needed. Pay attention to your body language, making eye contact and smiling to show that you're engaged. By incorporating social courtesy and good manners into your daily interactions, you can create a positive and welcoming environment for yourself and those around you."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I show school spirit and support my school?",
+        "answer": "Showing school spirit and supporting your school involves more than just making noise and causing disruptions. It's about being a part of a team, whether it's the sports team, debate club, or any other extracurricular activity. It's about getting behind your classmates, teachers, and school administration in a positive and constructive way. This means attending events, cheering on your peers, and being a good sport whether you win or lose. It's about recognizing the accomplishments of your school and feeling proud of them, whether it's a championship trophy or a national merit scholarship. School spirit is about contributing to the overall positive atmosphere of your school and being a part of something greater than yourself. By supporting your school in all its endeavors, you help build a sense of community and pride that can have a lasting impact on everyone involved."
+    },
+    {
+        "question": "How can I be a good team player and support my classmates?",
+        "answer": "Being a good team player and supporting your classmates means being there for them in good times and bad. It's about encouraging and lifting each other up, whether it's in sports, academics, or any other group activity. This involves actively participating, listening to others, and offering help when needed. It's important to show respect for your teammates, appreciate their efforts, and work together towards a common goal. Being a good team player also means being a good sport, accepting wins and losses gracefully, and learning from both. By supporting your classmates and working together as a team, you create a positive and inclusive environment where everyone can thrive and succeed."
+    },
+    {
+        "question": "How can I practice good sportsmanship?",
+        "answer": "Practicing good sportsmanship involves showing respect for your opponents, teammates, coaches, and officials. It's about playing fair, following the rules, and accepting the outcome of a game or competition with grace. Good sportsmanship means treating others with kindness and courtesy, both on and off the field. It's important to control your emotions, avoid trash-talking or taunting, and instead focus on playing your best and encouraging others to do the same. By practicing good sportsmanship, you set a positive example for those around you and contribute to a more enjoyable and respectful sporting environment for everyone involved."
+    },
+    {
+        "question": "How can I contribute to a positive school culture?",
+        "answer": "Contributing to a positive school culture involves being a responsible and engaged member of the school community. This means participating in school events, clubs, and activities, and supporting your peers in their endeavors. It's about showing respect for your teachers, administrators, and fellow students, and following school rules and regulations. Contributing to a positive school culture also means being inclusive and welcoming to others, regardless of their background or interests. By being kind, considerate, and supportive towards your classmates and school community, you help create a safe and inclusive environment where everyone can feel valued and respected."
+    },
+    {
+        "question": "How can I be a role model for others in my school?",
+        "answer": "Being a role model for others in your school involves leading by example and demonstrating positive behavior and values. It's about showing respect, kindness, and responsibility in all your interactions with others. Being a role model means being reliable, trustworthy, and supportive of your peers, teachers, and school community. It's important to set high standards for yourself, both academically and behaviorally, and encourage others to do the same. By being a positive influence on those around you, you inspire others to follow your lead and contribute to a more positive and respectful school environment for everyone."
+    }
+]

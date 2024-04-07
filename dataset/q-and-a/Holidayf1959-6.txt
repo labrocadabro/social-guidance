@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should I behave when playing games with others?",
+        "answer": "When playing games with others, it's important to remember to be fair and considerate. Follow the rules of the game and be a good sport, even if you don't win. It's also essential to take turns and give everyone a chance to participate. If there are disagreements, try to find a solution that is fair to everyone involved. Remember that playing games is about having fun together, so focus on enjoying the experience rather than just winning. Being respectful towards others and showing good sportsmanship will make the game more enjoyable for everyone."
+    },
+    {
+        "question": "What should I do if I see someone getting hurt?",
+        "answer": "If you see someone getting hurt, it's important to act quickly and try to help them. Even if there are no specific rules in place, showing compassion and empathy towards others is always the right thing to do. Check if the person is okay and if they need any medical assistance. If necessary, seek help from an adult or someone with the knowledge to provide appropriate care. Remember that taking care of each other and showing kindness is a fundamental part of being a good friend and a responsible member of the community."
+    },
+    {
+        "question": "How can I ensure that everyone feels included in group activities?",
+        "answer": "To ensure that everyone feels included in group activities, it's essential to be inclusive and considerate of others. Make an effort to involve everyone in the decision-making process and encourage participation from all members of the group. Avoid leaving anyone out or making decisions without consulting the group. Show respect for different opinions and ideas, and be willing to compromise to accommodate everyone's preferences. By creating a welcoming and inclusive environment, you can make sure that everyone feels valued and respected in the group."
+    },
+    {
+        "question": "What should I do if I accidentally break something that belongs to someone else?",
+        "answer": "If you accidentally break something that belongs to someone else, it's important to take responsibility for your actions and apologize sincerely. Offer to help fix or replace the item if possible, and make sure to learn from the mistake to prevent similar incidents in the future. Showing honesty and integrity in such situations demonstrates maturity and respect for other people's belongings. Remember that treating others' possessions with care and respect is an important part of being a considerate and responsible individual."
+    },
+    {
+        "question": "How can I show good manners and respect towards others?",
+        "answer": "Showing good manners and respect towards others involves being polite, considerate, and mindful of other people's feelings. Always use words like 'please' and 'thank you' when interacting with others, and show appreciation for their time and efforts. Pay attention to your tone of voice and body language, and make sure to listen actively when someone is speaking. Treat others with kindness and empathy, and avoid making negative or hurtful comments. By showing respect and good manners towards others, you can build positive relationships and create a harmonious environment for everyone."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make friends?",
+        "answer": "Making friends involves simple and easy steps that anyone can follow. The first step is to smile and talk to people. This shows that you are open and approachable, making it easier for others to interact with you. The next step is to find good things in people. Look for positive qualities or things that you admire in others, and make an effort to acknowledge and appreciate them. Finally, tell them the good things you have noticed. This could be a compliment or a simple acknowledgment of their positive traits. By following these steps consistently, you can create meaningful connections and build friendships with those around you. Remember, making friends is about being genuine, kind, and attentive to others."
+    },
+    {
+        "question": "How do I interact with new people?",
+        "answer": "When interacting with new people, it's important to approach them with a friendly and positive attitude. Start by smiling and initiating a conversation. Show genuine interest in the other person by asking questions and actively listening to their responses. Look for common interests or topics to discuss that can help establish a connection. Be respectful, considerate, and open-minded in your interactions. Remember to be yourself and express your thoughts and feelings honestly. By being approachable, engaging, and authentic, you can make a positive impression on new people and potentially form lasting relationships."
+    },
+    {
+        "question": "How can I maintain friendships?",
+        "answer": "To maintain friendships, it's essential to invest time and effort in nurturing those relationships. Stay in touch with your friends through regular communication, whether it's in person, over the phone, or through messaging. Make an effort to spend quality time together and engage in activities that you both enjoy. Show support and empathy towards your friends, especially during challenging times. Be a good listener and offer your help when needed. Remember to celebrate their successes and milestones to show that you care. By being present, reliable, and understanding, you can strengthen your friendships and create lasting bonds."
+    },
+    {
+        "question": "How do I show appreciation to my friends?",
+        "answer": "Showing appreciation to your friends is important for maintaining strong and healthy relationships. Express your gratitude by saying thank you and acknowledging their kindness or support. Offer compliments and words of encouragement to show that you value and appreciate them. Remember to be attentive and considerate of their feelings and needs. Celebrate special occasions, achievements, and milestones together to create lasting memories. Small gestures of kindness, such as sending a thoughtful message or spending quality time together, can go a long way in showing your friends how much they mean to you. By demonstrating your appreciation consistently, you can strengthen your friendships and build a deeper connection with your friends."
+    },
+    {
+        "question": "How can I be a good friend?",
+        "answer": "Being a good friend involves being supportive, trustworthy, and compassionate towards others. Listen actively to your friends and offer them your time, attention, and understanding. Show empathy and validation by being there for them during difficult times and celebrating their successes. Be honest and respectful in your interactions, and maintain confidentiality when sharing personal information. Keep your promises and commitments to build trust and reliability. Offer help and assistance when needed, without expecting anything in return. By being a loyal, caring, and dependable friend, you can cultivate meaningful and lasting relationships based on mutual respect and support."
+    }
+]

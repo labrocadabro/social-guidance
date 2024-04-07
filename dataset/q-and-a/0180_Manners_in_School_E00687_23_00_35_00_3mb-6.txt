@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are some examples of good manners in school?",
+        "answer": "In school, good manners include paying attention in class, not distracting others, not making fun of people or doing anything to hurt others, being respectful to your teacher by using proper language like 'yes Miss' or 'no Miss', taking your turn in class or during playtime, keeping your desk neat and tidy, and being on time. These are just a few examples of good manners in school, but there are many more that you can continue to add to your list."
+    },
+    {
+        "question": "How can I show consideration for the feelings of others?",
+        "answer": "Showing consideration for the feelings of others involves not making fun of people, not doing anything to hurt others, and always being respectful. It's important to remember that even if you are just kidding or showing off, it can still hurt someone's feelings. Apologizing when you've done something wrong is also a sign of good manners, as it shows that you care about how your actions affect others. By being aware of how your words and actions impact those around you, you can demonstrate consideration for their feelings."
+    },
+    {
+        "question": "Why is it important to have good manners?",
+        "answer": "Good manners are important because they show consideration for the feelings of others and help guide people in the way they treat each other. By following rules of good behavior, such as paying attention in class, being respectful to teachers, and not making fun of others, people can live and work together harmoniously. Good manners are not meant to make anyone look silly, but rather to demonstrate respect and consideration for others. They help create a positive and respectful environment in which everyone can thrive."
+    },
+    {
+        "question": "How can I improve my manners by being a good listener?",
+        "answer": "Improving your manners by being a good listener involves paying attention to your teacher and not distracting your classmates. If you had something to say, you would want others to listen, so it's important to extend the same courtesy to them. By actively listening and showing respect to those speaking, you demonstrate good manners. Remember, it's always bad manners to be rude or disrespectful by not paying attention or by making fun of others while they are speaking."
+    },
+    {
+        "question": "What can I do to learn and use good manners?",
+        "answer": "To learn and use good manners, you can observe the good manners of others, such as your parents, friends, and teachers. By watching how they interact with others and practicing their behaviors, you can internalize good manners and make them a natural part of your character. Seeking help and guidance from those around you who already possess good manners is key to developing your own. Remember, good manners are not about being perfect, but about showing consideration and respect for others in your words and actions."
+    }
+]

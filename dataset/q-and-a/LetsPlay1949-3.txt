@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important aspect of social behavior, and it is essential to do so when it benefits others and promotes cooperation. However, there are times when it is acceptable not to share, especially when it involves personal items that may be dangerous or unsuitable for others. In the case of Herb and Billy, Herb did not share his chemistry set with Billy because it was something he earned for himself and because Billy was too young to handle it safely. Therefore, it is important to assess the situation and determine whether sharing is appropriate based on the well-being of others and the nature of the item being shared."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is in a fair and equitable manner is crucial for maintaining harmony in social interactions. One way to determine whose turn it is, as demonstrated in the story of Herb and Billy, is to establish rules and follow them consistently. By setting up a system where responsibilities are rotated or assigned based on factors such as age or previous turns, individuals can avoid conflicts and ensure that everyone has an equal opportunity to participate. It is also important to communicate openly and respectfully when deciding whose turn it is, taking into account the needs and preferences of all parties involved."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of social behavior that demonstrates consideration and empathy. It is important to recognize that individuals have ownership of their belongings and that they have the right to control who can use them. In the case of Herb and his chemistry set, Herb had the right to keep it to himself because he earned it and because Billy was not equipped to handle it safely. Therefore, it is crucial to ask for permission before using someone else's property, and to treat their belongings with care and respect. By respecting the property of others, we can build trust and foster positive relationships based on mutual understanding and consideration."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making up for mistakes is an important part of taking responsibility for our actions and showing integrity in our behavior. When we make a mistake, it is essential to acknowledge it, apologize if necessary, and take steps to rectify the situation. In the story of Herb and Billy, Billy accidentally broke one of Herb's test tubes while using his chemistry set without permission. To make up for his mistake, Billy decided to buy a new test tube for Herb, even though it meant sacrificing something he wanted for himself. By making amends and demonstrating genuine remorse, we can show that we value our relationships with others and are committed to making things right. Taking ownership of our mistakes and actively working to correct them is a sign of maturity and respect for those around us."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play encompasses a range of behaviors and attitudes that promote equality, cooperation, and respect in social interactions. It involves sharing when appropriate, taking turns, respecting the property of others, being helpful, and making amends for mistakes. Fair play also includes following rules, communicating openly, and considering the needs and feelings of others. In the story of Herb and Billy, fair play was demonstrated through actions such as taking turns washing dishes, helping each other when needed, and making up for mistakes. By engaging in fair play, individuals can build trust, foster positive relationships, and create a sense of fairness and justice in their interactions with others. Ultimately, fair play is about treating others with kindness, empathy, and consideration, and working together to create a harmonious and respectful environment."
+    }
+]

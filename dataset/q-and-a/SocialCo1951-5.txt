@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my social courtesy?",
+        "answer": "Improving social courtesy involves being friendly and thoughtful in your interactions with others. Start by being polite when calling for someone or when meeting new people. Remember to use good manners, such as rising when an adult speaks to you and sitting properly. Practice making introductions when necessary, as it makes meeting new people simpler and more pleasant. Additionally, join in the fun at social gatherings and be considerate of others. Offer to help and be attentive to the needs of those around you. Learning social courtesy is easy by observing others and can also be enhanced by reading books on courtesy from the library. By making small changes to your behavior and being more mindful of how you interact with others, you can greatly improve your social courtesy and make a positive impression on those you encounter."
+    },
+    {
+        "question": "How can I be more friendly at social events?",
+        "answer": "To be more friendly at social events, start by being open and approachable. Greet others with a smile and engage in conversations in a positive manner. When called upon to make introductions, do so confidently and politely. Be considerate of others by offering help and being attentive to their needs. Join in the fun and participate in group activities to show that you are friendly and willing to engage with others. Avoid being rude or dismissive, and instead, focus on building connections with those around you. By being warm, thoughtful, and inclusive, you can create a welcoming atmosphere at social events and make others feel comfortable and appreciated."
+    },
+    {
+        "question": "How can I show social courtesy when meeting new people?",
+        "answer": "When meeting new people, it's essential to demonstrate social courtesy by being polite, respectful, and engaging. Start by introducing yourself with a smile and a friendly greeting. Pay attention to the other person and show genuine interest in getting to know them. Offer a handshake if appropriate and maintain good eye contact during the conversation. Be mindful of your body language and facial expressions to convey openness and friendliness. Remember to use good manners, such as saying 'please' and 'thank you,' and listening attentively when others are speaking. Making a positive first impression through social courtesy can help establish rapport and build meaningful connections with new people."
+    },
+    {
+        "question": "How can I make a good impression on others through social courtesy?",
+        "answer": "Making a good impression on others through social courtesy involves demonstrating respect, kindness, and consideration in your interactions. Start by being polite and attentive when engaging with others, whether through introductions, conversations, or social gestures. Show genuine interest in the well-being of those around you and offer help or assistance when needed. Use good manners and positive body language to convey friendliness and approachability. By being mindful of your behavior and treating others with respect and courtesy, you can leave a lasting positive impression on those you encounter. Remember that small acts of kindness and thoughtfulness can go a long way in building strong relationships and fostering a sense of community."
+    },
+    {
+        "question": "How can I practice social courtesy in everyday situations?",
+        "answer": "Practicing social courtesy in everyday situations involves being mindful of your interactions with others and making an effort to be polite, considerate, and friendly. Start by greeting people with a smile and a kind word, whether it's a neighbor, a colleague, or a stranger. Use good manners in your communication, such as saying 'please' and 'thank you,' and showing appreciation for others' efforts. Be attentive to the needs of those around you and offer assistance or support when necessary. Engage in conversations with a positive attitude and show empathy and understanding towards others. By incorporating social courtesy into your daily interactions, you can create a more positive and harmonious environment for yourself and those around you."
+    }
+]

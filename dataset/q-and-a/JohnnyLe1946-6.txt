@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my table manners?",
+        "answer": "Improving table manners involves sitting up straight at the table, arranging your napkin properly, and asking for food to be passed to you instead of reaching for it. Make sure to eat neatly without slurping, spilling, or splashing food. Remember to wipe your mouth with a napkin and excuse yourself properly when leaving the table. Being polite and well-mannered is not being a sissy, it's about showing respect for others and acting in a considerate manner. Following these simple guidelines will help you develop good table manners and be seen as a polite individual."
+    },
+    {
+        "question": "What should I do if I want to be a good sport?",
+        "answer": "Being a good sport involves playing fair, playing for the team, and showing good sportsmanship. It's important to be on the job during games and give your best effort, whether you win or lose. Treat others with respect and act in a way that you would like them to act towards you. Avoid being a bully or selfish, and always follow the rules of the game. By being a good sport, you will earn the respect of your peers and be seen as a positive and valued team member."
+    },
+    {
+        "question": "How can I improve my personal hygiene habits?",
+        "answer": "Improving personal hygiene habits involves keeping your room clean and tidy, hanging up clothes, and putting away toys in their designated places. In the bathroom, make sure to hang up towels, put everything back where it belongs, and cap the toothpaste properly. Developing good personal hygiene habits is essential for self-respect and maintaining a clean and organized living space. By being disciplined and consistent in your hygiene practices, you will feel better about yourself and create a positive environment around you."
+    },
+    {
+        "question": "What are the benefits of practicing good manners?",
+        "answer": "Practicing good manners has numerous benefits, such as earning the respect of others, improving relationships, and enhancing your overall image. Good manners show that you are considerate, respectful, and well-behaved. By practicing good manners, you create a positive impression on those around you and build trust and rapport with others. Additionally, practicing good manners can lead to better social interactions, increased opportunities, and a positive reputation. Overall, good manners are essential for personal and professional success."
+    },
+    {
+        "question": "How can I become a better team player?",
+        "answer": "Becoming a better team player involves playing for the team, showing good sportsmanship, and treating others with respect. It's important to support your teammates, communicate effectively, and work towards common goals. Avoid being selfish, bullying others, or trying to win at all costs. By being a team player, you contribute to a positive team dynamic, foster cooperation, and build strong relationships with your teammates. Remember that success in a team sport is not just about winning, but about playing your best, showing respect, and working together towards shared objectives."
+    }
+]

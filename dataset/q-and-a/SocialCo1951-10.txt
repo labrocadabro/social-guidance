@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my social courtesy?",
+        "answer": "Improving social courtesy involves being friendly, thoughtful, and joining in the fun. Always be considerate of others, show genuine interest in their well-being, and actively participate in social activities. Simple acts of kindness, such as helping others, being polite, and showing respect, can go a long way in improving your social interactions. Additionally, learning to make introductions properly, being aware of social cues, and watching others for guidance can help you enhance your social courtesy. Remember, being pleasant and engaging with others will not only make your interactions more enjoyable but also leave a positive impression on those around you."
+    },
+    {
+        "question": "What should I do when calling for a date?",
+        "answer": "When calling for a date, it is important to be courteous and friendly. Start by ringing the doorbell and waiting for your date to answer. Show appreciation for their efforts, such as complimenting their outfit, and be open to the idea of spending a few minutes inside their home if invited. Remember to be patient and considerate, as rushing or being dismissive can come off as impolite. By demonstrating simple acts of kindness and friendliness during the initial interaction, you set a positive tone for the rest of the date and show that you value the other person's time and company."
+    },
+    {
+        "question": "How can I make a good impression at a party?",
+        "answer": "To make a good impression at a party, practice social courtesy by being polite, friendly, and engaging with others. Start by showing respect to the host and other guests, such as rising when an adult speaks to you and maintaining good posture. Proper introductions are crucial, so be prepared to introduce yourself and others in a positive and respectful manner. Participate in social activities, join conversations, and show interest in getting to know new people. Additionally, be mindful of your surroundings, offer to help, and demonstrate good manners throughout the event. By being thoughtful, considerate, and actively engaging with others, you can leave a lasting positive impression at the party."
+    },
+    {
+        "question": "How can I learn social courtesy?",
+        "answer": "Learning social courtesy is a continuous process that involves observing others, practicing good manners, and being open to feedback. Start by watching how people interact in social settings and noting their polite behaviors and gestures. Pay attention to social cues, such as body language and tone of voice, to understand the appropriate responses in different situations. Practice common acts of kindness, such as saying please and thank you, holding the door for others, and offering assistance when needed. Additionally, reading books on courtesy or etiquette from the library can provide valuable insights and tips on improving your social interactions. By actively learning and applying social courtesy in your daily interactions, you can develop positive social skills and make meaningful connections with others."
+    },
+    {
+        "question": "Why is social courtesy important?",
+        "answer": "Social courtesy is important because it helps create a positive and respectful environment in social interactions. By practicing social courtesy, you show consideration for others, build trust and rapport, and foster meaningful connections with people. Being courteous and polite demonstrates your respect for others' feelings, time, and boundaries, and contributes to a harmonious and pleasant social atmosphere. Social courtesy also plays a significant role in making a good impression, building relationships, and enhancing your overall social skills. By prioritizing social courtesy in your interactions, you not only improve your own social experiences but also contribute to a more pleasant and welcoming social environment for everyone involved."
+    }
+]

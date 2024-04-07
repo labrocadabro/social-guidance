@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I exhibit good table manners?",
+        "answer": "Exhibiting good table manners involves being considerate and polite while dining. Start by seating others before yourself and waiting for them to be seated before you sit down. When ordering food, let others order first before you do. While eating, use your utensils properly, taking small, quiet bites without making a mess. Once you have finished your meal, place your utensils in a specific way to indicate that you are done. When eating spoon foods like soup, remember to dip the spoon away from yourself. Show courtesy and consideration by not tipping the bowl when eating soup and not taking too much food from the spoon. Practicing good table manners regularly at home will help you develop these habits naturally. Observing others with good manners, like family members, can also be a helpful way to learn proper table etiquette. Overall, using common sense and being considerate of others are key to displaying good table manners."
+    },
+    {
+        "question": "How can I make guests feel welcome in my home?",
+        "answer": "Making guests feel welcome in your home involves showing good manners and hospitality. Start by offering help or assistance without being asked. Engage in polite conversation with your guests and know when to listen and when to speak. Ensure that your home is clean and inviting, creating a comfortable atmosphere for your guests. Practice good table manners and etiquette when serving meals, making sure to seat guests first and wait for them to start eating before you do. Displaying consideration and thoughtfulness towards your guests will make them feel welcome and appreciated. It's important to be gracious and accommodating, making sure your guests feel at ease in your home. By being attentive and polite, you can create a warm and inviting environment that will make your guests feel happy and comfortable."
+    },
+    {
+        "question": "How should I behave during holiday celebrations?",
+        "answer": "During holiday celebrations, it's important to exhibit good manners and behavior. Offer help and assistance to others, and be willing to lend a hand when needed. Engage in polite conversation and know when to listen attentively. Eat neatly and without making a mess, ensuring that you chew with your mouth closed and take small, manageable bites. Utilize utensils properly, taking care to eat quietly and cleanly. Be considerate of others by waiting your turn and showing patience. Holidays are meant to be joyful occasions, so it's essential to demonstrate good manners and kindness towards those around you. By participating in celebrations with thoughtfulness and respect, you can contribute to a positive and pleasant atmosphere for everyone involved."
+    },
+    {
+        "question": "How can I show gratitude and appreciation during gatherings?",
+        "answer": "Showing gratitude and appreciation during gatherings involves demonstrating good manners and respect towards others. Express your thanks to those who have prepared the event or meal, showing genuine appreciation for their efforts. Offer to help with tasks or clean-up to show your gratitude for being included in the gathering. Engage in polite conversation and listen attentively to others, showing that you value their presence. Practice good table manners by eating neatly and using utensils properly, making sure to be considerate and thoughtful in your actions. By showing gratitude and appreciation through your words and actions, you can create a positive and welcoming atmosphere during gatherings, making others feel valued and respected."
+    },
+    {
+        "question": "How can I contribute to a pleasant dining experience for everyone?",
+        "answer": "Contributing to a pleasant dining experience for everyone involves displaying good table manners and consideration for others. Seat guests before yourself and wait for them to start eating before you do. Use utensils properly, taking small, quiet bites and eating neatly without making a mess. Engage in polite conversation and listen attentively to others, showing interest and respect. Offer help or assistance when needed, demonstrating thoughtfulness and hospitality. Displaying good manners and etiquette will help create a positive and enjoyable dining atmosphere for everyone involved. By being gracious and considerate, you can contribute to a pleasant dining experience that makes others feel comfortable and appreciated."
+    }
+]

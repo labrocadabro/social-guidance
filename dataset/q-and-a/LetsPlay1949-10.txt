@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important aspect of social behavior, but it is also essential to understand when it is appropriate to keep something for oneself. When deciding whether or not to share, consider factors such as the age and safety of the person with whom you are considering sharing. In the case of items that may be dangerous or require a certain level of skill to handle safely, it is perfectly acceptable to keep them for personal use. It is important to strike a balance between sharing and personal ownership, taking into account the well-being and abilities of those involved. Ultimately, the decision to share or not should be based on consideration for others and a sense of responsibility."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is in a fair and just manner involves establishing rules and adhering to them consistently. One way to determine whose turn it is to do a particular task or activity is to create a system, such as marking turns on a calendar or using a rotation schedule. It is also important to consider factors such as age, ability, and fairness when determining turns. Older individuals may be given certain responsibilities or privileges, while younger individuals may have different tasks assigned to them. By establishing clear rules and following them consistently, individuals can ensure that decision-making is fair and everyone has an equal opportunity to participate. Communication and mutual respect are key components of this process, as they help to avoid conflicts and promote a sense of fairness among all parties involved."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of social behavior that demonstrates consideration and empathy towards others. It is important to recognize and acknowledge the personal belongings of others and refrain from using or handling them without permission. Respecting the property of others involves understanding boundaries and showing respect for their possessions as you would expect them to respect yours. If you find yourself in a situation where you are unsure whether you should use someone else's property, it is always best to ask for permission first. By treating other people's belongings with care and consideration, you not only demonstrate good manners and respect but also build trust and positive relationships with others."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "When we make mistakes or errors in judgment, it is important to take responsibility for our actions and make amends in a sincere and genuine manner. One way to make up for our mistakes is by acknowledging them openly and apologizing to those who may have been affected by our actions. It is essential to show genuine remorse and willingness to rectify the situation by offering to correct any damage or inconvenience caused. Additionally, taking proactive steps to prevent similar mistakes in the future and demonstrating a commitment to learning from our errors can help rebuild trust and repair relationships. By showing humility, empathy, and a genuine desire to make things right, we can demonstrate our integrity and willingness to take ownership of our actions."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play encompasses a set of principles and behaviors that promote equality, respect, and consideration for others in social interactions. It involves treating others with fairness, honesty, and integrity, regardless of the circumstances or personal interests involved. Fair play requires individuals to follow rules, share resources, take turns, and make decisions that benefit everyone involved. It also involves showing empathy, kindness, and understanding towards others, even in challenging situations. By practicing fair play, individuals can foster positive relationships, build trust, and create a harmonious social environment based on mutual respect and cooperation. Fair play is not only about following rules but also about demonstrating moral character and ethical behavior in all aspects of life."
+    }
+]

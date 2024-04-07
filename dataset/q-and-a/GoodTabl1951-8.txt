@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my table manners?",
+        "answer": "Improving table manners involves practicing common courtesy, consideration for others, and using common sense. Start by using silverware from the outside in, with the outermost utensils for salad, main course, and dessert. Remember to hold the fork correctly and place only one mouthful of food on it. Park the fork after use and hold the knife properly to cut meat without tearing it. When finished, place the knife and fork in a specific way on the plate. For spoon foods like soup, dip away from yourself, eat from the side of the spoon, and avoid tipping the bowl. Practice these habits regularly at home so they become second nature and watch others with good manners to learn proper etiquette."
+    },
+    {
+        "question": "Why are table manners important?",
+        "answer": "Table manners are essential because they show common courtesy, consideration for others, and reflect your character. Proper table manners create a pleasant dining experience, allowing for relaxed conversation and enjoyment of the meal. Good table manners also contribute to better digestion and overall health. Additionally, having good table manners is crucial for making a positive impression in social settings, such as dining out with a date or having lunch with a potential employer. People often judge others based on their table manners, so it's important to practice and demonstrate good etiquette."
+    },
+    {
+        "question": "What is the significance of practicing good table manners?",
+        "answer": "Practicing good table manners is significant because it helps develop habits of courtesy, consideration, and common sense. By practicing proper etiquette regularly at home, such as using silverware correctly, holding utensils properly, and eating with manners, these behaviors become natural and effortless. Watching and learning from individuals who exhibit good manners, like parents or others, can also aid in refining table manners. The main goal of practicing good table manners is to ensure that they become second nature, allowing individuals to focus on enjoying the meal and engaging in pleasant conversation without worrying about proper etiquette."
+    },
+    {
+        "question": "How can I make a good impression with my table manners?",
+        "answer": "To make a good impression with your table manners, focus on courtesy, consideration for others, and common sense. Always seat the lady first, wait for her to be seated before sitting down, and order your meal after she has ordered hers. Use utensils correctly, hold the fork and knife properly, and place them in a specific way after finishing. When eating spoon foods like soup, remember to dip away from yourself, eat from the side of the spoon, and show consideration for others. By practicing good table manners regularly at home, these behaviors will come naturally and help you make a positive impression in social and professional settings."
+    },
+    {
+        "question": "How do I know which silverware to use at a formal dinner?",
+        "answer": "Knowing which silverware to use at a formal dinner is simple if you follow the 'outside in' rule. Start with the outermost utensils for salad, main course, and dessert. Use the fork for finger foods, fork foods like meats and vegetables, and the spoon for soups and desserts. Remember to hold the fork correctly, place only one mouthful of food on it, and park it after use. Hold the knife properly to cut meat and place the utensils on the plate in a specific way after finishing. By using silverware in the correct order and practicing these habits regularly, you'll be prepared to handle formal dining situations with ease."
+    }
+]

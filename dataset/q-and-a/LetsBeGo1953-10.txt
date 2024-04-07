@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I be a good citizen at school?",
+        "answer": "Being a good citizen at school involves arriving on time, being prepared for lessons, and helping others in need. By getting to school on time, you show respect for your classmates and ensure that everyone can start the day smoothly. Being prepared means thinking ahead and having all the necessary materials ready to avoid disrupting others. Additionally, lending a helping hand to fellow students, whether it's tying a sash, offering to help with a task, or making sure everyone is included in activities, is a key aspect of being a good citizen. Being considerate of others, participating in class activities, and maintaining a positive attitude can also contribute to creating a harmonious and enjoyable environment for everyone at school."
+    },
+    {
+        "question": "How can I practice good manners during recess?",
+        "answer": "During recess, practicing good manners involves participating in group activities, showing consideration for others, and being mindful of safety. When deciding on games to play, it's important to consider everyone's preferences and take turns choosing activities. Ensuring that everyone has a chance to join in and have fun together fosters a sense of inclusivity and cooperation. While playing outdoor games, being aware of your surroundings, avoiding behaviors that could cause harm to others, and playing safely demonstrate good manners. By treating classmates with respect, being courteous, and maintaining a positive attitude, you can contribute to a pleasant recess experience for everyone."
+    },
+    {
+        "question": "What are some ways to help make school time more fun?",
+        "answer": "Making school time more enjoyable involves being cheerful, helping others, and participating in activities with a positive attitude. Greeting friends, saying hello to classmates, and spreading positivity can create a welcoming and friendly atmosphere. Offering assistance to peers, whether it's helping with tasks, sharing materials, or supporting one another, can enhance the overall school experience. Engaging in activities such as art projects, where teamwork and creativity are encouraged, can also make school time more fun. By maintaining a cheerful demeanor, fostering friendships, and actively participating in school activities, you can help create a lively and enjoyable environment for everyone."
+    },
+    {
+        "question": "How can I practice good table manners at school?",
+        "answer": "Practicing good table manners at school involves demonstrating courtesy, consideration, and proper etiquette. When dining, it's important to be mindful of seating arrangements, order meals politely, and eat in a manner that is neat and respectful. Using utensils appropriately, displaying courtesy towards others, and refraining from behaviors that could be disruptive or disrespectful are key components of good table manners. Additionally, showing consideration for fellow diners, maintaining a pleasant demeanor, and following common-sense dining practices contribute to a positive dining experience. By practicing good table manners regularly, observing proper etiquette, and being considerate of others, you can cultivate a respectful and pleasant dining environment at school."
+    },
+    {
+        "question": "How can I help keep my school a safe place?",
+        "answer": "Contributing to a safe school environment involves being cautious, playing responsibly, and respecting school property. Avoiding actions that could cause harm to others, playing games with consideration for safety, and showing awareness of potential risks demonstrate a commitment to school safety. Being mindful of the well-being of others, playing games in a manner that minimizes hazards, and following safety guidelines help maintain a secure school environment. Respecting school property, avoiding behaviors that could damage school resources, and taking precautions to prevent accidents are essential for creating a safe and secure school setting. By practicing caution, promoting responsible behavior, and respecting school rules, you can play a role in ensuring the safety of your school."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make new friends?",
+        "answer": "Making new friends can be as simple as making the first move. Sometimes, you have to take the initiative to introduce yourself and open up a whole new world of possibilities. Not everyone might be outgoing, so by reaching out first, you can create opportunities for new friendships to blossom. Being understanding of others' differences and being willing to learn about them can also help in making new friends. Remember, it's important to be open to meeting interesting people everywhere, and you may be surprised at the friends you'll make and the things you'll learn."
+    },
+    {
+        "question": "How can I show respect and trust in a friendship?",
+        "answer": "Respect and trust are vital components of a friendship. To show respect, it's important to listen to your friends' opinions, offer sincere advice, and be open to different points of view. Trust is built through honesty, being truthful but polite, and understanding that friends may have differing ideas or beliefs. A good friendship involves mutual respect and trust, where both parties feel valued and understood. By respecting your friends' privacy, being patient and sensitive, and showing concern and support when needed, you can strengthen the bonds of respect and trust in your friendships."
+    },
+    {
+        "question": "How can I maintain equal friendships?",
+        "answer": "In maintaining equal friendships, it's important to remember that a friendship does not obligate one another. Both parties should respect each other's rights and privacy, without feeling obligated to each other. Keeping in touch, showing concern and support, and offering thoughtful help when needed can help in maintaining equal friendships. Being truthful but polite, understanding when to let each other go if interests change, and being willing to remember the good times shared in the past can also contribute to maintaining equal friendships."
+    },
+    {
+        "question": "How can I be a good friend?",
+        "answer": "Being a good friend involves actively participating in the growth of the friendship. It requires effort to make friends, keep friends, and above all, to be a friend. Good friends are patient and sensitive, understanding when someone needs a helping hand, and being truthful but polite in their interactions. Showing respect, trust, and equal treatment in friendships, along with being understanding of differences and willing to learn from each other, are key aspects of being a good friend. Remember, friendship is a relationship that requires mutual sharing, caring, and support to thrive."
+    },
+    {
+        "question": "How can I handle changing friendships?",
+        "answer": "As people change over time, so too may friendships. It's important to be willing to admit when interests or needs have shifted and understand that it's okay to let go of a friendship if it no longer serves both parties. Remembering the good times shared in the past and being open to new friendships can help in handling changing relationships. Offering thoughtful help when needed, being truthful but polite, and understanding when to give each other space are important aspects to consider when navigating changing friendships."
+    }
+]

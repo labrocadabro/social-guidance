@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I ensure I have a good time at a party?",
+        "answer": "To have a good time at a party, it's important to be considerate of others and join in the fun. Make sure to be on time when attending a party, as this shows respect for the host and other guests. Additionally, when the party is coming to an end, be sure to leave on time as well, so as not to overstay your welcome. Remember to participate in any games or activities that are suggested, as this promotes teamwork and ensures that everyone has a good time. While playing games, it's crucial to follow the rules and be a good sport, whether you win or lose. Avoid teasing or making fun of others, as this can hurt their feelings and ruin the fun for everyone. By being polite, considerate, and joining in the activities in the right way, you can ensure that you and others have a great time at the party."
+    },
+    {
+        "question": "How should I handle being a winner or a loser in games at a party?",
+        "answer": "Whether you win or lose at games during a party, it's important to remember to maintain good sportsmanship. If you win, be gracious and humble in your victory, and remember to be a good winner by not boasting or rubbing it in others' faces. On the other hand, if you lose, be a good loser by accepting defeat gracefully and congratulating the winner. Avoid getting upset or throwing a tantrum if you don't win, as this can ruin the fun for everyone. Remember to follow the rules of the game and be respectful towards others, regardless of the outcome. By being a good winner or loser, you can contribute to a positive and enjoyable atmosphere at the party for yourself and others."
+    },
+    {
+        "question": "How can I ensure I have good manners at a party?",
+        "answer": "Having good manners at a party is essential to ensure that everyone has a pleasant experience. Start by being clean and neat when you arrive at the party, as this shows respect for the host and other guests. Remember to be on time and leave on time, so as not to inconvenience the host or other attendees. When participating in games or activities, follow the rules and show consideration for others by being polite and respectful. Avoid teasing or making fun of others, as this can lead to hurt feelings and spoil the fun for everyone. Additionally, remember your table manners when eating, such as using utensils properly and not making a mess. By practicing good manners and being considerate of others, you can ensure that you have a positive and enjoyable time at the party."
+    },
+    {
+        "question": "How should I handle my interaction with others at a party?",
+        "answer": "When interacting with others at a party, it's important to be considerate, polite, and respectful. Start by being on time and leaving on time, so as not to inconvenience the host or other guests. Join in the games and activities suggested, and remember to be a good sport whether you win or lose. Avoid teasing or making fun of others, as this can hurt their feelings and detract from the fun for everyone. Show courtesy and consideration towards others, and always remember your table manners when eating. By interacting with others in a kind and respectful manner, you can help create a positive and enjoyable atmosphere at the party for yourself and everyone else."
+    },
+    {
+        "question": "How can I ensure I am a considerate guest at a party?",
+        "answer": "Being a considerate guest at a party involves several key behaviors that contribute to a positive experience for everyone. Start by being on time and leaving on time, as this shows respect for the host and other guests. Participate in games and activities with enthusiasm, and be a good sport whether you win or lose. Avoid teasing or making fun of others, as this can lead to hurt feelings and spoil the fun for everyone. Remember to use good table manners when eating, and show courtesy and consideration towards others at all times. By being considerate, polite, and respectful, you can ensure that you are a welcome and valued guest at the party, and contribute to an enjoyable experience for yourself and others."
+    }
+]

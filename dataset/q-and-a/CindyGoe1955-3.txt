@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure I have a good time at a party?",
+        "answer": "To ensure you have a good time at a party, it's important to remember a few key things. Firstly, always be on time when you go to a party, as nobody likes to be left waiting. Additionally, it's crucial to leave on time when the party is over, as overstaying can spoil the fun for others. Secondly, join in the games and activities wholeheartedly, as a party calls for teamwork and everyone should participate. However, remember not to be too noisy or rough, and avoid breaking things. Lastly, do not tease or make fun of others, as it can hurt their feelings and ruin the fun for both of you. Being polite, considerate, and a good sport will guarantee that you have a great time at any party."
+    },
+    {
+        "question": "How should I handle winning or losing a game at a party?",
+        "answer": "When playing games at a party, it's essential to handle winning or losing with grace. If you win, be a good winner and show sportsmanship by not gloating or rubbing it in others' faces. On the other hand, if you lose, be a good loser and accept the outcome with dignity. Remember to follow the rules of the game and respect the results, whether you win or lose. Being a good sport and maintaining a positive attitude will ensure that everyone has a fun and enjoyable time playing games at the party."
+    },
+    {
+        "question": "How can I ensure I have good table manners at a social gathering?",
+        "answer": "Having good table manners at a social gathering is crucial to making a positive impression. Remember to seat others before yourself and wait for everyone to be seated before starting the meal. Order your food after others have ordered theirs and eat properly with utensils, using common sense and not making a mess. When finishing the meal, place your utensils in a specific way to indicate you're done. When eating spoon foods, dip the spoon away from yourself, and always show courtesy and consideration towards others. Avoid tipping bowls when eating soup and be mindful not to eat too much from the spoon. Practicing good table manners regularly at home and observing others with good etiquette can help you develop proper dining habits naturally."
+    },
+    {
+        "question": "How should I behave when attending a social event like a party?",
+        "answer": "When attending a social event like a party, it's important to be considerate of others and follow some key guidelines. Firstly, remember to be on time and leave on time to avoid inconveniencing the host or other guests. Join in the activities and games enthusiastically, but be mindful not to be too noisy or rough, and refrain from breaking things. Avoid teasing or making fun of others, even in jest, as it can lead to hurt feelings. Always be polite, show sportsmanship when playing games, and maintain a positive attitude throughout the event. By being considerate, following the rules, and treating others with respect, you can ensure a pleasant and enjoyable experience at any social gathering."
+    },
+    {
+        "question": "How can I make sure I have a positive social interaction at a party?",
+        "answer": "To have a positive social interaction at a party, it's essential to focus on being considerate and respectful towards others. Being on time and leaving on time are key aspects of showing respect for the host and fellow guests. Participating in games and activities with enthusiasm while maintaining a level of decorum is important. Avoid teasing or making fun of others, as it can lead to misunderstandings and hurt feelings. Practice good table manners and show courtesy towards others when dining. By following these guidelines, being polite, and showing consideration for those around you, you can ensure a positive and enjoyable social interaction at any party."
+    }
+]

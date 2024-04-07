@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I exhibit good table manners?",
+        "answer": "Exhibiting good table manners involves being considerate and respectful while dining. It's important to seat others before yourself, wait for everyone to be seated before starting the meal, and ordering your food after others have ordered. When eating, use utensils properly, take small bites, and chew with your mouth closed. Additionally, it's essential to show courtesy and consideration towards others, such as not talking with food in your mouth and eating neatly without making a mess. Knowing how to use a napkin, spoon, knife, and fork appropriately is key to demonstrating good table manners. By practicing these behaviors regularly and being mindful of others while dining, you can ensure a pleasant and respectful dining experience for everyone at the table."
+    },
+    {
+        "question": "How can I be a considerate host or guest?",
+        "answer": "Being a considerate host or guest involves showing kindness and respect towards others. As a host, make sure to provide a welcoming environment for your guests, offer help when needed, and engage in polite conversation. It's important to be attentive to your guests' needs and preferences, and to make them feel comfortable and appreciated. As a guest, express gratitude for the invitation, arrive on time, and be respectful of the host's home and rules. Participate in conversations, offer to help with tasks, and show appreciation for the host's efforts. By being considerate, thoughtful, and respectful towards others, you can create a positive and enjoyable atmosphere for everyone involved."
+    },
+    {
+        "question": "How can I contribute to a happy celebration?",
+        "answer": "Contributing to a happy celebration involves being helpful, considerate, and engaged with others. Offer assistance in preparing for the event, whether it's setting up decorations, arranging seating, or helping with food preparation. Be attentive to the needs of others and offer your support when necessary. Engage in conversations, listen actively, and show interest in others' experiences and stories. Practice good table manners, such as using utensils properly, eating neatly, and chewing with your mouth closed. By being a positive and considerate presence at the celebration, you can help create a joyful and harmonious atmosphere for everyone to enjoy."
+    },
+    {
+        "question": "How can I practice good manners during a holiday meal?",
+        "answer": "Practicing good manners during a holiday meal involves being mindful of your behavior and actions. Seat others before yourself, wait for everyone to be seated before starting the meal, and order your food after others have ordered. Use utensils properly, take small mouthfuls, and chew with your mouth closed. Show courtesy and consideration towards others, such as not speaking with food in your mouth and eating neatly without making a mess. Know how to use a napkin, spoon, knife, and fork appropriately. Engage in polite conversation, listen actively, and show appreciation for the meal and the efforts of those who prepared it. By practicing good manners and being considerate of others during a holiday meal, you can contribute to a positive and enjoyable dining experience for everyone at the table."
+    },
+    {
+        "question": "How can I be a courteous and respectful dinner guest?",
+        "answer": "Being a courteous and respectful dinner guest involves showing consideration and appreciation towards your host and fellow diners. Express gratitude for the invitation, arrive on time, and adhere to any guidelines or rules set by the host. Engage in polite conversation, listen actively, and participate in discussions with respect. Offer to help with tasks or cleanup, and show appreciation for the meal and the efforts of the host. Use utensils properly, eat neatly, and chew with your mouth closed. Be mindful of your behavior and actions, and show courtesy and consideration towards others throughout the meal. By being a courteous and respectful dinner guest, you can help create a positive and pleasant dining experience for everyone at the table."
+    }
+]

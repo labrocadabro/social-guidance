@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Can you be satisfied just to have fun with the rest of them?",
+        "answer": "Being able to have fun with others and be satisfied with that is an important social behavior. It's essential to join in group activities and enjoy the company of your peers without resorting to negative behaviors or trying to show off. By participating in activities with your classmates and friends, you can build positive relationships and create a harmonious environment. Remember, it's not necessary to seek attention or dominate the group; instead, focus on sharing experiences and having a good time together. Being content with simply enjoying the moment and engaging with others in a positive manner will lead to stronger friendships and a more fulfilling social life."
+    },
+    {
+        "question": "Are you really so brave or are you the one who is afraid?",
+        "answer": "Bravery is often associated with standing up to challenges and facing fears head-on. However, true bravery also involves being able to show vulnerability, admit mistakes, and seek help when needed. It's important to reflect on your actions and behaviors to determine if you are truly courageous or if you are masking your fears with negative behaviors. Instead of resorting to intimidation or bullying tactics, try to address your fears and insecurities in a healthy way. Seeking support from friends, family, or a trusted adult can help you overcome your fears and develop genuine bravery. Remember, true courage is not about exerting power over others, but about facing challenges with honesty and integrity."
+    },
+    {
+        "question": "How will you treat Chick Allen now?",
+        "answer": "After experiencing Chick Allen's negative behavior, it's important to consider how you will interact with him moving forward. Instead of resorting to retaliation or exclusion, try to approach Chick with understanding and empathy. Consider the underlying reasons for his actions and offer support if he is struggling with personal issues. By showing kindness and compassion towards Chick, you can help him feel accepted and valued as a member of the group. Remember, everyone deserves a second chance and the opportunity to make positive changes in their behavior. By treating Chick with respect and giving him the benefit of the doubt, you can contribute to a more inclusive and supportive social environment."
+    },
+    {
+        "question": "How will you act?",
+        "answer": "When faced with challenging social situations, it's important to consider your actions carefully and choose behaviors that align with your values and principles. Instead of reacting impulsively or following negative influences, strive to act in a way that reflects your true character and integrity. Treat others with kindness, respect, and empathy, even in difficult circumstances. By demonstrating positive behaviors and leading by example, you can influence those around you to act in a similar manner. Remember, your actions have the power to shape the social dynamics of your group and contribute to a positive and supportive environment for everyone involved."
+    },
+    {
+        "question": "Do you still think you handled the bully problem in the right way?",
+        "answer": "Reflecting on how you handled the bully problem can provide valuable insights into your approach to challenging social situations. Consider whether your actions were effective in addressing the issue and promoting a safe and inclusive environment for all. If you feel that there were missed opportunities or alternative strategies that could have been employed, take the time to learn from the experience and make positive changes moving forward. By evaluating your response to bullying behavior, you can develop a better understanding of how to address similar situations in the future and contribute to a more supportive and respectful social climate."
+    }
+]

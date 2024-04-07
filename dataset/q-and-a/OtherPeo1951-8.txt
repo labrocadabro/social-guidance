@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make good decisions and avoid getting into trouble?",
+        "answer": "To make good decisions and avoid getting into trouble, it's important to stop and think about the consequences of your actions. Consider how your choices will impact those around you, especially if it involves breaking rules or causing harm. If you have doubts or feel like something is wrong, listen to your instincts and speak up. It's essential to have the courage to do the right thing, even if it means going against your friends. Remember that real friends would never put you in a situation where you have to compromise your values. Take responsibility for your actions and be mindful of the potential consequences before proceeding. By thinking things through and considering the outcomes, you can make better decisions and avoid getting into trouble."
+    },
+    {
+        "question": "How can I handle peer pressure and make the right choices?",
+        "answer": "Dealing with peer pressure and making the right choices can be challenging, but it's crucial to stay true to your values and beliefs. If your friends are pressuring you to do something that you know is wrong, don't be afraid to speak up and stand your ground. Remember that it's okay to say no and prioritize your well-being over fitting in with the crowd. Surround yourself with friends who respect your boundaries and support your decisions. It's important to trust your instincts and not be swayed by the opinions of others. Making the right choices often means going against the group and doing what you know is right, even if it's difficult. By staying true to yourself and not giving in to peer pressure, you can build self-confidence and integrity."
+    },
+    {
+        "question": "What can I do to prevent harmful pranks and avoid causing damage to property?",
+        "answer": "To prevent harmful pranks and avoid causing damage to property, it's essential to think before you act. Consider the potential consequences of your actions and how they may impact others. If you're unsure whether something is a good idea, it's better to err on the side of caution and refrain from participating. Remember that causing harm or damage, even as a joke, is not worth the risk of hurting someone or damaging property. If you see others planning to engage in harmful pranks, speak up and express your concerns. Encourage your peers to think about the possible outcomes and choose alternative activities that are safe and respectful. By being proactive and responsible, you can help prevent unnecessary harm and promote a positive environment for everyone."
+    },
+    {
+        "question": "How can I show accountability and take responsibility for my actions?",
+        "answer": "Showing accountability and taking responsibility for your actions is a sign of maturity and integrity. If you make a mistake or engage in behavior that causes harm, own up to it and apologize sincerely. Acknowledge the impact of your actions on others and express genuine remorse for any damage or hurt caused. Avoid making excuses or shifting blame onto others; instead, focus on how you can make amends and learn from the experience. It's important to accept the consequences of your actions, whether they involve disciplinary measures or repairing the damage done. By demonstrating accountability and taking responsibility, you show that you are willing to learn from your mistakes and grow as a person."
+    },
+    {
+        "question": "How can I build trust and maintain positive relationships with others?",
+        "answer": "Building trust and maintaining positive relationships with others require honesty, respect, and consideration. Be truthful in your interactions and avoid deceit or manipulation. Treat others with kindness and empathy, taking their feelings and perspectives into account. Listen actively to what others have to say and show genuine interest in their well-being. Avoid engaging in behaviors that may harm or betray the trust of those around you. If conflicts arise, address them openly and seek solutions that are fair and respectful to all parties involved. By fostering open communication, demonstrating integrity, and showing empathy towards others, you can build trust and create meaningful connections that last."
+    }
+]

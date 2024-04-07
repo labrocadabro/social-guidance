@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I be punctual and why is it important?",
+        "answer": "Being punctual means arriving on time for school, activities, or events. It is important because being late not only affects you by causing you to miss out on important information or activities, but it also disrupts others around you. When you are late, it can delay the start of the lesson or event, causing everyone else to miss out as well. By being punctual, you show respect for others' time and ensure that everything runs smoothly for everyone involved. It is a key aspect of being a good citizen, as it allows everyone to work and play happily together without any unnecessary disruptions."
+    },
+    {
+        "question": "How can I help others at school?",
+        "answer": "You can help others at school by doing little things for them, such as tying a sash for a friend or offering to help them with tasks they may struggle with. By being observant and looking for opportunities to assist your classmates, you can make a positive impact on their day. Being a good citizen involves lending a helping hand to those around you and contributing to a positive and supportive school environment. Whether it's helping someone find their way, tying a shoelace, or sharing your knowledge, every small act of kindness can make a big difference in someone else's day."
+    },
+    {
+        "question": "How can I prepare for school activities?",
+        "answer": "Preparing for school activities involves thinking ahead and ensuring you have everything you need to participate without causing any disturbances to others. This includes having the necessary materials, such as books, pencils, or sports gear, ready in advance. By planning ahead and being organized, you can avoid disruptions and ensure that you can fully engage in the activity without any last-minute hiccups. Being prepared is not only beneficial for yourself but also shows consideration for your classmates and teachers, making you a responsible and proactive member of the school community."
+    },
+    {
+        "question": "How can I be inclusive during recess activities?",
+        "answer": "During recess, it's important to be inclusive and considerate of others' preferences when choosing games or activities to play. By involving everyone in the decision-making process and taking turns to play different games, you can ensure that everyone feels included and has a chance to participate. Being open to different ideas and accommodating others' choices can create a harmonious and enjoyable recess environment for everyone. It's all about working together, compromising, and making sure that everyone has a chance to join in the fun, fostering a sense of unity and camaraderie among classmates."
+    },
+    {
+        "question": "How can I demonstrate good manners at school?",
+        "answer": "Demonstrating good manners at school involves showing courtesy, consideration, and respect towards others in your actions and interactions. This includes simple gestures like picking up after yourself, not disrupting others, and waiting your turn in line. By being mindful of your behavior and how it impacts those around you, you can create a positive and respectful atmosphere within the school community. Good manners not only reflect well on your character but also contribute to a harmonious and cooperative learning environment where everyone feels valued and respected. It's about treating others the way you would like to be treated and upholding a standard of decency and politeness in all your interactions."
+    }
+]

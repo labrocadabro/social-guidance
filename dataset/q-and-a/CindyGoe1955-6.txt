@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure I have a good time at a party?",
+        "answer": "To have a good time at a party, it's important to be on time and leave on time. Nobody likes to wait for a party to start, and dragging it on too long can spoil the fun for everyone. Join in the games and activities with enthusiasm, but remember to be polite, considerate, and follow the rules. Avoid teasing or making fun of others, even in jest, to prevent hurting anyone's feelings. Be a good loser if you don't win, and a good winner if you do. Always show good manners, be clean and neat, and show consideration towards others. By following these guidelines, you'll be sure to have a great time at any party."
+    },
+    {
+        "question": "How can I ensure I am well-mannered at a party?",
+        "answer": "Being well-mannered at a party involves a few key points. Firstly, remember to be polite and considerate to others, including being a good sport whether you win or lose in games. Avoid teasing or making fun of others, as their feelings could be hurt. Additionally, be clean and neat, and follow the rules of any games or activities. Remember to thank the hostess before leaving and always leave on time to show respect for the event and others attending. By practicing good manners and being considerate of others, you'll always be well-mannered at any party you attend."
+    },
+    {
+        "question": "How should I behave when playing games at a party?",
+        "answer": "When playing games at a party, it's crucial to join in wholeheartedly and follow the rules. Avoid being too noisy or rough, and be mindful not to break anything. Remember to be a good loser if you don't win and a good winner if you do. Avoid teasing or making fun of others, even in a joking manner, as it can lead to hurt feelings. Show good sportsmanship, be polite, and considerate towards others. By behaving in this manner during games, you'll ensure a fun and enjoyable experience for everyone at the party."
+    },
+    {
+        "question": "How can I show consideration for others at a party?",
+        "answer": "To show consideration for others at a party, it's essential to be polite, respectful, and follow the rules of the event. Avoid teasing or making fun of others, as it can hurt their feelings. Be a good sport in games, whether you win or lose, and always show good manners by being clean and neat. Remember to thank the hostess before leaving and ensure you leave on time to respect the schedule and others attending. By demonstrating consideration for others through your actions and words, you'll contribute to a positive and enjoyable atmosphere at the party."
+    },
+    {
+        "question": "What are some general guidelines for appropriate behavior at parties?",
+        "answer": "When attending parties, there are several key guidelines to follow for appropriate behavior. Be on time and leave on time to show respect for the event and others. Join in games and activities with enthusiasm, but remember to be polite, considerate, and follow the rules. Avoid teasing or making fun of others, as it can lead to hurt feelings. Show good sportsmanship, be clean and neat, and thank the hostess before departing. By adhering to these general guidelines, you'll ensure you behave appropriately at any party you attend."
+    }
+]

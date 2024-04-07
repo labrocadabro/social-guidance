@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make and keep friends?",
+        "answer": "Making and keeping friends involves sharing activities, interests, and opinions with others. It requires making the first move sometimes, as not everyone may be outgoing. By introducing yourself and being understanding of others' differences, you can open up new friendships. Additionally, being respectful, trustworthy, and offering help when needed are key aspects of making and keeping friends. It's important to show concern and support, be truthful but polite, and be patient and sensitive with your friends. Remember, friendships require effort to grow and should not be taken for granted."
+    },
+    {
+        "question": "What are the key components of a friendship?",
+        "answer": "Friendship is built on sharing, trust, and respect for each other. It involves caring for one another, sharing secrets, fears, doubts, and hopes. A good friendship helps both individuals grow and learn from each other. It requires understanding and accepting differences, being open to new perspectives, and offering thoughtful help when needed. Additionally, friendships should be equal, with each person respecting the other's rights and privacy. It's important to be truthful but polite, show concern and support, and be patient and sensitive with your friends."
+    },
+    {
+        "question": "How can I be a good friend?",
+        "answer": "Being a good friend means being respectful, trustworthy, and supportive. It involves sharing activities, interests, and opinions with your friends. Good friends offer help when needed, are truthful but polite, and understand the importance of patience and sensitivity. It's crucial to show concern for your friends, be equal in the relationship, and respect each other's privacy. Keeping in touch, even with a simple note, and being there when your friends need you are also key aspects of being a good friend. Remember, friendships require effort and should not be taken for granted."
+    },
+    {
+        "question": "How should I handle changing friendships?",
+        "answer": "As people change over time, friendships may also change. It's important to recognize when interests diverge and needs evolve. Friends should be able to let each other go if the time comes and remember the good times shared. Being open and honest about changing interests or needs is crucial in handling changing friendships. It's better to cherish the memories of past friendships than to force a relationship that may no longer be in sync with both individuals. Remember, friendships require effort and understanding to grow and evolve."
+    },
+    {
+        "question": "What role does respect play in friendships?",
+        "answer": "Respect is a fundamental aspect of friendships. It involves treating your friends with consideration, understanding, and equality. Respect means sharing activities, interests, and opinions while being open to differences and new perspectives. Trust and respect go hand in hand in a friendship, creating a foundation for mutual growth and learning. Showing respect for your friends' privacy, rights, and feelings is crucial in maintaining a healthy and lasting friendship. Remember, respect is key in building and nurturing meaningful relationships."
+    }
+]

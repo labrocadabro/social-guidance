@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure to have a good time at a party?",
+        "answer": "To have a good time at a party, it's important to be considerate of others and join in the activities. Be sure to arrive on time and leave on time, so you don't make others wait or overstay your welcome. Join in the games and activities wholeheartedly, as a party is more fun when everyone participates. Remember to be a good sport, whether you win or lose, and always follow the rules of the games. Additionally, avoid teasing or making fun of others, as it can hurt their feelings and ruin the fun for everyone. Lastly, remember to be polite, have good manners, and show courtesy to others. By being considerate and participating in a positive way, you can ensure that you and others have a great time at the party."
+    },
+    {
+        "question": "How should I behave when joining in games at a party?",
+        "answer": "When joining in games at a party, it's important to follow the rules, be a good sport, and show consideration for others. Obey the rules of the game and avoid being too noisy or rough, as it can disrupt the fun for everyone. Be a good loser if you don't win, and be a good winner if you do. Remember not to tease or make fun of others, even in jest, as it can hurt their feelings. Show respect for your friends and playmates by being polite and considerate. By playing games in the right way and being a good sport, you can ensure that everyone has a fun and enjoyable time at the party."
+    },
+    {
+        "question": "How can I ensure I have good table manners when eating at a party?",
+        "answer": "Having good table manners at a party involves being clean and neat, following proper etiquette, and showing consideration for others. Remember to thank the hostess for the meal and be polite to everyone at the table. Eat with your knife and fork properly, and avoid making a mess or being too noisy while eating. When eating spoon foods, dip the spoon away from yourself to prevent spills. Show courtesy and consideration by not tipping bowls, eating too quickly, or taking too much food at once. By practicing good table manners regularly and being mindful of your behavior at the table, you can ensure that you make a positive impression and enjoy your meal without causing any disruptions."
+    },
+    {
+        "question": "How can I be a considerate party guest?",
+        "answer": "Being a considerate party guest involves being on time, leaving on time, and participating in the activities in a positive way. Arrive at the party when expected so you don't keep others waiting, and make sure to leave at the appropriate time to avoid overstaying your welcome. Join in the games and activities with enthusiasm, and remember to follow the rules and be a good sport. Avoid teasing or making fun of others, as it can spoil the fun for everyone. Show courtesy and respect to your fellow guests, and always be polite and considerate in your interactions. By being thoughtful and considerate, you can contribute to a positive and enjoyable party atmosphere for everyone."
+    },
+    {
+        "question": "How can I ensure that I have fun at a party?",
+        "answer": "To have fun at a party, it's important to be considerate of others, participate in the activities, and follow proper etiquette. Arrive on time and leave on time to show respect for the host and other guests. Join in the games and activities with enthusiasm, and remember to be a good sport, whether you win or lose. Avoid teasing or making fun of others, as it can ruin the fun for everyone. Show good manners at the table by being clean, neat, and polite, and remember to thank the host for the meal. By being considerate, following the rules, and showing respect for others, you can enjoy yourself and ensure that everyone has a positive and fun experience at the party."
+    }
+]

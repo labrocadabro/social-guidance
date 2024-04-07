@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I prevent spreading germs and keep myself well?",
+        "answer": "To prevent spreading germs and keep yourself well, make sure to cover your sneezes and coughs, ideally with a tissue or your elbow, to prevent the spread of cold germs. Avoid sharing food or utensils with others, as this can also spread germs. Ensure you wash your hands regularly, especially before handling food, to prevent the spread of bacteria. Dress appropriately for the weather to avoid getting cold, as being chilly can make you more susceptible to catching a cold. If you have a cold, stay home to prevent spreading the infection to others. It's also important to keep your personal items, like towels and cups, separate from others to avoid catching their cold. Remember to keep your hands clean while eating and avoid touching your face, as this can introduce germs into your system. By following these practices, you can help prevent the spread of germs and keep yourself and others well."
+    },
+    {
+        "question": "How can I practice good hygiene?",
+        "answer": "Practicing good hygiene involves several key steps. Always wash your hands thoroughly with soap and water, especially before handling food or eating. Make sure to cover your mouth and nose when sneezing or coughing to prevent the spread of germs. Avoid sharing personal items like towels or cups to prevent the transmission of bacteria. Dress appropriately for the weather to avoid getting cold and potentially falling ill. If you do catch a cold, stay home to prevent spreading the infection to others. Remember to keep your living spaces clean and tidy to reduce the risk of germ transmission. By following these hygiene practices, you can maintain good health and prevent the spread of illnesses."
+    },
+    {
+        "question": "How can I show consideration for others during an illness?",
+        "answer": "When you are feeling unwell, it's important to show consideration for others to prevent the spread of illness. Make sure to cover your mouth and nose when sneezing or coughing to avoid spreading germs. Wash your hands regularly to prevent transmitting bacteria to others. If you have a cold, stay home to prevent infecting others and allow yourself time to recover. Avoid sharing food, utensils, or personal items with others to prevent the spread of illness. Keep your living spaces clean and tidy to reduce the risk of germ transmission to those around you. By being mindful of your actions and taking steps to prevent the spread of illness, you can show consideration for others during an illness."
+    },
+    {
+        "question": "How can I maintain good health habits at home and in school?",
+        "answer": "Maintaining good health habits at home and in school involves several key practices. Dress appropriately for the weather to avoid getting sick and ensure you stay warm. Wash your hands regularly, especially before handling food or eating, to prevent the spread of germs. Cover your mouth and nose when sneezing or coughing to avoid spreading illness to others. If you are feeling unwell, stay home to prevent infecting others and allow yourself time to recover. Keep your personal items separate from others and avoid sharing food or utensils to prevent the transmission of bacteria. By following these health habits both at home and in school, you can maintain good health and prevent the spread of illness."
+    },
+    {
+        "question": "How can I help keep my school and home environments clean and healthy?",
+        "answer": "Helping to keep your school and home environments clean and healthy involves taking proactive steps to prevent the spread of germs. Make sure to wash your hands regularly with soap and water, especially before handling food or eating. Cover your mouth and nose when sneezing or coughing to avoid spreading germs to others. Dress appropriately for the weather to avoid getting sick and ensure you stay warm. If you are feeling unwell, stay home to prevent infecting others and allow yourself time to recover. Keep your personal items separate from others and avoid sharing food or utensils to prevent the transmission of bacteria. By following these practices, you can contribute to maintaining clean and healthy environments both at school and at home."
+    }
+]

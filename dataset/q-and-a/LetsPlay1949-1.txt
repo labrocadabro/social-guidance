@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important aspect of social behavior that promotes fairness and consideration for others. It is essential to share things when it is appropriate and when it does not compromise anyone's safety or well-being. Understanding when to share involves considering factors such as the nature of the item, the age and ability of the individuals involved, and the impact of sharing on everyone's experiences. Sharing should be done willingly and without pressure, ensuring that all parties involved feel comfortable and respected. By sharing things, we demonstrate kindness, generosity, and empathy towards others, fostering positive relationships and creating a harmonious environment."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is requires communication, cooperation, and a fair system that everyone agrees upon. Establishing rules and guidelines for taking turns can help avoid conflicts and ensure that each person has an equal opportunity to participate. It is important to consider factors such as age, ability, and personal preferences when determining whose turn it is. By following a predetermined schedule or method for taking turns, individuals can demonstrate respect for each other's needs and desires. Effective communication and mutual understanding are key to resolving any disagreements that may arise when deciding whose turn it is. Ultimately, the goal is to promote fairness, equality, and harmony in social interactions by sharing responsibilities and opportunities among all participants."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is fundamental to demonstrating good manners, consideration, and respect in social interactions. It is important to recognize and acknowledge that each person has a right to their belongings and that it is not acceptable to use or take someone else's property without permission. Respecting the property of others involves refraining from damaging, misusing, or interfering with their possessions. By treating other people's belongings with care and consideration, we show that we value their ownership and rights. Respecting property also extends to seeking permission before borrowing or using items that belong to others, as well as returning borrowed items in their original condition. By practicing respect for the property of other people, we contribute to a culture of trust, responsibility, and mutual understanding in social relationships."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making up for mistakes involves taking responsibility, showing accountability, and making amends for any harm or inconvenience caused to others. When we make mistakes, it is important to acknowledge our errors, apologize sincerely, and seek ways to rectify the situation. This may include offering assistance, providing compensation, or taking corrective actions to address the consequences of our mistakes. By demonstrating humility, empathy, and a willingness to learn from our errors, we show that we value the feelings and well-being of those affected by our actions. Making up for mistakes also involves reflecting on the reasons behind our errors and taking steps to prevent similar mistakes in the future. By showing integrity, honesty, and a commitment to self-improvement, we can rebuild trust, repair relationships, and foster a culture of forgiveness and understanding."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play encompasses principles of honesty, integrity, respect, and cooperation in social interactions. It involves treating others with dignity, fairness, and equality, regardless of differences or circumstances. Fair play means following rules, sharing responsibilities, and making decisions that benefit everyone involved. It requires a mindset of empathy, consideration, and compassion towards others, as well as a commitment to upholding ethical standards and moral values. Fair play promotes harmonious relationships, positive communication, and mutual understanding among individuals. By practicing fair play, we create a sense of trust, camaraderie, and teamwork in our interactions, fostering a culture of respect and cooperation that benefits everyone in the community."
+    }
+]

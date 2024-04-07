@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should I behave at a party?",
+        "answer": "When attending a party, it's important to be on time and leave on time, as you don't want to make others wait or stay too long until everyone gets tired. Join in the games and activities wholeheartedly, but remember not to be too noisy or rough, and most importantly, don't break things. Avoid teasing or making fun of others, even in jest, as it can hurt their feelings. Be a good sport, whether you win or lose, and remember to always be polite, considerate, and above all, have fun together with everyone by being a good winner and a good loser. Following these guidelines will ensure that you have a great time at any party."
+    },
+    {
+        "question": "What should I do if I am invited to a party?",
+        "answer": "If you receive an invitation to a party, be sure to accept it graciously and be appreciative of the invitation. Make sure to be clean and neat when attending the party, as the focus should be on enjoying the company of others, not showing off your clothes. Remember to arrive on time and leave on time, as this shows respect for the host's schedule and ensures that everyone can have a good time. Join in the games and activities with enthusiasm, but be mindful not to be too noisy or rough, and always follow the rules of the games. Additionally, avoid teasing or making fun of others, and always be a good sport, whether you win or lose. By following these steps, you can make the most of your party experience and have a great time with friends and family."
+    },
+    {
+        "question": "How should I interact with others at a party?",
+        "answer": "When interacting with others at a party, it's important to be considerate and polite. Avoid teasing or making fun of others, as it can hurt their feelings and ruin the fun for everyone. Be a good sport in games and activities, whether you win or lose, and always follow the rules. Make sure to include everyone in the fun and be mindful of not being too noisy or rough. Remember to show appreciation to the host and other guests, and always be clean and neat when attending the party. By being considerate of others, following the rules, and having a positive attitude, you can have a great time and make the party enjoyable for everyone."
+    },
+    {
+        "question": "How can I ensure a positive party experience?",
+        "answer": "To ensure a positive party experience, it's essential to follow certain guidelines. Be on time and leave on time to respect the host's schedule and the enjoyment of all guests. Join in games and activities with enthusiasm, but be mindful not to be too noisy or rough and always follow the rules. Avoid teasing or making fun of others, as it can hurt their feelings and spoil the fun for everyone. Be a good sport, whether you win or lose, and remember to be polite, considerate, and clean and neat. By being considerate of others, following the rules, and having a positive attitude, you can contribute to a fun and enjoyable party atmosphere for everyone."
+    },
+    {
+        "question": "What are some key social behaviors to exhibit at a party?",
+        "answer": "When attending a party, it's important to exhibit key social behaviors to ensure a positive experience for yourself and others. Be on time and leave on time to show respect for the host and other guests. Participate in games and activities with enthusiasm, but be mindful not to be too noisy or rough, and always follow the rules. Avoid teasing or making fun of others, as it can hurt their feelings and disrupt the atmosphere. Be a good sport, whether you win or lose, and remember to be polite, considerate, and clean and neat. By exhibiting these social behaviors, you can help create a welcoming and enjoyable environment at the party for everyone involved."
+    }
+]

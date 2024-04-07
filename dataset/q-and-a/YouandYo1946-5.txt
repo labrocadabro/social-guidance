@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What should be done when receiving an invitation that is not suitable?",
+        "answer": "When receiving an invitation that is not suitable, it is important to respect the decision of those in charge, such as parents or guardians. It is essential to accept their decision gracefully and not argue or try to manipulate the situation. Instead, consider proposing an alternative plan that is more acceptable to everyone involved. This shows maturity and respect for the rules set in place by the family. By suggesting a compromise, such as having the event at home instead of going out, you demonstrate flexibility and understanding of the concerns raised by the initial invitation. Ultimately, it is crucial to handle the situation with poise and understanding, rather than defiance or resistance."
+    },
+    {
+        "question": "How should family housework be handled?",
+        "answer": "When it comes to family housework, everyone should contribute their fair share to ensure tasks are completed efficiently. It is important to be willing to help out when needed and not make excuses to avoid responsibilities. By being proactive and offering assistance, you show consideration for the needs of the family and promote a sense of teamwork. Avoiding conflicts and disagreements over chores is key to maintaining a harmonious household. Each family member should be willing to pitch in and do their part, without expecting others to do the work for them. By taking initiative and being proactive in completing tasks, you contribute to a positive and supportive family environment."
+    },
+    {
+        "question": "What is the appropriate response when coming home late?",
+        "answer": "When coming home late, honesty and accountability are crucial. It is important to communicate openly with family members about the reasons for the delay and show respect for any established rules or agreements. Making excuses or becoming defensive will only lead to further misunderstandings and conflicts. By acknowledging any mistakes and accepting the consequences of coming home late, you demonstrate maturity and responsibility. It is important to follow through with any agreed-upon consequences, such as not being able to go out for a week, to show that you respect the family's expectations. By handling the situation with honesty and integrity, you can maintain trust and open communication within the family."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my table manners?",
+        "answer": "Improving table manners involves sitting up straight, using a napkin properly, and asking for food to be passed instead of reaching for it. It's important to eat neatly and avoid slurping or spilling food. Being a little gentleman or lady at the table involves being proud of your good manners and knowing how to conduct yourself properly. Remember that any drip can be a pig, but it takes a smart person not to be one. Being polite and well-mannered is not being a sissy, and listening to bad advice doesn't get you anywhere. Excusing yourself and leaving the table when necessary is also part of displaying good table manners. So, practice sitting properly, using a napkin, and eating neatly to improve your table manners and be proud of your good behavior."
+    },
+    {
+        "question": "How should I behave when playing sports?",
+        "answer": "When playing sports, it's important to be a good sport and play fair. Being a good sport means playing for the team, not just for yourself. It also involves showing good sportsmanship by tackling hard and fairly, kicking properly, and developing your muscles. Winning is important, but it's equally important to lose graciously with a smile if needed. Remember that acting to others the way you would like them to act to you is the essence of good sportsmanship. So, play fair, play for the team, and always exhibit good sportsmanship, as that is something everyone admires."
+    },
+    {
+        "question": "How can I maintain a clean and tidy room?",
+        "answer": "Maintaining a clean and tidy room involves picking up and putting away scattered clothes and toys. Hang up your clothes neatly in the closet and put away toys in designated storage areas. Take a moment to ensure everything is ship-shape and in its proper place before leaving the room. Pay attention to detail and cleanliness, just like the cadets at West Point and naval officers at Annapolis do in their barracks and living quarters. By adopting their habits of being orderly, clean, and tidy, you can ensure that your room remains clean and tidy. Remember, even a little effort can make a big difference in maintaining a clean and organized living space."
+    },
+    {
+        "question": "How can I avoid being selfish and rude?",
+        "answer": "Avoiding selfish and rude behavior involves being considerate of others and playing fair in social situations. It's important to remember that acting selfishly and rudely can lead to being perceived as a bad sport and a bully. Instead of demanding things for yourself, offer to share and be generous with others. Treat your friends and teammates with respect and fairness, and avoid displaying rude or aggressive behavior. By practicing good sportsmanship, sharing, and showing consideration for others, you can avoid being seen as selfish and rude. Remember, being a good sport and playing fair are qualities that will earn you respect and admiration from others."
+    },
+    {
+        "question": "How can I transition from bad behavior to good behavior?",
+        "answer": "Transitioning from bad behavior to good behavior requires a conscious effort and dedication to change. Start by acknowledging the negative behaviors you want to change and recognizing the impact they have on yourself and others. Commit to making a change and taking immediate action to improve your behavior. Practice good habits like cleanliness, tidiness, good manners, and sportsmanship consistently. Remember that good behavior is a choice that requires effort and perseverance. By emulating positive role models and setting goals for yourself, you can gradually transition from bad behavior to good behavior. Stay focused on your goal and remember that small steps in the right direction can lead to significant positive changes in your behavior."
+    }
+]

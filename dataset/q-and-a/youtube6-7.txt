@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do social controls such as custom, moral code, and law affect our daily lives?",
+        "answer": "Social controls like custom, moral code, and law play a crucial role in regulating our daily lives and interactions with others. Custom dictates what we usually do, setting expectations for our behavior based on tradition and cultural norms. Moral code, on the other hand, guides us on what we should and should not do, reflecting deeper societal values and standards. Lastly, law outlines what we must do, establishing rules and boundaries that govern our actions. Together, these social controls help us navigate social situations, make decisions, and maintain order within our communities. By adhering to customs, following moral codes, and obeying laws, we contribute to the social harmony and cohesion of society."
+    },
+    {
+        "question": "What happens when we violate customs and moral codes?",
+        "answer": "Violating customs and moral codes can have varying consequences in society. When we violate customs, which are norms of behavior, we may experience a loss of prestige or standing within a community. While the repercussions may not be severe, breaking customs can lead to social disapproval or ostracization from certain groups. On the other hand, breaching moral codes, which reflect deeper societal values and standards, can result in more serious consequences. Individuals who violate moral codes may face a loss of social status, exclusion from social groups, or being labeled as outcasts. Therefore, it is important to respect customs and moral codes to maintain social order, uphold community values, and foster positive relationships with others."
+    },
+    {
+        "question": "How do laws influence our behavior and social interactions?",
+        "answer": "Laws have a significant impact on our behavior and social interactions by setting clear guidelines and consequences for our actions. Unlike customs and moral codes, which are based on tradition and values, laws are formal rules created by representatives of the people and enforced by established means. Laws serve to direct individuals on what is considered right and prohibit behaviors deemed wrong by the majority. By adhering to laws, we contribute to the maintenance of social order, respect for authority, and the well-being of the community. Laws also provide a framework for resolving conflicts, protecting individual rights, and ensuring justice and fairness for all members of society."
+    },
+    {
+        "question": "How can social controls like custom, moral code, and law be used to govern ourselves?",
+        "answer": "Social controls such as custom, moral code, and law can be utilized to govern ourselves by establishing norms, values, and rules that guide our conduct and interactions with others. Custom dictates our everyday behaviors based on cultural traditions and expectations, while moral code sets ethical standards for what is considered right or wrong. Laws, as formal regulations, provide legal frameworks for maintaining order, resolving disputes, and upholding justice within society. By internalizing and adhering to these social controls, we can govern ourselves responsibly, make informed decisions, and contribute to the well-being and harmony of our communities. Embracing customs, moral codes, and laws allows us to navigate social situations, uphold shared values, and participate in collective decision-making processes for the common good."
+    },
+    {
+        "question": "What role do social controls play in shaping our communities and society?",
+        "answer": "Social controls like custom, moral code, and law play a fundamental role in shaping our communities and society by establishing norms, values, and regulations that guide individual and group behaviors. Customs define the traditions and practices that characterize a community, fostering a sense of identity and belonging among its members. Moral codes set ethical standards and principles that reflect the values and beliefs of society, promoting integrity, compassion, and respect for others. Laws serve as formal mechanisms for maintaining order, resolving conflicts, and upholding justice within communities, ensuring fairness and equality for all individuals. By upholding social controls, communities can foster cooperation, mutual understanding, and shared responsibility, leading to the development of a harmonious and inclusive society."
+    }
+]

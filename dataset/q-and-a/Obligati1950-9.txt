@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I avoid becoming disorganized and chaotic like Mr. Smith?",
+        "answer": "To avoid becoming disorganized and chaotic like Mr. Smith, it is important to learn how to handle your obligations. Take care of your own possessions and keep your room neat, clean, and habitable. This is not only an obligation you owe to your family but also to yourself. Additionally, make sure to get up early enough in the morning to have a pleasant and satisfactory meal before starting your day. Starting off in good health and good spirits can set a positive tone for the rest of your day. Furthermore, learning to live by a schedule and managing your time effectively can help prevent chaos in your life. By fulfilling your obligations, paying attention to your studies, and being organized, you can avoid the pitfalls of disorganization and chaos that Mr. Smith faced."
+    },
+    {
+        "question": "What should I do to make the most of my school experience?",
+        "answer": "To make the most of your school experience, it is crucial to pay close attention to your studies during school years. Your parents send you to school not just to comply with the law but to get everything possible out of the experience. Therefore, it is your obligation to make the most of school now, as it will benefit you greatly when you enter the workforce. By focusing on your studies, being diligent in your schoolwork, and seeking to learn as much as possible from your educational opportunities, you can maximize the benefits of your school experience and set yourself up for success in the future."
+    },
+    {
+        "question": "How should I handle radio and television time in a family setting?",
+        "answer": "In a family setting, it is important to handle radio and television time responsibly to avoid conflicts. To do so, make sure to prioritize your chores and homework before indulging in your favorite programs. By completing your responsibilities first, you can enjoy your leisure time without neglecting your obligations. Furthermore, when listening to the radio or watching TV, remember to keep the volume to yourself and avoid disturbing others. Respecting the time and space of your family members when it comes to media consumption can help maintain a harmonious and peaceful household environment."
+    },
+    {
+        "question": "How can I show pride in my home and contribute to a welcoming atmosphere?",
+        "answer": "To show pride in your home and contribute to a welcoming atmosphere, it is essential to take care of your living space and surroundings. This includes not waiting to be reminded to clean up the yard or maintain the appearance of your home. By proactively taking care of household chores and ensuring that your home looks its best, you can create a welcoming environment for both your family and guests. Additionally, when your parents entertain, remember that you share the role of host and should greet their guests graciously. Showing respect for your home, maintaining its cleanliness, and participating in household tasks can all contribute to a sense of pride in your living space and create a positive atmosphere for everyone."
+    },
+    {
+        "question": "How can I systematize my saving and financial habits to be prepared for future needs?",
+        "answer": "To systematize your saving and financial habits, it is important to allocate your money wisely and save for different purposes. Divide your share of family money into three parts: some for savings, some for something you want, and some for amusement. By creating a structured approach to saving and spending your money, you can ensure that you are prepared for future needs and desires. Managing your own funds and making decisions about how to allocate them can help you learn the value of money and develop responsible financial habits. By starting early and establishing good saving practices, you can set yourself up for financial success in the future."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I be a good citizen at school?",
+        "answer": "Being a good citizen at school involves being considerate of others and doing your part to ensure everyone can work and play happily together. This includes getting to school on time, helping others, being prepared for lessons, playing fair during recess, being cheerful and friendly, keeping your workspace clean, and respecting others' belongings. It's important to think ahead, be neat, and practice good manners to contribute positively to the school environment. By doing your best, being helpful, and treating others with kindness, you can establish yourself as a responsible and considerate member of the school community."
+    },
+    {
+        "question": "How can I help others at school?",
+        "answer": "Helping others at school can be as simple as noticing when someone needs assistance and offering to lend a hand. Whether it's tying a sash, sharing materials, or helping a classmate understand a lesson, every little act of kindness can make a big difference. By watching for opportunities to help and being attentive to the needs of others, you can contribute positively to the school community. Being a good citizen means being willing to assist those around you and making school a more supportive and inclusive environment for everyone."
+    },
+    {
+        "question": "Why is being prepared important at school?",
+        "answer": "Being prepared at school is essential because it helps you avoid disruptions and ensures that you can fully engage in learning activities. By thinking ahead and organizing your materials, you can focus on the task at hand without causing distractions for others. Preparation also shows respect for your own education and the learning environment. By having the necessary supplies, being on time, and planning ahead, you demonstrate responsibility and consideration for your classmates and teachers. Being prepared is a key aspect of being a good citizen at school and contributes to a positive and productive academic experience for everyone."
+    },
+    {
+        "question": "How can I be a good citizen during recess?",
+        "answer": "During recess, being a good citizen involves playing games that everyone can enjoy, participating in group activities, and being inclusive of others. By communicating your preferences and being open to different game choices, you contribute to a harmonious play environment. Additionally, playing safely and considering the well-being of others, such as making sure no one is in the way before throwing a ball, is important for creating a safe and enjoyable recess experience. Being mindful of others' feelings, preferences, and safety during recess demonstrates good citizenship and fosters a sense of community among classmates."
+    },
+    {
+        "question": "How can I show respect for others' belongings at school?",
+        "answer": "Respecting others' belongings at school is a crucial aspect of being a good citizen. This includes not damaging or destroying items that belong to others or the school. By being careful and considerate with shared materials, you show respect for the property of your peers and the educational institution. If accidents happen, such as dropping papers, it's important to pick them up and take responsibility for maintaining a clean and orderly environment. Being mindful of others' possessions and treating them with care is a fundamental part of demonstrating good citizenship and fostering a sense of mutual respect within the school community."
+    }
+]

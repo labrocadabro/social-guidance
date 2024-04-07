@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I avoid living in a state of perpetual chaos?",
+        "answer": "To avoid living in a state of perpetual chaos, it is important to learn how to organize your life and handle your obligations. Start by taking care of your own possessions and keeping your room neat, clean, and habitable. This is not only an obligation you owe to your family but also to yourself. Additionally, make sure to get up early enough in the morning to have a pleasant and satisfactory meal before the day begins. Starting off the day in good health and good spirits sets a positive tone. It is also crucial to live by some sort of schedule, ensuring that it doesn't get ahead of you. By learning to keep a schedule, you will find that living by the clock is not a burden. Lastly, pay close attention to your studies during school years, as it is your obligation to make the most of your education. Taking these steps will help you avoid the chaos that can come from neglecting your responsibilities."
+    },
+    {
+        "question": "How can I be a gracious host when my parents entertain guests?",
+        "answer": "When your parents entertain guests, you share the role of host in your home, and it is important to meet their guests graciously. Make sure to remember that your home is also your parents' home, and they want you to be part of the pride they feel in it. Greet their guests warmly and make them feel welcome. Show interest in their conversations and engage with them politely. It is essential to be a gracious host by offering assistance where needed, such as serving refreshments or engaging in polite conversation. By participating in your parents' entertaining and showing respect to their guests, you contribute to creating a welcoming and hospitable environment in your home."
+    },
+    {
+        "question": "How can I manage my personal finances effectively?",
+        "answer": "Managing your personal finances effectively involves dividing your share of family money into three parts. Allocate some money to save for savings sake, ensuring that you maintain a steady record of deposits. Set aside another portion of money to save for something you want, whether it's a new item of clothing or a specific item you desire. Lastly, designate a portion of money to spend for amusement, such as going to the movies or enjoying a treat. It is up to you to decide how much money to allocate to each purpose, allowing you to manage your own funds responsibly. By practicing good financial habits and understanding the value of money, you will be better equipped to handle your finances as you grow older."
+    },
+    {
+        "question": "How can I ensure I fulfill my obligations to others in my family?",
+        "answer": "To ensure you fulfill your obligations to others in your family, it is important to systematize your saving and spending habits. By creating a pattern of good living habits early on, you can easily meet your responsibilities. Start by taking care of family possessions when you borrow them, ensuring they are returned on time and in good condition. This shows respect for the belongings of others in your family. Additionally, make sure to contribute to household tasks and responsibilities, such as keeping your room clean or assisting with chores. By being proactive in fulfilling your obligations and demonstrating consideration for others in your family, you will build strong relationships and a sense of mutual respect within your household."
+    },
+    {
+        "question": "How can I avoid conflicts over radio and television time in my family?",
+        "answer": "To avoid conflicts over radio and television time in your family, prioritize your chores and homework before indulging in your favorite programs. By completing your responsibilities first, you can enjoy your leisure time without causing disruptions to others. Remember to keep the volume of the radio or television at a reasonable level and confine the sound to the room in which it is played. This ensures that only those who wish to listen can do so, respecting the peace and privacy of others in the household. By managing your time effectively and being considerate of the preferences of those around you, you can prevent conflicts over entertainment choices and maintain a harmonious atmosphere at home."
+    }
+]

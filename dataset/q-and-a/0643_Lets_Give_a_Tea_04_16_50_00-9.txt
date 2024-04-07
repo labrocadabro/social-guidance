@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How should one dress appropriately for a formal event?",
+        "answer": "Dressing appropriately for a formal event involves choosing attire that is formal but in good taste. When acting as a hostess, avoid overly elaborate ensembles and opt for something simple and dignified. Avoid wearing coats, fur coats, gloves, hats, heavy ornaments, or corsages while serving tea. Remember that good taste in dress depends more on line and color than on richness or ornamentation. Dressing formally does not require a large or expensive wardrobe, but it does require learning what is in good taste. Choose clothes that set off your personality to best advantage, and always keep in mind that etiquette and taste must be learned to make a good impression."
+    },
+    {
+        "question": "What are the key elements of hosting a tea party?",
+        "answer": "Hosting a tea party involves paying attention to details and ensuring that guests are served with grace and elegance. When setting up for a tea party, ensure that everything is placed within easy reach. When serving guests, pour tea efficiently while developing graceful habits. Guests can help themselves to napkins, plates, spoons, and other items, and the pourer should inquire about their preferences for lemon, cream, or sugar. Remember that other drinks besides tea may be served, such as coffee or punch. Tea parties should foster a warm and sociable atmosphere, with the focus on showing friendliness, respect, and consideration for guests."
+    },
+    {
+        "question": "How should one handle RSVPs and invitations for a social event?",
+        "answer": "When sending out invitations for a social event, ensure that the invitation is formal, matching the formality of the occasion. Invitations should be sent out at least two weeks in advance to allow guests time to plan accordingly. Include essential details like the name, date, hour, place, and purpose of the event. The form of the invitation varies with the formality of the occasion, so tailor it to suit the event. Handwrite invitations clearly and neatly to convey a personal touch and ensure that the recipient can easily read the message. RSVPs should be handled promptly and courteously, accepting or declining the invitation with pleasure or regret as appropriate."
+    },
+    {
+        "question": "What is the importance of etiquette in social interactions?",
+        "answer": "Etiquette plays a crucial role in social interactions by demonstrating respect, consideration, and friendliness towards others. It is a means by which individuals show their respect for one another and foster positive relationships. Etiquette ensures that social gatherings are enjoyable and that guests feel welcomed and valued. By following proper etiquette, individuals can avoid misunderstandings, awkward situations, and offenses. It is essential to learn and practice etiquette to make a positive impression on others and create a harmonious social environment."
+    },
+    {
+        "question": "How can one ensure a successful and enjoyable social event?",
+        "answer": "To ensure a successful and enjoyable social event, pay attention to the details, remain gracious and considerate, and focus on fostering a warm and sociable atmosphere. Make sure that guests are served with grace and elegance, paying attention to their needs and preferences. Dress appropriately for the occasion, choosing attire that is formal but in good taste. Properly handle RSVPs and invitations to set the tone for the event. Remember that etiquette is key to creating a harmonious and enjoyable social gathering, where respect, consideration, and friendliness are paramount."
+    }
+]

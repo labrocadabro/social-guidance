@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important part of social behavior, but there are times when it is okay to keep something for yourself. It's important to consider the situation and the other person involved. If the item is personal and you earned it yourself, like Herb's chemistry set, it's okay to not share it if it could potentially harm the other person or if they are not ready to handle it safely. On the other hand, sharing is a way to show kindness and consideration for others, especially if it's something that can be enjoyed together without any negative consequences. So, the key is to be thoughtful and considerate when deciding whether or not to share something with others."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is involves fairness and following rules. One way to determine whose turn it is to do something, like wash the dishes in the case of Herb and Billy, is to establish a rule that everyone agrees on and then stick to it. In Herb and Billy's situation, their mother decided to mark turns on a calendar based on age, with Herb washing the dishes one day and Billy the next. This method ensures that everyone gets a fair chance to contribute and that no one feels left out or taken advantage of. By setting clear rules and following them consistently, it becomes easier to decide whose turn it is and avoid any conflicts or misunderstandings."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of good social behavior. Just like how Herb earned his chemistry set and had the right to keep it for himself, it's important to acknowledge and respect the belongings of others. This means not touching or using someone else's things without their permission, even if they are not around. It's about showing consideration and understanding that everyone has personal items that are important to them. By respecting other people's property, you demonstrate trustworthiness and build positive relationships based on mutual respect and trust. So, always ask for permission before using or handling someone else's belongings, and treat them with the same care and consideration you would want for your own possessions."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making up for mistakes is an essential part of being a responsible and considerate individual. When you realize that you have made a mistake, like Billy breaking Herb's test tube in the story, it's important to take responsibility for your actions and try to rectify the situation. This can involve apologizing to the person you have wronged, offering to fix or replace what was damaged, and taking steps to prevent similar mistakes in the future. By being honest about your errors, showing genuine remorse, and making amends, you demonstrate integrity and a willingness to learn from your mistakes. It's through these actions that you can earn back trust, respect, and maintain healthy relationships with others. So, always be willing to admit when you're wrong and take the necessary steps to make things right."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play encompasses a range of behaviors and attitudes that promote equality, honesty, and respect in social interactions. It involves treating others with kindness and consideration, following rules and guidelines, and being honest and transparent in your actions. Fair play also includes concepts like sharing, taking turns, respecting others' property, and making up for mistakes. It's about being mindful of how your actions impact those around you and striving to create a harmonious and fair environment for everyone. By practicing fair play, you contribute to a positive and inclusive social dynamic where trust, empathy, and cooperation flourish. So, always strive to play fair by being considerate, following rules, and treating others with the same respect and fairness you would want for yourself."
+    }
+]

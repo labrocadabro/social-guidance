@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make sure I have a good time at a party?",
+        "answer": "To have a good time at a party, it's important to be on time and leave on time. No one likes to wait for a party to start or to see it drag on for too long. Additionally, joining in games and activities wholeheartedly is key to having fun. Remember to be polite, follow the rules of the games, and be a good loser or winner. It's also crucial to be considerate of others, not teasing or making fun of anyone, even in a joking manner. By being clean, neat, and on time, and participating in games and activities in the right way, you can ensure you have a great time at any party."
+    },
+    {
+        "question": "How can I show good manners at a party?",
+        "answer": "Showing good manners at a party involves being considerate of others and following basic social etiquette. This includes being on time and leaving on time, as well as being polite and considerate towards others. When joining games or activities, it's essential to follow the rules, be a good loser, and not tease or make fun of others. Additionally, being clean and neat is important, as well as not being too noisy or rough. By remembering to thank the hostess, being considerate of others, and participating in activities in a respectful and appropriate manner, you can demonstrate good manners at a party."
+    },
+    {
+        "question": "How can I ensure I have a positive social experience at events?",
+        "answer": "To have a positive social experience at events, it's crucial to follow certain guidelines. Being on time and leaving on time is important to ensure you make the most of the event without causing any disruptions. By participating in games and activities with enthusiasm and following the rules, you can engage with others in a positive and enjoyable way. It's also essential to be polite, considerate, and show good manners towards others, avoiding teasing or making fun of anyone. By being clean, neat, and respectful, you can contribute to a positive social atmosphere at any event and ensure a pleasant experience for yourself and those around you."
+    },
+    {
+        "question": "How can I engage in games and activities at social gatherings?",
+        "answer": "Engaging in games and activities at social gatherings involves participating with enthusiasm while following the rules and being a good sport. It's important to be a good loser or winner, showing respect for others and not teasing or making fun of anyone. By joining in games wholeheartedly and being considerate of others, you can contribute to a positive and enjoyable social experience for everyone. Remember to be clean, neat, and on time, and avoid being too noisy or rough. By following these guidelines, you can engage in games and activities at social gatherings in a respectful and positive manner."
+    },
+    {
+        "question": "How can I be considerate and respectful at social events?",
+        "answer": "Being considerate and respectful at social events involves following certain behaviors and guidelines. It's important to be on time and leave on time to ensure you're not disrupting the event. Additionally, participating in games and activities with enthusiasm, following the rules, and being a good loser or winner shows respect for others. Avoid teasing or making fun of anyone, even in jest, as this can hurt others' feelings. By showing good manners, being clean and neat, and engaging in activities in a respectful way, you can demonstrate consideration and respect towards others at social events, contributing to a positive and harmonious atmosphere."
+    }
+]

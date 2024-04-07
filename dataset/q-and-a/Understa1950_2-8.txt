@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I become popular?",
+        "answer": "Becoming popular is not just about flashy cars, fancy clothes, or material possessions. True popularity comes from embodying qualities such as honesty, good sportsmanship, loyalty, and sincerity. These are the ideals that will truly make you popular in the eyes of others. Focus on being a good friend, showing respect to others, and being genuine in your interactions. By working towards these ideals, you will naturally attract people who appreciate and value your character, rather than superficial qualities."
+    },
+    {
+        "question": "How should I handle broken promises?",
+        "answer": "Broken promises can be disappointing, but it's important to understand that sometimes unforeseen circumstances can lead to promises being broken. Instead of dwelling on the broken promise, focus on understanding the situation and showing empathy towards the person who couldn't keep their promise. It's also crucial to communicate openly and honestly about your feelings, just like Jeff did when he explained his situation to June. By handling broken promises with grace and understanding, you can maintain healthy relationships and move forward positively."
+    },
+    {
+        "question": "What are the qualities of a good friend?",
+        "answer": "A good friend embodies qualities such as honesty, loyalty, good sportsmanship, and sincerity. These qualities form the foundation of a strong and lasting friendship. Being reliable, supportive, and empathetic are also important aspects of being a good friend. Additionally, showing respect, being a good listener, and offering help when needed are key traits of a good friend. By prioritizing these qualities in your interactions with others, you can cultivate meaningful and fulfilling friendships that stand the test of time."
+    },
+    {
+        "question": "How can I set clear and strong ideals?",
+        "answer": "Setting clear and strong ideals involves reflecting on what values and principles are important to you. Identify qualities such as honesty, integrity, respect, and kindness that you want to embody in your daily life. It's essential to understand the significance of these ideals and how they can guide your actions and decisions. By aligning your behavior with your ideals, you can establish a strong moral compass that helps you navigate through life's challenges with integrity and purpose."
+    },
+    {
+        "question": "What role do ideals play in achieving success?",
+        "answer": "Ideals serve as guiding principles that shape your beliefs, actions, and decisions. Clear and strong ideals help you stay focused on your goals, make ethical choices, and maintain a sense of purpose. By aligning your actions with your ideals, you create a roadmap for success that is rooted in integrity and authenticity. Whether it's personal, professional, or social success you seek, having sound ideals will pave the way for you to achieve your aspirations with confidence and clarity."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my social courtesy at parties?",
+        "answer": "Improving social courtesy at parties involves being friendly, thoughtful, and considerate towards others. Start by being polite when calling for your date, showing simple friendliness by accepting invitations to come inside and engaging in conversation. Remember to be respectful to adults by rising when they speak to you and engaging in pleasant conversation. Making good introductions when meeting new people is key, as it helps to simplify and enhance social interactions. Additionally, being helpful, considerate, and joining in the fun can make you more approachable and enjoyable to be around. By practicing these behaviors and observing others, you can improve your social courtesy at parties and make a positive impression on those around you."
+    },
+    {
+        "question": "How can I show social courtesy when meeting new people?",
+        "answer": "When meeting new people, showing social courtesy involves making good introductions, engaging in polite conversation, and being respectful. Take the initiative to introduce yourself and others in a friendly and welcoming manner. Engage in conversation by asking questions, listening attentively, and showing genuine interest in the other person. Remember to be respectful towards others, especially adults, by using proper manners and being considerate of their feelings. By demonstrating kindness, friendliness, and genuine interest in others, you can show social courtesy when meeting new people and create positive interactions."
+    },
+    {
+        "question": "How can I be more polite and considerate at social events?",
+        "answer": "Being more polite and considerate at social events involves showing respect, kindness, and thoughtfulness towards others. Practice good manners by being courteous when calling for your date, engaging in polite conversation, and making introductions when meeting new people. Show respect towards adults by rising when they speak to you and engaging in pleasant interactions. Additionally, be helpful, considerate, and friendly towards others, and join in the fun to create a positive and enjoyable atmosphere. By being mindful of others' feelings, demonstrating kindness, and practicing good manners, you can be more polite and considerate at social events and make a positive impact on those around you."
+    },
+    {
+        "question": "How can I make a good impression by using social courtesy?",
+        "answer": "Making a good impression through social courtesy involves being friendly, thoughtful, and respectful in your interactions with others. Start by showing simple friendliness, accepting invitations, and engaging in polite conversation to create a positive atmosphere. Practice good manners by being considerate, helpful, and respectful towards others, especially adults. Make good introductions when meeting new people, and show genuine interest and kindness in your interactions. By being approachable, considerate, and engaging, you can make a good impression through social courtesy and leave a positive impact on those you interact with."
+    },
+    {
+        "question": "How can I demonstrate kindness and friendliness at social gatherings?",
+        "answer": "Demonstrating kindness and friendliness at social gatherings involves showing respect, consideration, and thoughtfulness towards others. Start by being polite and friendly in your interactions with others, engaging in conversation, and making introductions when meeting new people. Show genuine interest, listen attentively, and be helpful and considerate towards others to create a welcoming and positive atmosphere. Additionally, be respectful towards adults, rise when they speak to you, and engage in pleasant interactions. By demonstrating kindness, friendliness, and genuine interest in others, you can create a warm and welcoming environment at social gatherings and make a positive impression on those around you."
+    }
+]

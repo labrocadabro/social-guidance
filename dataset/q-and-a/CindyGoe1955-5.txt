@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I ensure I have a good time at a party?",
+        "answer": "To have a good time at a party, it's important to be on time and leave on time. No one likes to wait for a party to start, and prolonging it can spoil the fun for everyone. Additionally, be clean and neat, but remember you're not there to show off your clothes. Join in wholeheartedly in any games suggested and be a good loser if you don't win. Remember to be polite, considerate of others, and above all, enjoy the party with everyone involved. By following these guidelines, you'll ensure you have a good time at any party."
+    },
+    {
+        "question": "How can I be a good winner?",
+        "answer": "Being a good winner is essential to maintain a positive atmosphere at any gathering. It's important to show good sportsmanship and not gloat over your victory. Remember to be gracious and modest in your win, and always acknowledge the effort of others. Avoid rubbing your win in the face of others, even if it's just playful banter. By being a good winner, you'll encourage others to continue participating in games and activities without feeling discouraged or belittled."
+    },
+    {
+        "question": "How can I be a good loser?",
+        "answer": "Being a good loser is just as important as being a good winner. When you lose a game or competition, it's crucial to accept the outcome gracefully and without complaint. Avoid sulking or making excuses for your loss, and instead congratulate the winner. Remember that losing is a part of any game or activity, and it's how you handle defeat that truly shows your character. By being a good loser, you'll maintain a positive attitude and encourage others to continue participating in activities without fear of negative reactions."
+    },
+    {
+        "question": "How can I show consideration for others at a social event?",
+        "answer": "Showing consideration for others at a social event involves being mindful of your actions and how they may impact those around you. Avoid being too noisy or rough, as this can disrupt the atmosphere and make others uncomfortable. Refrain from teasing or making fun of others, even in jest, as it can hurt their feelings. Always be polite, show good sportsmanship, and participate in activities in a way that benefits everyone involved. By being considerate of others, you'll contribute to a positive and enjoyable social environment for all."
+    },
+    {
+        "question": "How can I practice good table manners at social gatherings?",
+        "answer": "Practicing good table manners at social gatherings is essential to making a positive impression and ensuring a pleasant dining experience for everyone. When seated, wait for others to be seated before starting your meal. Always use utensils properly and avoid making a mess while eating. Remember to be courteous and considerate of others at the table, such as not tipping bowls when eating soup or taking too much from shared dishes. By practicing good table manners regularly, you'll develop habits that come naturally and showcase your respect for others in social settings."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make and keep friends?",
+        "answer": "Making and keeping friends involves being open and approachable, taking the first step to introduce yourself and get to know others. It's important to be understanding of differences and respectful of varying opinions. Sharing activities, interests, and even secrets can help build a strong friendship based on trust and respect. Additionally, offering help and support when needed, being honest yet polite, and showing concern for your friends are essential in maintaining meaningful relationships. Remember that friendships are a two-way street, and it's crucial to put in effort to keep in touch, offer thoughtful help, and be patient and sensitive when your friends are going through tough times. Overall, being a good friend requires active participation and genuine care for others."
+    },
+    {
+        "question": "How should I approach meeting new people?",
+        "answer": "Approaching new people with an open mind and a friendly attitude is key to making new friends. Taking the initiative to introduce yourself and start a conversation can open up new possibilities for friendship. It's important to be understanding of potential differences and show respect for individual opinions. Making the first move, even if the other person is shy or reserved, can lead to the creation of a whole new world of friendship that didn't exist before. By being approachable and willing to engage with others, you can establish connections that may blossom into lasting friendships."
+    },
+    {
+        "question": "What are the qualities of a good friendship?",
+        "answer": "A good friendship is built on trust, respect, and mutual understanding. It involves sharing activities, interests, and even secrets with each other. Friends support and help one another, offer honest yet polite feedback, and show concern and care when needed. Respect for each other's privacy and the ability to let go if interests change over time are also important qualities in a friendship. Being truthful, patient, and sensitive to each other's needs are crucial aspects of a good friendship. Remember, a good friend is someone you can trust, rely on, and grow with as individuals."
+    },
+    {
+        "question": "How can I be a supportive friend?",
+        "answer": "Being a supportive friend involves showing concern, offering help, and being there for your friends when they need you. It's important to be patient and understanding, especially during difficult times, and to offer a helping hand without being asked. Friends should be truthful yet polite with each other, providing honest feedback and support when needed. Remember to show genuine care and sensitivity towards your friends' feelings and emotions, and be willing to lend a listening ear or a helping hand whenever necessary. Being a supportive friend means being there for each other through thick and thin, offering comfort, guidance, and encouragement when needed."
+    },
+    {
+        "question": "How can I maintain a strong friendship?",
+        "answer": "Maintaining a strong friendship requires effort, communication, and mutual respect. It's important to keep in touch with friends, even if it's just a note or a quick check-in, to show that you care and value the relationship. Respect for each other's privacy, interests, and opinions is crucial in maintaining a healthy friendship. Remember to be honest yet polite, patient, and sensitive towards your friends' needs and feelings. Offering help, support, and understanding when needed can help strengthen your bond with your friends. Remember that a strong friendship is a two-way street that requires active participation, communication, and care from both parties."
+    }
+]

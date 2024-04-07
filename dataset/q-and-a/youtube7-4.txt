@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I decide what is right in a difficult situation?",
+        "answer": "When faced with a difficult situation, it's important to consider the consequences of your actions on others. Think about how your decision will impact those around you and the larger community. It's also crucial to stick to your moral standards and values, even if it means making a tough choice. Take the time to weigh the options and think about the long-term effects of your decision. Remember, every action you take has the potential to influence others, so it's essential to act with consideration and empathy. Ultimately, trust your instincts and make the choice that aligns with your beliefs and values."
+    },
+    {
+        "question": "How can I help someone who is in trouble?",
+        "answer": "When someone you know is in trouble, it's important to offer support and guidance without enabling their behavior. Encourage them to take responsibility for their actions and help them understand the consequences of their choices. Avoid covering up for them or protecting them from facing the consequences of their actions. Instead, provide a listening ear, offer assistance in finding solutions, and connect them with resources that can help. Remember, true help involves empowering the person to make positive changes in their life and not shielding them from the outcomes of their actions."
+    },
+    {
+        "question": "What should I do if I witness a crime?",
+        "answer": "If you witness a crime, it's important to report it to the authorities and provide any information you have that could help in the investigation. Avoid taking matters into your own hands or trying to handle the situation on your own. Your safety and the safety of others should be a priority, so it's best to let trained professionals handle the situation. Cooperate with law enforcement and be honest in your account of what you saw. Remember, reporting a crime is not only the right thing to do, but it can also help prevent further incidents and ensure justice is served."
+    },
+    {
+        "question": "How can I navigate peer pressure to do something wrong?",
+        "answer": "When faced with peer pressure to do something wrong, it's essential to stay true to your values and convictions. Surround yourself with friends who share your beliefs and will support you in making the right choices. Practice assertiveness and say no confidently when confronted with negative influences. Remember that you are in control of your actions and have the power to make decisions that align with your moral compass. If necessary, remove yourself from situations where you feel pressured to engage in inappropriate behavior. Trust yourself and your judgment, and don't be afraid to stand up for what you believe is right."
+    },
+    {
+        "question": "How can I show integrity in difficult situations?",
+        "answer": "Showing integrity in difficult situations involves staying true to your principles and values, even when faced with challenges or temptations. Act in a way that is honest and ethical, regardless of the circumstances. Consider the impact of your actions on others and strive to make choices that align with what you believe is right. Communicate openly and transparently, and take responsibility for your decisions. Remember that integrity is about doing the right thing, even when no one is watching. By demonstrating integrity in difficult situations, you establish yourself as a trustworthy and principled individual."
+    }
+]

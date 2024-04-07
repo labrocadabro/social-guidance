@@ -1,0 +1,22 @@
+[
+	{
+		"question": "How can I make a good impression at work?",
+		"answer": "Making a good impression at work involves being reliable, respectful, and willing to learn. Show up on time, complete your tasks to the best of your ability, and be open to feedback and guidance from your supervisors. Take initiative when appropriate and show that you are eager to contribute to the team. By demonstrating a positive attitude and a strong work ethic, you can leave a lasting impression on your colleagues and superiors."
+	},
+	{
+		"question": "What are some ways to show consideration for others at school?",
+		"answer": "Showing consideration for others at school can be as simple as being polite, listening to your classmates, and offering help when needed. Treat others with kindness and respect, and be mindful of how your actions may impact those around you. Avoid gossiping or spreading rumors, and strive to create a positive and inclusive environment for everyone. Remember that small gestures of kindness can go a long way in making others feel valued and respected."
+	},
+	{
+		"question": "How can I handle disagreements with my family members?",
+		"answer": "Handling disagreements with family members requires patience, empathy, and communication. Try to listen to their perspective and express your own feelings calmly and respectfully. Avoid getting defensive or resorting to blame, and focus on finding common ground and understanding each other's point of view. It's important to take a step back and consider the bigger picture, and be willing to compromise and work towards a resolution that benefits everyone involved."
+	},
+	{
+		"question": "What should I do if I feel overwhelmed by my job search?",
+		"answer": "If you feel overwhelmed by your job search, it's important to take a step back and reassess your approach. Break down your goals into smaller, manageable tasks and create a plan of action. Reach out to your network for support and guidance, and consider seeking help from career counselors or employment services. Remember to take care of yourself and prioritize self-care during this stressful time. Stay positive and persistent, and don't be afraid to ask for help when you need it."
+	},
+	{
+		"question": "How can I prepare myself for the changing labor market?",
+		"answer": "To prepare yourself for the changing labor market, take the time to assess your skills, interests, and goals. Research different industries and job opportunities to understand where your talents and passions align. Consider pursuing further education or training to enhance your qualifications and adapt to evolving job market demands. Stay informed about industry trends and developments, and be proactive in seeking out new opportunities for growth and advancement. By staying adaptable and proactive, you can position yourself for success in a competitive job market."
+	}
+]

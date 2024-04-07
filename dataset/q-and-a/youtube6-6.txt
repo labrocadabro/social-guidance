@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do social controls like custom, moral code, and law affect our daily lives?",
+        "answer": "Social controls like custom, moral code, and law play a significant role in shaping our daily lives. Custom dictates what we usually do, setting the tone for our behavior in various situations. Moral code guides us on what we should and should not do, reflecting the deeper values ingrained in us. Law, on the other hand, lays out what we must do, setting boundaries and consequences for our actions. These social controls influence our decisions, interactions, and overall conduct, ensuring that we navigate society in a harmonious and respectful manner. By adhering to customs, following moral codes, and abiding by laws, we contribute to the overall social order and well-being of our communities."
+    },
+    {
+        "question": "What happens if we violate a custom?",
+        "answer": "Violating a custom may not have severe consequences, but it can lead to a loss of prestige or standing within a particular group or community. Customs are often social norms that dictate behavior, such as dressing neatly or being courteous to others. When we break these customs, we may face disapproval or judgment from those around us, impacting our reputation or social standing. While violating a custom may not result in legal repercussions, it can still affect how we are perceived by others and influence our relationships within the community."
+    },
+    {
+        "question": "How do moral codes differ from customs?",
+        "answer": "Moral codes go beyond customs by establishing societal standards of behavior based on deeper values and principles. While customs dictate what is generally done in a community, moral codes outline what is considered right or wrong according to shared beliefs and ethics. Breaking a moral code can result in more severe consequences than violating a custom, often leading to social exclusion or loss of status. In the context of the teen canteen, moral codes prohibit activities like drinking or gambling, reflecting the group's collective values and expectations for behavior. By upholding moral codes, individuals demonstrate their commitment to the group's principles and contribute to maintaining social cohesion."
+    },
+    {
+        "question": "How are laws created and enforced in society?",
+        "answer": "Laws are established by representatives of the people, typically through a legislative process, to regulate conduct and maintain social order. Once laws are enacted, they are enforced by designated authorities or institutions to ensure compliance and uphold the rule of law. Laws are a formal system of rules that prohibit certain behaviors and require specific actions, with consequences for violations. In democratic societies, laws are created to reflect the values and interests of the community, serving as a framework for governance and justice. By obeying laws and participating in the legislative process, individuals contribute to the functioning of society and the preservation of order."
+    },
+    {
+        "question": "Why is it important for communities to establish their own laws?",
+        "answer": "Communities establish their own laws to reflect their unique customs, moral codes, and values, ensuring that rules align with the specific needs and norms of the group. By creating local laws, communities can address issues and concerns that are relevant to their members, promoting harmony, safety, and cooperation. Local laws also empower communities to govern themselves and make decisions that benefit the collective well-being of their residents. Additionally, community-based laws help preserve cultural identity, uphold shared values, and maintain social order within the group. Through the establishment of their own laws, communities can shape their environments, foster cooperation, and strengthen social bonds."
+    }
+]

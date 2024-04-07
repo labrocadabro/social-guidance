@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make better decisions and think about consequences before acting?",
+        "answer": "Making better decisions involves taking a moment to think about the potential consequences of your actions before you act. It's important to consider how your choices may impact others and whether they align with your values. If you find yourself in a situation where you are unsure about the consequences of a decision, it's best to pause and reflect on the possible outcomes. By thinking ahead and being mindful of the possible repercussions, you can avoid making impulsive choices that may lead to negative consequences. Remember, it's always better to take a moment to think things through rather than rushing into a decision that you may regret later."
+    },
+    {
+        "question": "How can I be a good friend and support my friends in making the right choices?",
+        "answer": "Being a good friend involves supporting your friends in making the right choices, even if it means disagreeing with them or standing up for what you believe is right. It's important to communicate openly with your friends and express your concerns if you think they are heading down the wrong path. Encouraging your friends to think about the consequences of their actions and offering alternative solutions can help guide them towards making better choices. Remember that true friendship means caring for each other's well-being and helping each other grow into better individuals. By being a positive influence and providing support when needed, you can foster strong and healthy relationships with your friends."
+    },
+    {
+        "question": "How can I resist peer pressure and make decisions based on my own values?",
+        "answer": "Resisting peer pressure involves staying true to your values and beliefs, even when faced with pressure from others to act in a certain way. It's important to trust your instincts and not succumb to the influence of others if it goes against what you know is right. If you find yourself in a situation where you feel pressured to do something that you are not comfortable with, it's essential to assert yourself and politely decline. Surrounding yourself with friends who respect your boundaries and support your decisions can also help you resist peer pressure. Remember that it's okay to say no and prioritize your well-being over trying to fit in or please others."
+    },
+    {
+        "question": "How can I take responsibility for my actions and make amends when I make a mistake?",
+        "answer": "Taking responsibility for your actions involves owning up to your mistakes and acknowledging the impact they may have had on others. If you find yourself in a situation where you have made a mistake, it's important to apologize sincerely and make amends to those affected. Reflecting on your actions and learning from your mistakes can help you grow and become a more responsible individual. It's essential to take accountability for your choices and strive to make things right, even if it means facing consequences for your actions. By taking responsibility and showing genuine remorse, you can demonstrate integrity and earn the respect of those around you."
+    },
+    {
+        "question": "How can I avoid getting into trouble and making poor choices?",
+        "answer": "Avoiding trouble and making poor choices involves being aware of the potential consequences of your actions and thinking before you act. It's important to consider how your decisions may impact yourself and others, and whether they align with your values and principles. If you find yourself in a situation where you are unsure about the right course of action, it's best to seek guidance from someone you trust or take a moment to reflect on the possible outcomes. By being mindful of the choices you make and thinking ahead, you can avoid getting into trouble and make more informed decisions that reflect your character and integrity."
+    }
+]

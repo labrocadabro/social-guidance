@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I learn proper etiquette for social events?",
+        "answer": "Learning proper etiquette for social events involves paying attention to the small details and being considerate of others. Start by observing how others behave in similar situations and ask questions to clarify any uncertainties you may have. Reading books on etiquette can also be helpful in understanding the expectations for different events. It's important to remember that etiquette is simply a way of showing respect and consideration for others, so always keep that in mind when attending social gatherings. Practice what you've learned and don't be afraid to make mistakes, as long as you learn from them. Over time, proper etiquette will become second nature to you and you will be able to enjoy social events with confidence."
+    },
+    {
+        "question": "What are the key aspects of hosting a tea party?",
+        "answer": "Hosting a tea party involves several key aspects, such as sending out invitations in advance, choosing the correct attire, and planning appropriate entertainment. When sending invitations, make sure to include all necessary information like date, time, and location, as well as the purpose of the event. Dressing in good taste is essential, so avoid overly elaborate outfits and opt for formal yet simple attire. As for entertainment, choose activities that can be enjoyed by guests of all ages and interests. Remember that the main goal of a tea party is to show respect and consideration for your guests, so make sure to focus on creating a welcoming and enjoyable atmosphere for everyone."
+    },
+    {
+        "question": "How should I act as a guest at a formal event?",
+        "answer": "As a guest at a formal event, it's important to show respect and consideration for your host and other guests. When arriving, wait to be served or approach the tea table politely. Remove any accessories like gloves or veils and help yourself to the refreshments offered. Engage in polite conversation and be mindful of your manners throughout the event. If you are unsure about any specific customs or procedures, don't hesitate to ask for guidance. Remember that etiquette is about making others feel comfortable and respected, so always keep that in mind when attending formal events."
+    },
+    {
+        "question": "How can I improve my social skills at gatherings?",
+        "answer": "Improving your social skills at gatherings involves practicing good manners, being attentive to others, and showing genuine interest in those around you. Start by observing how others interact and follow their lead in terms of conversation topics and behavior. Engage in polite conversation, ask questions, and listen actively to what others have to say. Avoid dominating the conversation or being overly theatrical, as this can make others uncomfortable. Remember that social events are about connecting with others and making them feel welcome, so focus on being friendly, respectful, and considerate in all your interactions."
+    },
+    {
+        "question": "How can I ensure that I enjoy social events like tea parties?",
+        "answer": "To ensure that you enjoy social events like tea parties, it's important to approach them with an open mind and a willingness to learn. Focus on the social aspect of the event and see it as an opportunity to connect with others and make new friends. Pay attention to the details of etiquette and be considerate of those around you. Practice good manners and engage in polite conversation with other guests. Remember that the main goal of any social event is to show respect and consideration for others, so keep that in mind as you navigate the event. With a positive attitude and a genuine interest in making connections, you can truly enjoy social gatherings like tea parties."
+    }
+]

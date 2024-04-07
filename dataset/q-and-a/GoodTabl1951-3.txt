@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my table manners?",
+        "answer": "Improving table manners involves practicing common courtesy, consideration for others, and using common sense. Always remember to seat the girl first, wait for her to be seated before sitting down, and order your meal after she has ordered hers. When eating, use your knife and fork properly, eating with one mouthful at a time and placing your fork down when talking. After finishing your meal, place your knife and fork in a specific way to indicate you are done. When eating spoon foods like soup, remember to dip the spoon away from yourself and eat from the side of the spoon. Practice good table manners regularly at home so they come naturally when dining out. Observing others with good manners can also help in learning proper table etiquette. The key is to use common sense, be considerate of others, and enjoy your meal in a relaxed and pleasant environment."
+    },
+    {
+        "question": "Why are table manners important?",
+        "answer": "Table manners are important for several reasons. Proper table etiquette shows common courtesy and consideration for others, making mealtime enjoyable and relaxing for everyone. It provides an opportunity for families to talk, exchange news, and make plans. Good table manners also contribute to better digestion and overall health. Additionally, having good table manners is crucial when dining out or in professional settings, as it reflects positively on your character and can make a good impression on others. People often judge individuals based on their table manners, so practicing proper etiquette is essential for social interactions and making a positive impact on others."
+    },
+    {
+        "question": "What are some key aspects of practicing good table manners?",
+        "answer": "Practicing good table manners involves various key aspects. Always seat the girl first and wait for her to be seated before sitting down. Order your meal after she has ordered hers and eat with proper etiquette, using your knife and fork correctly. Remember to place your knife and fork in a specific way after finishing your meal. When eating spoon foods like soup, dip the spoon away from yourself and eat from the side of the spoon. Practice regular courtesy, consideration for others, and common sense when it comes to table manners. By following these key aspects, you can improve your dining experience and make a positive impression on those around you."
+    },
+    {
+        "question": "How can I remember the proper way to use silverware at the table?",
+        "answer": "To remember the proper way to use silverware at the table, always start from the outside and work your way in when using different utensils. Use the outer fork for salad, the next fork for the main course, and the innermost fork for dessert. When using a knife, hold the handles in your palms and cut the meat without tearing it apart. After placing food on your fork, lay it down when talking and park it properly after use. Remember to always use silverware from the outside in, following a logical progression for each course of the meal. By practicing this method regularly at home and observing proper etiquette, you can easily remember and apply the correct way to use silverware at the table."
+    },
+    {
+        "question": "How can I make a good impression with my table manners in social or professional settings?",
+        "answer": "To make a good impression with your table manners in social or professional settings, practice common courtesy, consideration for others, and common sense. Always seat the girl first, wait for her to be seated, and order your meal after she has ordered hers. Use proper etiquette when eating, including holding your fork correctly, eating with one mouthful at a time, and placing your fork down when talking. After finishing your meal, remember to place your knife and fork in a specific way to indicate you are done. When eating spoon foods, dip the spoon away from yourself and eat with proper etiquette. By following these guidelines and practicing good table manners regularly, you can make a positive impression in various social and professional situations."
+    }
+]

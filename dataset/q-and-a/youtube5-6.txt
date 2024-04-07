@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What does being a good friend entail?",
+        "answer": "Being a good friend means sharing activities, interests, and opinions with others. It involves offering help and support when needed, as well as being open and honest with each other. Good friends respect each other's privacy and rights, while also being patient and sensitive to each other's feelings. Keeping in touch, showing concern, and being equal in the relationship are all essential aspects of being a good friend. It is important to remember that friendship is a two-way street that requires effort to maintain and grow."
+    },
+    {
+        "question": "How can I make new friends?",
+        "answer": "To make new friends, one must be willing to take the first step and introduce themselves to others. It is essential to be understanding of different perspectives and be open to new experiences. By being proactive and initiating conversations, one can open up opportunities for new friendships. Making friends involves sharing activities and interests, as well as offering help and support when needed. It is important to be open, honest, and respectful in interactions with others to establish meaningful connections."
+    },
+    {
+        "question": "How can I maintain friendships?",
+        "answer": "Maintaining friendships requires effort and communication. It is important to keep in touch with friends, even if it's just a simple note or gesture to show you care. Being supportive and showing concern for your friends can help strengthen your relationship. Respecting each other's privacy and rights, as well as being equal in the relationship, are key elements in maintaining friendships. It is also essential to be truthful yet polite with your friends, offering help when needed, and being patient and sensitive to their feelings."
+    },
+    {
+        "question": "What should I do if a friendship no longer serves me?",
+        "answer": "If a friendship no longer aligns with your interests or needs, it is important to be honest with yourself and your friend. People change over time, and it is natural for friendships to evolve as well. It is better to remember the good times shared in the past rather than trying to force a friendship that no longer serves either party. Being open and honest with your friend about your feelings can help both parties move forward in a positive direction."
+    },
+    {
+        "question": "How can I offer help and support to my friends?",
+        "answer": "Offering help and support to friends involves being thoughtful and considerate of their needs. Sometimes, a helping hand can mean a lot to someone, even if they didn't ask for it. It is important to be truthful yet polite with your friends, offering assistance when needed, and being patient and sensitive to their feelings. Showing concern and being present for your friends, even in small ways, can make a big difference in their lives."
+    }
+]

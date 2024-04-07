@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I exhibit good sportsmanship in games?",
+        "answer": "To exhibit good sportsmanship in games, it is important to play fair, accept the referee's rulings, and not argue or make a fuss about calls. It is crucial to remember to play your best for the team, rather than just for yourself. This means making plays that benefit the team, even if it means passing to a teammate instead of shooting yourself. Additionally, taking the results well, whether you win or lose, is a key aspect of good sportsmanship. Congratulating the opposing team and showing respect for the game and the players involved is also essential. Good sportsmanship extends beyond just the game itself and includes how you handle wins and losses graciously."
+    },
+    {
+        "question": "How can I practice good sportsmanship on the street?",
+        "answer": "Practicing good sportsmanship on the street involves being considerate of others and thinking about what is best for the group. This may mean adjusting your actions, such as riding your bike at a slower pace to match the speed of pedestrians if you are riding with friends. It is important to avoid showing off or crowding others, and instead, focus on making sure everyone can have a good time together. Demonstrating good sportsmanship in everyday situations like walking or biking with friends fosters positive relationships and mutual respect."
+    },
+    {
+        "question": "Why is good sportsmanship important at home?",
+        "answer": "Good sportsmanship is important at home because it sets the tone for how family members treat each other. When accidents happen or disagreements arise, being a good sport means taking responsibility for your actions, showing respect for others, and handling situations with grace. Just like in a game, it is crucial to accept the results and move forward without causing unnecessary conflict. By practicing good sportsmanship at home, you contribute to a positive and harmonious environment where everyone feels valued and respected."
+    },
+    {
+        "question": "How can I demonstrate good sportsmanship with friends?",
+        "answer": "Demonstrating good sportsmanship with friends involves being considerate of their feelings and needs. This may include waiting your turn, sharing resources, or making decisions that benefit the group as a whole. It is essential to avoid showing favoritism or putting your own interests above those of your friends. By playing fair, following the rules, and going the extra mile to help out a friend, you show that you are a good sport and someone others can rely on. Good sportsmanship strengthens friendships and builds trust among peers."
+    },
+    {
+        "question": "What are the fundamentals of good sportsmanship?",
+        "answer": "The fundamentals of good sportsmanship include playing fair, playing your best for the team or group, and taking the results well, whether you win or lose. This means following the rules, showing respect for others, and handling victories and defeats with dignity. Good sportsmanship is also reflected in your attitude, actions, and how you interact with others. By being a good sport, you not only enhance the game experience for everyone involved but also earn the respect and admiration of those around you. Ultimately, practicing good sportsmanship leads to positive outcomes and a sense of pride in yourself."
+    }
+]

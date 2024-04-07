@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important aspect of being fair and considerate towards others. It is good to share things with others, especially if it can bring joy or benefit to them. However, there are times when it is also fair to keep certain things to oneself, especially if it involves safety or personal belongings. It's important to consider the situation and the well-being of others when deciding whether or not to share something."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is can be done in a fair and orderly manner. One way to determine whose turn it is by establishing clear rules and following them consistently. This can help avoid conflicts and ensure that everyone gets a fair chance. It is also important to consider factors such as age, responsibilities, and past contributions when deciding whose turn it is to do a certain task or activity."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of being a considerate and responsible individual. It is important to recognize and honor the boundaries and belongings of others, even if it may seem tempting to use or take something that does not belong to you. By respecting the property of others, you show that you value their possessions and rights, which fosters trust and good relationships with those around you."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making mistakes is a natural part of life, but it is important to take responsibility for them and make amends when necessary. If you make a mistake that affects others, it is important to acknowledge your error, apologize sincerely, and take steps to rectify the situation. This may involve offering help, replacing or fixing what was damaged, or simply showing remorse for your actions. By making up for your mistakes, you demonstrate integrity, humility, and a willingness to learn and grow from your experiences."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play encompasses a range of behaviors and attitudes that promote equality, respect, and consideration towards others. It involves being honest, following rules, sharing, taking turns, being helpful, and showing empathy towards others. Fair play also includes making decisions that benefit the greater good and being willing to compromise or sacrifice personal gain for the well-being of others. By practicing fair play, you contribute to a harmonious and positive environment where everyone can feel valued and respected."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are some basic health practices to keep in mind at home, in the neighborhood, and at school?",
+        "answer": "It is important to choose appropriate clothing for the weather to stay well, like wearing a snowsuit on cold days. Avoid sharing food with others to prevent the spread of germs. Remember to cover your sneeze to prevent spreading cold germs. Avoid putting fingers in your mouth, as it makes it easier for germs to enter your body. Blow your nose gently without pressing the nostrils closed. Keep your body warm and dry, especially your feet, to prevent catching a cold. If you do catch a cold, stay home to prevent spreading it to others. Consult a physician if your temperature goes over 100 degrees, especially during cold seasons. Practice good hygiene habits, such as washing hands before handling food. Avoid close contact with people who have colds to prevent getting sick. These basic health practices at home, in the neighborhood, and at school can help keep you and those around you well."
+    },
+    {
+        "question": "How can we show consideration for others in our daily interactions?",
+        "answer": "Showing consideration for others involves actions like not sharing food to prevent the spread of germs. Always carry a tissue with you to help others in need. Avoid wading into trouble by not forgetting important items like galoshes on rainy days. Cover your sneeze to prevent spreading cold germs to others. Blow your nose gently and avoid putting fingers in your mouth to stay healthy. If you're feeling unwell, stay home to avoid spreading sickness to others. Remember to wash your hands regularly, especially before handling food. By practicing good hygiene and being mindful of others, you can show consideration in your daily interactions."
+    },
+    {
+        "question": "How can we maintain good personal hygiene habits?",
+        "answer": "Maintaining good personal hygiene habits involves washing hands before handling food to prevent the spread of germs. Use soap and water to create a good lather, rinse hands well, and dry thoroughly with a clean towel. Avoid touching your face and putting fingers in your mouth to prevent illness. Cover your sneeze and cough to prevent spreading germs to others. Blow your nose gently without pressing the nostrils closed. Keep your body warm and dry, especially your feet, to avoid catching a cold. If you do catch a cold, stay home to rest and prevent spreading it to others. By following these personal hygiene habits, you can stay healthy and prevent the spread of illness."
+    },
+    {
+        "question": "How can we promote a healthy environment in our surroundings?",
+        "answer": "Promoting a healthy environment involves keeping your living space clean and organized. Use separate towels and washcloths for each family member to prevent the spread of germs. Have designated cups for each person to avoid sharing and spreading sickness. Teach children to spit into the toilet instead of on the floor to prevent the spread of disease. Maintain a clean and tidy washroom with soap, sponges, and signs for proper hygiene. Keep closets organized with boxes for items like rubbers and hangers for clothes. Regularly clean and sterilize dishes to prevent the spread of illness. By promoting cleanliness and organization in your surroundings, you can create a healthy environment for yourself and those around you."
+    },
+    {
+        "question": "How can we participate in maintaining a clean and healthy school environment?",
+        "answer": "Participating in maintaining a clean and healthy school environment involves taking on responsibilities like keeping washrooms attractive with proper supplies. Keep closets neat with designated boxes for items and hangers for clothes. Monitor the temperature and ensure proper ventilation in the school. Keep drawing materials clean and ready for use. Learn to do tasks like these at home to develop good habits. Help plan and participate in school activities like health programs and festivals. Regularly wash hands before handling food or participating in activities. By actively participating in maintaining a clean and healthy school environment, you contribute to the well-being of yourself and your peers."
+    }
+]

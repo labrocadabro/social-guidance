@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make friends and maintain friendships?",
+        "answer": "Making friends and keeping friendships alive requires effort and understanding. To make friends, you may need to take the first step and introduce yourself, as some people may be shy or not outgoing. By being open to new connections, you can open up a whole new world of possibilities. When maintaining friendships, it's important to show concern, support, and respect each other's privacy and rights. Keeping in touch, even with a simple note or gesture, can go a long way in keeping friendships strong. Additionally, being truthful but polite, offering thoughtful help when needed, and being patient and sensitive are key qualities in maintaining healthy relationships. Remember, friendships are a two-way street that requires mutual effort and understanding to thrive."
+    },
+    {
+        "question": "What qualities are important in a friendship?",
+        "answer": "Friendship is built on trust, respect, sharing, and caring. It's important to offer support, understanding, and honesty to your friends. Mutual sharing of activities, thoughts, and feelings helps friendships grow and strengthen. Respect for each other's differences, privacy, and rights is essential in maintaining a healthy relationship. Being patient, sensitive, and offering help when needed are key qualities in a good friendship. Remember, a good friend is someone who is there for you, respects you, and helps you grow as a person."
+    },
+    {
+        "question": "How should I approach meeting new people?",
+        "answer": "Meeting new people requires taking the initiative and making the first move. Not everyone may be outgoing, so introducing yourself can open up new possibilities for friendships. Be understanding of others' differences and be open to learning from them. By being open, friendly, and respectful, you can create new connections and grow your social circle. Remember, interesting people are everywhere, and by being proactive in your approach, you can expand your network and make meaningful connections."
+    },
+    {
+        "question": "How can I show respect and trust in a friendship?",
+        "answer": "Respect and trust are the foundation of a strong friendship. Showing respect involves listening to your friends, being honest but polite, and being considerate of their feelings and opinions. Trust is built by being reliable, keeping promises, and respecting each other's privacy and boundaries. Offering support, understanding, and showing genuine care for your friends also demonstrate respect and trust in a friendship. Remember, a good friend is someone you can trust and respect, and who reciprocates those feelings."
+    },
+    {
+        "question": "Why is it important to be a good friend?",
+        "answer": "Being a good friend is important because it helps you grow as a person and builds meaningful connections with others. Good friendships are based on trust, respect, and mutual understanding. By being a good friend, you offer support, care, and honesty to those around you. Maintaining healthy friendships requires effort, communication, and mutual respect. Being a good friend means being there for others, offering help when needed, and showing empathy and kindness. Remember, being a good friend not only benefits others but also enriches your own life with positive relationships and meaningful connections."
+    }
+]

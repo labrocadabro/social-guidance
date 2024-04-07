@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I show consideration for others when they want to play with me?",
+        "answer": "When someone wants to play with you, it's important to be considerate of their feelings and needs. If you are busy and cannot play at that moment, it's best to kindly explain that you have other things to do and suggest playing at a later time. Avoid being dismissive or rude, as this can hurt the other person's feelings. Remember, it's important to treat others the way you would want to be treated. If you find yourself in a situation where you are unable to play with someone, try to find a compromise or alternative activity that can include them later on. By showing kindness and understanding, you can maintain positive relationships with others and avoid making them feel neglected or unimportant."
+    },
+    {
+        "question": "What should I do when someone is in my way and I am busy?",
+        "answer": "When someone is in your way and you are busy, it's important to communicate your needs clearly and assertively. Instead of getting frustrated or upset, calmly explain to the person that you have tasks to complete and need space to do so. Use polite language and avoid being rude or dismissive, as this can create tension and conflict. If the person continues to be in your way, try to find a compromise or solution that allows both of you to coexist peacefully. Remember, everyone has their own responsibilities and it's important to respect each other's boundaries. By handling the situation calmly and respectfully, you can avoid unnecessary conflicts and maintain positive relationships with others."
+    },
+    {
+        "question": "How can I prevent causing trouble when others are busy?",
+        "answer": "To prevent causing trouble when others are busy, it's essential to be mindful of your actions and consider how they may impact those around you. If you see that someone is occupied with a task, try to find ways to entertain yourself independently without disrupting their work. Avoid seeking attention or engaging in activities that may interfere with their focus or productivity. It's also important to respect other people's time and priorities by not demanding their immediate attention when they are preoccupied. By being self-aware and considerate of others' needs, you can prevent causing trouble and maintain a harmonious environment for everyone."
+    },
+    {
+        "question": "How can I be a helpful and considerate companion to others?",
+        "answer": "Being a helpful and considerate companion involves being attentive to the needs and feelings of those around you. When someone reaches out to you for interaction or assistance, make an effort to respond positively and respectfully. Avoid brushing off their requests or dismissing them, as this can make the other person feel unimportant or neglected. Show empathy and understanding by listening to their concerns and offering support when needed. Additionally, be proactive in offering your help and companionship to others, even when they may not explicitly ask for it. By demonstrating kindness and thoughtfulness in your interactions, you can build strong and meaningful relationships with those around you."
+    },
+    {
+        "question": "What can I do to make sure others feel valued and included?",
+        "answer": "To ensure that others feel valued and included, it's important to actively engage with them and show genuine interest in their well-being. Take the time to listen to their thoughts and feelings, and offer your support and encouragement when needed. Avoid excluding or ignoring people, as this can make them feel isolated and unappreciated. Make an effort to include others in your activities and conversations, and be mindful of their perspectives and experiences. By fostering a sense of belonging and acceptance, you can create a welcoming and inclusive environment where everyone feels respected and valued."
+    }
+]

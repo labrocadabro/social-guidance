@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I ensure my table manners are correct?",
+        "answer": "To ensure your table manners are correct, pay attention to small details such as the placement of utensils, napkins, and glassware. Make sure to place your napkin correctly, use the right utensils for each course, and keep your eating area neat and tidy. Additionally, be aware of proper etiquette when serving and passing food, such as serving ladies first and passing items to your right. It's also important to be considerate of others at the table and avoid distracting behaviors like talking with your mouth full or waving utensils around. By practicing good table manners regularly and being observant of others with good manners, you can ensure that your behavior at the table is appropriate and respectful."
+    },
+    {
+        "question": "How should I handle social situations like hosting a party?",
+        "answer": "When hosting a party, it's important to pay attention to details such as table arrangements, seating guests, and serving food. Ensure that your table is set correctly with the right placements for utensils, dishes, and glassware. When seating guests, consider factors like seating ladies first and directing guests to their places politely. Use common sense when ordering and serving food, and be attentive to the needs of your guests. It's also important to be observant of others' behavior and make adjustments if needed. Remember that the main goal of hosting a party is to ensure that everyone enjoys each other's company, so focus on creating a welcoming and comfortable atmosphere for your guests."
+    },
+    {
+        "question": "What are some common mistakes to avoid in social situations?",
+        "answer": "Common mistakes to avoid in social situations include incorrect placement of utensils and glassware, improper seating of guests, and distracting behaviors while eating. Ensure that your table is set correctly and that utensils are placed in the appropriate positions. When seating guests, consider factors like seating ladies first and offering assistance when needed. Avoid behaviors like talking with food in your mouth, waving utensils around, or monopolizing the conversation. By being mindful of these common mistakes and making an effort to correct them, you can ensure that your social interactions are respectful and considerate."
+    },
+    {
+        "question": "How can I improve my etiquette during meals?",
+        "answer": "To improve your etiquette during meals, focus on details such as using the correct utensils, passing food politely, and being considerate of others at the table. Pay attention to the placement of utensils and use the appropriate utensil for each course. When passing food, remember to serve ladies first and pass items to your right. Be aware of distracting behaviors like talking with food in your mouth or waving utensils around, and make an effort to correct them. By practicing good table manners regularly and being observant of others with good manners, you can improve your etiquette during meals and show respect for those around you."
+    },
+    {
+        "question": "How can I ensure my behavior at social gatherings is respectful?",
+        "answer": "To ensure your behavior at social gatherings is respectful, pay attention to details such as table arrangements, seating guests, and serving food. Ensure that your table is set correctly with the right placements for utensils, dishes, and glassware. When seating guests, consider factors like seating ladies first and offering assistance when needed. Use common sense when ordering and serving food, and be attentive to the needs of your guests. Additionally, be observant of others' behavior and make adjustments if needed. By focusing on creating a welcoming and comfortable atmosphere for your guests, you can ensure that your behavior at social gatherings is respectful and considerate."
+    }
+]

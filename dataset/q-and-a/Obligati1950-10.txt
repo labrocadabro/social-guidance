@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I avoid living in perpetual chaos like Mr. Smith?",
+        "answer": "To avoid living in perpetual chaos like Mr. Smith, it is important to learn how to organize your life and handle your obligations. Start by taking care of your own possessions and keeping your room neat, clean, and habitable. This is an obligation you owe to your family and yourself. Additionally, make it a habit to get up early enough in the morning to have a pleasant, satisfactory meal before the day begins. Starting off in good health and good spirits sets a positive tone for the day. Remember that living according to a schedule is a part of life, so learn to keep your schedule under control so it doesn't overwhelm you. Another key obligation is paying close attention to your studies during school years. Make the most of your educational experience to set yourself up for success in the future. By fulfilling these obligations and responsibilities, you can avoid the chaos that Mr. Smith finds himself in."
+    },
+    {
+        "question": "How can I handle radio and television time to avoid conflicts in the family?",
+        "answer": "To handle radio and television time to avoid conflicts in the family, it's important to prioritize your chores and homework before indulging in your favorite programs. By completing your responsibilities first, you can then enjoy your leisure time without causing disruptions. Remember to keep your radio or television usage confined to your own room, so that only those who wish to listen may do so. By being considerate of others in the household and managing your time effectively, you can prevent conflicts over entertainment choices and ensure a harmonious living environment for everyone."
+    },
+    {
+        "question": "How should I behave when my parents entertain guests?",
+        "answer": "When your parents entertain guests, it's essential to remember that you share the role of host in your own home. Show graciousness towards the guests and make them feel welcome and appreciated. Your parents want you to be a part of the pride they feel in their home, so meeting their guests graciously is an important obligation. Take an active interest in the guests and engage in polite conversation, showing respect and consideration for their presence. By participating in hosting duties and making guests feel comfortable, you contribute to a positive and welcoming atmosphere in your home."
+    },
+    {
+        "question": "How can I ensure I take good care of borrowed possessions in the family?",
+        "answer": "To ensure you take good care of borrowed possessions in the family, treat them with respect and responsibility. Make sure to return borrowed items on time and in the same condition as when you received them. Taking care of borrowed possessions is an obligation you owe to their owners, so handle them with care and gratitude. Avoid damaging or misplacing borrowed items by keeping track of them and returning them promptly. By demonstrating reliability and respect towards borrowed possessions, you maintain trust and goodwill within the family, fostering a sense of mutual responsibility and consideration."
+    },
+    {
+        "question": "How can I systematize my saving to meet my financial goals?",
+        "answer": "To systematize your saving and meet your financial goals, divide your personal allowance into three parts: savings for the future, savings for something you want, and spending for amusement. Allocate a portion of your allowance to save for savings' sake, setting aside money for long-term goals and emergencies. Then, designate another portion for saving towards specific items you desire, whether it's a new wardrobe piece or a hobby item. Finally, reserve a portion for spending on leisure activities, such as movies or treats. By managing your funds wisely and adhering to this saving system, you learn the value of money and develop responsible financial habits that will serve you well in the future."
+    }
+]

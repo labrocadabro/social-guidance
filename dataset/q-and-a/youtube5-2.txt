@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make friends?",
+        "answer": "Making friends involves taking the initiative and being open to new connections. It may require making the first move and introducing yourself to others, especially those who may seem shy or reserved. By being friendly and approachable, you can open up new possibilities for friendship. Remember, interesting people are everywhere, and you never know who you might connect with if you're willing to reach out."
+    },
+    {
+        "question": "What is the key to maintaining friendships?",
+        "answer": "Maintaining friendships requires effort and communication. Keeping in touch with friends, even if it's just a small gesture, can go a long way in showing that you care. It's important to show concern and support for your friends, especially during tough times. Respecting each other's privacy and being understanding of changing interests are also crucial in maintaining healthy and lasting friendships."
+    },
+    {
+        "question": "How should I handle disagreements with friends?",
+        "answer": "When facing disagreements with friends, it's important to be truthful but polite. Open and honest communication is key, but it should be done in a respectful manner. Being patient and sensitive to each other's feelings can help navigate through conflicts and misunderstandings. Remember to listen actively and be willing to apologize if necessary to maintain the friendship."
+    },
+    {
+        "question": "What should I do if a friend needs help?",
+        "answer": "Offering thoughtful help when a friend is in need is a hallmark of a good friendship. Even if your friend doesn't ask for assistance, reaching out and showing your support can mean a lot. Being there for your friend, whether it's through a kind gesture or simply being present, shows that you care and value the relationship."
+    },
+    {
+        "question": "How do I know when it's time to let a friendship go?",
+        "answer": "Recognizing when a friendship has run its course can be difficult but necessary for personal growth. People change, and interests may shift over time. It's important to be honest with yourself and your friend about the changing dynamics of the relationship. Remember to cherish the good memories and experiences shared, even if it means letting go to make room for new connections."
+    }
+]

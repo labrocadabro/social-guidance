@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I improve my table manners?",
+        "answer": "Improving table manners involves practicing courtesy, consideration for others, and common sense. Start by seating the lady first and waiting for her to be seated before sitting down. When ordering a meal, order after the lady has ordered hers. Eat properly with your knife and fork, using common sense and not making a mess. When finishing the meal, place your knife and fork in a specific way to show you are done. Handle spoon foods by dipping the spoon away from yourself when eating soup, and remember to eat from the side of the spoon. Showing courtesy and consideration towards others while dining is crucial, such as not tipping the bowl when eating soup and not eating too much from the spoon. Practice good table manners regularly at home, watch others with good manners, and use common sense in all situations to develop proper table etiquette naturally."
+    },
+    {
+        "question": "Why are good table manners important?",
+        "answer": "Good table manners are important for several reasons. They create a pleasant dining experience, allowing everyone to enjoy their meal and engage in conversation. Mealtime is an opportunity for relaxation and connection, where family members can talk, exchange news, and make plans. Proper table manners also contribute to better digestion and overall health. Additionally, having good table manners is crucial for making a positive impression in social settings, such as when dining out with a date or having lunch with a potential employer. People often judge others based on their eating habits, so practicing good table manners demonstrates respect, consideration, and common sense."
+    },
+    {
+        "question": "How can I handle different types of foods when dining?",
+        "answer": "When dining, it's important to know how to handle different types of foods. Finger foods, such as bread, can be eaten with your hands. For messier or sticky foods, like cream puffs, use a fork. Fork foods include meats, potatoes, vegetables, and salads, which should be eaten with the proper fork technique. Hold your fork correctly, place only one mouthful of food on it, and lay it down if you need to talk. After using your fork, park it neatly on the plate. When using a knife, hold it correctly in your palms and cut meat instead of tearing it. Finish your meal by placing your knife and fork in a specific way to signal you're done. Spoon foods, like soup, should be eaten by dipping the spoon away from yourself and eating from the side of the spoon."
+    },
+    {
+        "question": "What are the key principles of good table manners?",
+        "answer": "The key principles of good table manners include courtesy, consideration for others, and common sense. Always seat the lady first and wait for her to be seated before sitting down yourself. Order your meal after the lady has ordered hers to show respect. Eat with proper utensils, using common sense and not creating a mess. Place your knife and fork in a specific way after finishing your meal. Handle spoon foods by dipping the spoon away from yourself and eating from the side. Show courtesy by not tipping the bowl when eating soup and not overloading the spoon. Practice good table manners regularly at home to make them second nature and observe others with good manners to learn proper etiquette."
+    },
+    {
+        "question": "How can I make a good impression with my table manners?",
+        "answer": "To make a good impression with your table manners, remember the principles of courtesy, consideration for others, and common sense. When dining out, seat the lady first and wait for her to be seated before taking your seat. Order your meal after the lady has ordered hers, and eat properly with your knife and fork, using common sense and neatness. Finish your meal by placing your utensils in a specific way to signal you're done. When handling spoon foods, remember to dip the spoon away from yourself and eat from the side of the spoon. Showing courtesy and consideration towards others while dining will help you make a positive impression and be seen as a respectful and responsible individual."
+    }
+]

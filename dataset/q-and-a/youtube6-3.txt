@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do social controls like custom, moral code, and law impact our daily lives?",
+        "answer": "Social controls like custom, moral code, and law play a significant role in regulating our daily lives. Custom dictates what we usually do, while moral code guides us on what we should do. Law, on the other hand, enforces what we must do. These social controls influence our behavior in various settings, such as the teen canteen in the town. For example, the canteen has its own laws about closing time, and members are expected to abide by them. When individuals follow these social controls, they contribute to maintaining social harmony and order within the community. By understanding and respecting these social controls, individuals can navigate their daily interactions with greater awareness and consideration for others."
+    },
+    {
+        "question": "What happens when we violate customs?",
+        "answer": "Violating customs may lead to minor consequences, such as losing a little prestige. Customs are societal norms that dictate behaviors like dressing neatly and being courteous to others. While breaking a custom isn't typically serious, it can impact how one is perceived within their social group. People often adhere to customs out of habit and as a way to fit in with the larger community. By respecting and following customs, individuals can demonstrate their willingness to abide by established societal norms and show consideration for others in their social interactions."
+    },
+    {
+        "question": "How do moral codes influence our behavior?",
+        "answer": "Moral codes, also known as mores, are society's standards regarding what is considered right and wrong. These standards are deeply ingrained in individuals and guide their actions based on what is deemed proper within their community. For instance, in the teen canteen, there are rules against drinking or gambling, aligning with the moral code of the group. Breaking moral codes can result in a loss of social status and a sense of exclusion from the community. By upholding moral codes, individuals demonstrate their commitment to ethical behavior and contribute to the cohesion of their social group."
+    },
+    {
+        "question": "How are laws created and enforced in society?",
+        "answer": "Laws are a set of rules governing conduct that are established by representatives of the people and enforced through established means. Laws are created to prohibit actions deemed wrong by the majority and to direct behaviors that are considered right. These laws are enforced to ensure compliance and maintain order within society. For example, laws require individuals to attend school for their benefit and the benefit of society. By following and respecting laws, individuals contribute to the overall well-being and functioning of their community."
+    },
+    {
+        "question": "Why is it important to understand and abide by social controls?",
+        "answer": "Understanding and abiding by social controls such as custom, moral code, and law are crucial for maintaining social order and harmony. By following these controls, individuals show respect for established norms, contribute to the well-being of their community, and demonstrate consideration for others. Social controls help guide behavior in various settings, ensuring that interactions are conducted in a manner that aligns with societal expectations. Additionally, by adhering to social controls, individuals can avoid conflicts, promote cooperation, and foster a sense of unity within their community."
+    }
+]

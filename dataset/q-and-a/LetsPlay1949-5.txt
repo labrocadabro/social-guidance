@@ -1,0 +1,22 @@
+[
+    {
+        "question": "When should we share things?",
+        "answer": "Sharing is an important part of being considerate and fair. While it's nice to share with others, it's also important to remember that sometimes it's okay to keep certain things to yourself. You should consider factors like the other person's age, ability, and safety before deciding whether or not to share. It's perfectly acceptable to keep things that are personal or that you earned for yourself. Sharing is a choice, not an obligation, so it's important to strike a balance between being generous and taking care of yourself."
+    },
+    {
+        "question": "How do we decide whose turn it is?",
+        "answer": "Deciding whose turn it is can be a simple and fair process by setting rules and following them. One way to determine whose turn it is could be based on factors like age, ability, or previous turns. It's important to establish clear guidelines and stick to them to avoid any disagreements. Taking turns is a great way to promote fairness and ensure that everyone gets a chance to participate. By being consistent and respectful of the rules, you can make the decision-making process smooth and fair for everyone involved."
+    },
+    {
+        "question": "Should we respect the property of other people?",
+        "answer": "Respecting the property of others is a fundamental aspect of being a considerate and responsible individual. It's crucial to ask for permission before using or borrowing someone else's belongings and to treat them with care and respect. If you accidentally damage or break something that belongs to someone else, it's important to take responsibility for your actions and make amends. Showing respect for other people's property not only demonstrates good manners but also helps build trust and positive relationships with others."
+    },
+    {
+        "question": "What should we do to make up for our mistakes?",
+        "answer": "Making mistakes is a natural part of life, but it's essential to take responsibility for your actions and make amends when necessary. If you make a mistake that affects someone else, it's important to apologize sincerely and offer to fix the situation. This could involve replacing or repairing any damaged items, helping out with a task, or simply acknowledging your error. By showing genuine remorse and taking steps to rectify your mistake, you demonstrate integrity and respect for others, which can help strengthen relationships and build trust."
+    },
+    {
+        "question": "What is fair play?",
+        "answer": "Fair play involves treating others with respect, following rules, and making decisions that consider the feelings and well-being of everyone involved. It's about being honest, considerate, and responsible in your actions and interactions with others. Fair play means sharing when appropriate, taking turns, respecting others' property, and making up for mistakes when they occur. By practicing fair play, you contribute to a positive and harmonious environment where everyone feels valued and respected. Remember, playing fair isn't just about following the rules—it's about showing kindness, empathy, and integrity in all your interactions."
+    }
+]

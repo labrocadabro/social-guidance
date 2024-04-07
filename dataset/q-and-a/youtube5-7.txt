@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make and keep friends?",
+        "answer": "Making and keeping friends involves being open to meeting new people and making the first move, especially if the other person is shy. By introducing yourself and showing interest in others, you can open up new opportunities for friendships. It's important to be understanding of others' differences and to respect their opinions, even if they differ from your own. Sharing activities, interests, and thoughts helps build a friendship based on trust and respect. Keeping in touch with friends who have moved away, showing concern and support, and being truthful yet polite are essential in maintaining friendships. Friends should be equal and respect each other's rights, privacy, and needs. Remember, friendship is an active process that requires effort to make, keep, and be a friend."
+    },
+    {
+        "question": "How can I show respect and trust in a friendship?",
+        "answer": "Respect and trust are key components of a friendship. It's important to listen to your friends' opinions and offer sincere advice when needed. Being patient, sensitive, and understanding of your friends' feelings is crucial in showing respect. Sharing secrets, fears, doubts, and hopes with a friend shows that you trust them and value their input. Friends should offer different points of view and help each other learn and grow. Respect and trust in a friendship also involve being truthful yet polite, showing concern and support, and being equal and considerate towards each other. Remember, a friendship is a two-way relationship that requires mutual respect and trust."
+    },
+    {
+        "question": "How do I handle changes in a friendship?",
+        "answer": "People change over time, and it's natural for friendships to evolve as well. It's important to be able to let go if the time comes and to remember the good times shared in the past. Admitting when interests no longer align and parting on good terms is better than forcing a friendship that no longer fits. Friends should be able to understand and respect each other's changing needs and priorities. Thoughtful help, honest communication, and mutual understanding are crucial in handling changes in a friendship. Remember, it's okay for friendships to change as long as both parties are respectful and considerate towards each other."
+    },
+    {
+        "question": "How can I offer help and support to a friend?",
+        "answer": "Offering help and support to a friend involves being thoughtful, considerate, and understanding of their needs. Even if a friend doesn't ask for help, it's important to offer assistance when it's needed. Showing concern and reaching out to include them in activities can mean a lot to someone who may be going through a tough time. Friends should be truthful yet polite with each other, open and honest in their communication, and willing to lend a helping hand when needed. Remember, a good friend is patient, sensitive, and always there to offer support and guidance."
+    },
+    {
+        "question": "Why is it important to actively participate in a friendship?",
+        "answer": "Active participation in a friendship is essential because it requires effort to make, keep, and be a friend. Being open to meeting new people, making the first move, and sharing activities, interests, and thoughts help build a strong bond based on trust and respect. Respect and trust are fundamental in a friendship, requiring patience, sensitivity, and understanding towards each other. Keeping in touch with friends who have moved away, showing concern and support, and offering help when needed are all ways to actively participate in a friendship. Remember, friendship is a growth process that requires mutual effort and consideration to thrive."
+    }
+]

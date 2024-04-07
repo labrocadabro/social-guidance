@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I make and keep friends?",
+        "answer": "Making and keeping friends involves sharing activities, interests, and opinions with others. It's important to be open to meeting new people and making the first move to introduce yourself, especially if the other person is shy. Building a friendship requires trust, respect, and understanding of each other's differences. Friends should be able to offer sincere advice, a different perspective, and support when needed. It's also crucial to be patient, sensitive, and truthful with friends, while respecting their privacy and rights. Keeping in touch, showing concern, and offering help when needed are key aspects of maintaining friendships. Remember, friendships require effort and active participation to grow and thrive."
+    },
+    {
+        "question": "How do I meet new people and make friends?",
+        "answer": "Meeting new people and making friends often involves making the first move and introducing yourself to others. It's important to be open to different experiences and understand that interesting people are everywhere. By being understanding of others' differences and being willing to help or offer advice, you can start building meaningful connections. Sharing activities, interests, and opinions with others is a great way to initiate and strengthen friendships. Remember, not everyone will become a best friend, but by being open-minded and giving new relationships a chance, you may be surprised at the friendships you'll make and the things you'll learn."
+    },
+    {
+        "question": "How do I show respect and trust in a friendship?",
+        "answer": "Respect and trust are essential elements of a strong friendship. It's important to respect each other's thoughts, privacy, and rights. Being open, honest, and polite with your friends while offering support, understanding, and patience is key to building trust in a friendship. Friends should be able to share their feelings, fears, doubts, and hopes with each other, knowing that they will be respected and supported. It's crucial to be truthful and considerate in your interactions with friends, and to be willing to let go if the time comes when interests or needs change."
+    },
+    {
+        "question": "How can I be a supportive friend?",
+        "answer": "Being a supportive friend means showing concern, offering help when needed, and being there for your friends during challenging times. It's important to be patient, sensitive, and understanding of your friends' feelings and struggles. By being open, honest, and willing to listen, you can provide the support and comfort that your friends may need. Remember to be thoughtful in your actions, offer help even when it's not asked for, and be willing to lend a helping hand whenever it could mean a lot to someone. Supporting your friends through both the good and the tough times is a sign of a strong and lasting friendship."
+    },
+    {
+        "question": "How do I maintain a friendship over time?",
+        "answer": "Maintaining a friendship requires effort, communication, and active participation from both sides. It's important to keep in touch, show concern, and offer support to your friends, even if it's just a small gesture like sending a note or checking in. Respecting each other's privacy, rights, and changing needs is crucial in maintaining a healthy friendship. Being truthful, patient, and considerate of your friends' feelings while being open and honest in your interactions is key to sustaining a lasting relationship. Remember that friendships evolve over time, and it's essential to be willing to let go if interests or needs change, while cherishing the good memories and experiences shared."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Can you be satisfied just to have fun with the rest of them?",
+        "answer": "Being able to have fun with others and enjoy shared activities is an important part of social behavior. It's essential to learn to be content with the company of friends and not feel the need to show off or bully others to feel important. By participating in group activities and engaging with your peers in a positive and inclusive manner, you can develop strong social bonds and create lasting memories. Remember, true satisfaction comes from genuine connections and shared experiences, not from dominating or intimidating others."
+    },
+    {
+        "question": "Are you really so brave or are you the one who is afraid?",
+        "answer": "Bravery is not about exerting power over others or instilling fear in them. True courage lies in being able to face challenges and adversities with integrity and empathy. Bullying or intimidating behavior often stems from insecurity and fear, rather than actual bravery. It takes strength to be kind, respectful, and considerate towards others, even in the face of pressure or negative influences. So, ask yourself, are you truly brave in your actions, or are you masking your fears with harmful behavior?"
+    },
+    {
+        "question": "Have you learned anything from the way the class has treated you?",
+        "answer": "Reflecting on how others treat you can be a valuable learning experience. If you've been on the receiving end of unkindness or exclusion, it's important to consider how that made you feel and how it might impact others. Understanding the impact of hurtful behavior can help you develop empathy and compassion towards others. Remember, treating others with kindness and respect is not only the right thing to do, but it also fosters positive relationships and creates a welcoming environment for everyone."
+    },
+    {
+        "question": "How will you treat Chick Allen now?",
+        "answer": "When interacting with someone like Chick Allen, who may exhibit bullying behavior or negative tendencies, it's crucial to approach them with understanding and patience. Instead of resorting to retaliation or aggression, try to empathize with their situation and offer support or guidance. By showing compassion and kindness towards individuals who may be struggling, you can help them overcome their negative behaviors and foster a more positive environment for everyone. Remember, treating others with respect and empathy can have a powerful impact on their behavior and overall well-being."
+    },
+    {
+        "question": "Do you still think you handled the bully problem in the right way?",
+        "answer": "Reflecting on how you've addressed bullying or negative behavior in the past can help you evaluate your actions and consider alternative approaches. If you feel that your response could have been more compassionate or understanding, it's never too late to make amends and strive for a more positive interaction in the future. Learning from past experiences and seeking to handle conflicts with empathy and respect can lead to healthier relationships and a more inclusive social environment. Remember, it's okay to reassess your actions and make changes for the betterment of yourself and those around you."
+    }
+]

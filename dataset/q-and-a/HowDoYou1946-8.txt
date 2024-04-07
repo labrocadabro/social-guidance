@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How can I properly introduce people to each other?",
+        "answer": "Properly introducing people to each other involves addressing the woman first when introducing a man to her. It is important to remember to speak the woman's name first and then introduce the man. This helps avoid any confusion and shows respect. Additionally, it is essential to acknowledge the introduction by responding with a simple 'How do you do?' unless there is a good reason to say something else. It is also a good practice to make your response personal by mentioning something in common or acknowledging what you have heard about the person before. When introducing people, it is crucial to remember that men shake hands with a comfortable, firm grasp, and only if the woman holds out her hand first. Men do not shake hands with women unless the woman initiates the handshake. Finally, when introducing someone, it is polite to rise from your seat to greet them, showing that you are pleased to meet them. Following these basic rules of introductions will help create a positive and respectful social interaction."
+    },
+    {
+        "question": "How should I respond to introductions?",
+        "answer": "When responding to introductions, it is important to keep it simple and stick to the accepted form of greeting by saying 'How do you do?' in a straightforward manner. It is also good practice to make your response personal by including the person's name in your reply, as it helps in fixing the person's name in your memory and shows attentiveness. Acknowledging the introduction by mentioning something in common or what you have heard about the person before can help break the ice and make the interaction more engaging. Men should shake hands with a comfortable, firm grasp, avoiding overly strong or weak handshakes. It is essential to remember that men do not shake hands with women unless the woman extends her hand first. By following these guidelines in responding to introductions, you can show respect, attentiveness, and create a positive social interaction with others."
+    },
+    {
+        "question": "When is it appropriate to shake hands?",
+        "answer": "Shaking hands is appropriate when meeting someone new or being introduced to someone for the first time. Men should shake hands with a comfortable, firm grasp, avoiding extremes in grip strength. It is important to remember that men do not shake hands with women unless the woman extends her hand first. When shaking hands, it is crucial to maintain eye contact, smile, and show genuine interest in the interaction. By following these guidelines on when and how to shake hands, you can demonstrate respect, confidence, and create a positive impression when meeting new people."
+    },
+    {
+        "question": "How should I initiate a handshake?",
+        "answer": "Initiating a handshake should be done with a comfortable, firm grasp, avoiding extremes in grip strength. When meeting someone new or being introduced to someone for the first time, it is essential to wait for the other person to extend their hand first before initiating a handshake, especially when it comes to men shaking hands with women. It is important to maintain eye contact, smile, and show genuine interest in the interaction when initiating a handshake. By following these guidelines on how to initiate a handshake, you can demonstrate respect, confidence, and create a positive impression when meeting new people."
+    },
+    {
+        "question": "How do I show warmth and sincerity in social interactions?",
+        "answer": "Showing warmth and sincerity in social interactions is essential for creating positive connections with others. It is important to put feeling behind your greetings and interactions, rather than just going through the motions. When meeting someone new or being introduced to someone, make sure to greet them with genuine warmth, enthusiasm, and a smile. Engage in active listening, show interest in the other person, and maintain a positive and open body language. By demonstrating warmth and sincerity in your social interactions, you can make others feel comfortable, valued, and appreciated, leading to more meaningful and enjoyable interactions with those around you."
+    }
+]
