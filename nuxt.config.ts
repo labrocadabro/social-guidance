@@ -10,11 +10,4 @@ export default defineNuxtConfig({
 			"Playfair Display": [600],
 		},
 	},
-	nitro: {
-		preset: 'node-server',
-	},
-	app: {
-		baseURL: '/',
-		buildAssetsDir: '/_nuxt/',
-	},
 });

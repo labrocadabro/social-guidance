@@ -1,5 +1,5 @@
 # Build stage
-FROM node:20-alpine as builder
+FROM node:20-alpine\
 
 WORKDIR /app
 
@@ -15,14 +15,8 @@ COPY . .
 # Build the application
 RUN npm run build
 
-# Production stage
-FROM node:20-alpine
-
 WORKDIR /app
 
-# Copy built application from builder stage
-COPY --from=builder /app/.output /app/.output
-COPY --from=builder /app/public /app/public
 
 # Expose the port the app runs on
 EXPOSE 3000
