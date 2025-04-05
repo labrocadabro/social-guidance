@@ -22,6 +22,7 @@ WORKDIR /app
 
 # Copy built application from builder stage
 COPY --from=builder /app/.output /app/.output
+COPY --from=builder /app/public /app/public
 
 # Expose the port the app runs on
 EXPOSE 3000
@@ -30,6 +31,8 @@ EXPOSE 3000
 ENV HOST=0.0.0.0
 ENV PORT=3000
 ENV NODE_ENV=production
+ENV NITRO_HOST=0.0.0.0
+ENV NITRO_PORT=3000
 
 # Start the application
 CMD ["node", ".output/server/index.mjs"]
